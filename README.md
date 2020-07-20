@@ -2,12 +2,13 @@
 
 ## licence
 
-This content is licensed under a Creative Commons licence: CC-BY-NC-SA. You can re-use this data for non-commercial reasons, with attributions, and provided you share any outputs on a similar licence. https://creativecommons.org/licenses/by-nc-sa/3.0/ 
+This content is licensed under a Creative Commons licence: CC-BY-NC-SA. You can re-use this data for non-commercial reasons, with attribution, and provided you share any outputs on a similar licence. https://creativecommons.org/licenses/by-nc-sa/3.0/ 
 
+## summary
 
-data files from British History Online's theses completed volumes
-*Theses Completed, 1901-1970* https://www.british-history.ac.uk/no-series/theses-1901-70
-*Theses Completed, 1970-2014* https://www.british-history.ac.uk/no-series/theses-1970-2014
+This repository contains data files from British History Online's theses completed volumes
+* *Theses Completed, 1901-1970* https://www.british-history.ac.uk/no-series/theses-1901-70
+* *Theses Completed, 1970-2014* https://www.british-history.ac.uk/no-series/theses-1970-2014
 
 
 ## what is in this repo
