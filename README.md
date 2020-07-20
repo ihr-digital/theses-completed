@@ -1,10 +1,16 @@
 # theses-completed
+
+## licence
+
+This content is licensed under a Creative Commons licence: CC-BY-NC-SA. You can re-use this data for non-commercial reasons, with attributions, and provided you share any outputs on a similar licence. https://creativecommons.org/licenses/by-nc-sa/3.0/ 
+
+
 data files from British History Online's theses completed volumes
 *Theses Completed, 1901-1970* https://www.british-history.ac.uk/no-series/theses-1901-70
 *Theses Completed, 1970-2014* https://www.british-history.ac.uk/no-series/theses-1970-2014
 
 
-# what is in this repo
+## what is in this repo
 * ```bho-syntax-1901-1970/```: the BHO XML for the volume on our website, this was rekeyed from print
 * ```bho-syntax-1901-1970/```: the BHO XML for the volume on our website, this was generated from the database output
 * ```database-output-1970-2014/```: theses complete information from the History Online database output as XML
