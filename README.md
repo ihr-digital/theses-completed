@@ -1,25 +1,25 @@
 # theses-completed
 
-## licence
+## Licence
 
-This content is licensed under a Creative Commons licence: CC-BY-NC-SA. You can re-use this data for non-commercial reasons, with attribution, and provided you share any outputs on a similar licence. https://creativecommons.org/licenses/by-nc-sa/3.0/ 
+This content is licensed under a Creative Commons licence: CC-BY-NC-SA. You can re-use this data for non-commercial reasons, with attribution, and provided you share any outputs on a similar licence. https://creativecommons.org/licenses/by-nc-sa/3.0/.
 
-## summary
+## Summary
 
 This repository contains data files from British History Online's theses completed volumes
 * *Theses Completed, 1901-1970* https://www.british-history.ac.uk/no-series/theses-1901-70
 * *Theses Completed, 1970-2014* https://www.british-history.ac.uk/no-series/theses-1970-2014
 
 
-## what is in this repo
+## What is in this repo
 * ```bho-syntax-1901-1970/```: the BHO XML for the volume on our website, this was rekeyed from print
 * ```bho-syntax-1901-1970/```: the BHO XML for the volume on our website, this was generated from the database output
-* ```database-output-1970-2014/```: theses complete information from the History Online database output as XML
-* ```flat-files-1970-2004/```: files organised as 1 thesis per line to enable grep on any string of interest 
-* ```scripts```: two python scripts used to convert the flattened files 1970-2004 into BHO XML, included so users can see how the BHO syntax was created and modify the scripts
+* ```database-output-1970-2014/```: theses complete information from the History Online database, output as XML
+* ```flat-files-1970-2004/```: files organised as 1 thesis per line to enable grep-like tools on any string of interest 
+* ```scripts```: two Python scripts used to convert the flattened files 1970-2004 into BHO XML, included so users can see how the BHO syntax was created and modify the scripts
 
 ## List of categories in the file 
-Note that some contain more than one place, eg Europe and Asia. We include in both components in such a case.
+Note that some contain more than one place, eg Europe and Asia. On BHO such theses would appear more than once in our listings, preferring ease of finding over ease of counting.
 
 
 _Periods_
@@ -91,10 +91,15 @@ _History type_
 
 
 
-
 ## Some example data searches using grep
 
-Grep and other line-orientated tools will work best in the ```flat-files-1970-2004/``` directory. An introductory guide to grep canbe found on the Programming Historian website: https://programminghistorian.org/en/lessons/research-data-with-unix
+To work with the data you will need a local copy on your machine. If you have the gree Git program installed you can either use a graphical program (such as GitKraken) or the command line to /clone/ the data. From the command line run:
+
+git clone https://github.com/ihr-digital/theses-completed/
+
+If you don't want to do this, click on the green 'Code' button on the page above and choose 'Download ZIP'.
+
+Grep and other line-orientated tools will work best in the ```flat-files-1970-2004/``` directory. An introductory guide to grep can be found on the Programming Historian website: https://programminghistorian.org/en/lessons/research-data-with-unix
 
 Here are a few example uses with the theses data. These are intended to be run from inside the ```flat-files-1970-2004/``` directory.
 
@@ -102,7 +107,7 @@ Here are a few example uses with the theses data. These are intended to be run f
 
 ``` grep -Ei "<categories[^<]+(International history|world)" *.txt```
 
-*Find all thess tagged as 'Britain and Ireland' and awarded in 2001*
+*Find all theses tagged as 'Britain and Ireland' and awarded in 2001*
 
 ``` grep -Ei "<categories[^<]+Britain and Ireland" *.txt | grep "<awarded>2001"```
 
