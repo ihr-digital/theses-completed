@@ -1,0 +1,6973 @@
+     41 Marks, Shula
+     41 Elton, G.R.
+     39 Briggs, J.H.Y.
+     35 Walls, A.F.
+     33 Watt, D.C.
+     31 Shepperson, G.A.
+     31 Mathias, P.
+     31 Deas, M.D.
+     30 Madden, A.F.
+     30 Hinsley, F.H.
+     28 Smout, T.C.
+     28 Bond, B.J.
+     27 Rose, M.E.
+     27 Barron, Caroline M.
+     26 Gray, J.R.
+     25 Snell, Keith D.M.
+     25 Joll, J.B.
+     25 Ferguson, W.
+     25 Butt, J.
+     25 Barrow, G.W.S.
+     24 Saville, J.
+     24 Robinson, R.E.
+     24 Raychaudhuri, T.
+     24 Mason, A.
+     24 Howard, M.E.
+     24 Forster, G.C.F.
+     24 Duffy, Michael
+     24 Dilks, D.N.
+     24 Cobb, R.C.
+     24 Ballhatchet, K.A.
+     23 Thane, Patricia M.
+     23 Nicholls, A.J.
+     23 Morrill, J.S.
+     23 Barker, T.C.
+     23 Abel-Smith, B.
+     22 Kedourie, E.
+     21 Phythian-Adams, C.V.
+     21 Owen, E.R.J.
+     21 Nelson, Janet L.
+     21 Morrill, John S.
+     21 Bynum, W.F.
+     21 Bebbington, David W.
+     20 McKitterick, Rosamond D.
+     20 Kushner, A.R.J. (Tony)
+     20 Johnson, D.W.J.
+     20 Hobsbawm, E.J.E.
+     20 Carpenter, David A.
+     20 Bryer, A.A.M.
+     19 Williamson, Tom M.
+     19 Williams, G.
+     19 Pelling, H.M.
+     19 Newbury, C.W.
+     19 Harrison, R.J.
+     19 Grenville, J.A.S.
+     19 Gosden, P.H.J.H.
+     19 Gooch, John
+     19 Gilley, S.W.
+     19 Darwin, John G.
+     19 Corfield, Penelope J.
+     19 Clunas, Craig
+     19 Bayly, Christopher A.
+     18 Walton, J.K.
+     18 Walsh, J.D.
+     18 Trevor-Roper, H.R.
+     18 Thompson, D.M.
+     18 Thomas, P.D.G.
+     18 Smith, Richard M.
+     18 Royle, E.
+     18 Roots, I.A.
+     18 McCord, N.
+     18 Hourani, A.H.
+     18 Hilton, R.H.
+     18 Dobson, R.B.
+     18 Christie, I.R.
+     18 Binfield, J.C.G.
+     18 Batho, G.R.
+     17 Washbrook, David A.
+     17 Trapido, S.
+     17 Thompson, Peter J.
+     17 Pole, J.R.
+     17 Nish, I.H.
+     17 Lynch, Michael
+     17 Lonsdale, J.M.
+     17 Iliffe, J.
+     17 Hall, Catherine M.
+     17 Fage, J.D.
+     17 Evans, E.J.
+     17 Donaldson, G.
+     17 Clarke, P.F.
+     17 Charlton, K.
+     17 Bosworth, C.E.
+     16 Willetts, H.T.
+     16 Whiting, Richard C.
+     16 Taylor, A.J.
+     16 Riddy, Felicity J.
+     16 McLeod, D.H.
+     16 Honeyman, Katrina
+     16 Harriss, G.L.
+     16 Harrison, J.B.
+     16 Gilley, Sheridan W.
+     16 Dyer, Christopher C.
+     16 Dockrill, M.L.
+     16 Devji, Faisal
+     16 Deutsch, Jan-Georg
+     16 Baker, A.R.H.
+     16 Badger, Anthony J.
+     16 Andrew, C.M.
+     15 Yeo, C.S.
+     15 Winstanley, Michael J.
+     15 Steiner, Zara S.
+     15 Rowell, D.G.
+     15 Rosser, Gervase
+     15 Pollard, S.
+     15 O'Dowd, Mary
+     15 Laybourn, Keith
+     15 Jordanova, Ludmilla J.
+     15 Holt, P.M.
+     15 Holmes, C.
+     15 Hillenbrand, Carole
+     15 Fieldhouse, D.K.
+     15 Evans, Robert J.W.
+     15 Coleman, B.I.
+     15 Carr, A.R.M.
+     15 Beales, D.E.D.
+     15 Bayly, C.A.
+     15 Aylmer, G.E.
+     14 Wrightson, K.E.
+     14 Thompson, Dorothy K.G.
+     14 Thirsk, I. Joan
+     14 Simpson, J.M.
+     14 Pickstone, John V.
+     14 Parker, R.A.C.
+     14 Oliver, R.A.
+     14 Musson, A.E.
+     14 McLeod, D. Hugh
+     14 Marshall, Peter
+     14 Lowe, P.C.
+     14 Low, D.A.
+     14 Kraye, Jill A.
+     14 Haskell, F.J.H.
+     14 Fowler, K.A.
+     14 Duncan, A.A.M.
+     14 Dickinson, H.T.
+     14 Chambers, D.S.
+     14 Cameron, J.K.
+     14 Beresford, M.W.
+     14 Beinart, William J.
+     13 Wrigley, Christopher J.
+     13 Wright, Alastair
+     13 Wood, Ian N.
+     13 Ward, W.R.
+     13 Tuck, R.F.
+     13 Thompson, P.R.
+     13 Thompson, F.M.L.
+     13 Speck, W.A.
+     13 Schapiro, L.B.
+     13 Russell, David C.
+     13 Royle, Edward
+     13 Rollason, David W.
+     13 Roberts, E.A.
+     13 Preston, P.
+     13 Prest, J.M.
+     13 Pickstone, J.V.
+     13 Ormrod, W. Mark
+     13 Offer, Avner
+     13 Maddicott, J.R.L.
+     13 Laybourn, K.
+     13 Large, D.
+     13 Langford, Paul
+     13 Knapp, W.F.
+     13 Jones, I.G.
+     13 Innes, Joanna M.
+     13 Hopkins, A.G.
+     13 Heesom, A.J.
+     13 Goldberg, P. Jeremy P.
+     13 Gibbs, N.H.
+     13 Garnett, E. Jane
+     13 Gallagher, J.A.
+     13 de Casparis, J.G.
+     13 Comerford, Richard V.
+     13 Briggs, John H.Y.
+     13 Baines, D.E.
+     13 Andrew, Christopher M.
+     13 Addison, P.
+     12 Withrington, D.J.
+     12 Williams, J.G.
+     12 Williams, Christopher M.
+     12 Westad, O. Arne
+     12 Webster, C.
+     12 Watt, W.M.
+     12 Vincent, D.M.
+     12 Vatikiotis, P.J.
+     12 Sweet, Rosemary H.
+     12 Smith, G.R.
+     12 Roberts, A.D.
+     12 Robb, Peter G.
+     12 Reynolds, J.
+     12 Reynolds, David J.
+     12 Rathbone, R.J.A.R.
+     12 Pettegree, Andrew D.M.
+     12 Mayr-Harting, Henry M.R.E.
+     12 Martin, D.E.
+     12 Marshall, P.J.
+     12 Marshall, J.D.
+     12 Kermode, Jennifer I.
+     12 Humphries, K. Jane
+     12 Howarth, Janet H.
+     12 Holmes, B.
+     12 Hicks, Michael A.
+     12 Hay, D.
+     12 Harvey, Barbara F.
+     12 Harkness, D.W.
+     12 Hannah, L.
+     12 Griffiths, R.A.
+     12 Feinstein, Charles H.
+     12 Everitt, A.M.
+     12 Dixon, P.W.
+     12 Divall, Colin
+     12 Davies, Gareth B.
+     12 Daunton, Martin J.
+     12 Crawford, Michael H.
+     12 Constantine, Stephen
+     12 Constantine, S.
+     12 Clogg, R.R.M.
+     12 Chartres, John A.
+     12 Chaloner, W.H.
+     12 Burns, J.H.
+     12 Brown, Judith M.
+     12 Bartlett, Robert J.
+     12 Armstrong, W.A.
+     12 Aldrich, Richard E.
+     12 Adams, I.H.
+     12 Abulafia, David S.H.
+     11 Wright, D.G.
+     11 Winchester, Angus J.L.
+     11 Walton, John K.
+     11 Vernon, Keith
+     11 Turner, John A.
+     11 Stokes, E.T.
+     11 Stewart, A.T.Q.
+     11 Stevenson, David
+     11 Steele, E.D.
+     11 Spufford, H. Margaret
+     11 Sexton, Jay
+     11 Roy, I.
+     11 Robb, P.G.
+     11 Pogge von Strandmann, Hartmut J.O.
+     11 Pelling, Margaret H.
+     11 Palmer, Marilyn
+     11 O'Neill, Robert J.
+     11 O'Leary, Paul B.
+     11 Nossiter, T.J.
+     11 Morris, R.J.
+     11 Melling, Joseph L.
+     11 McKibbin, R.I.
+     11 McGrath, P.V.
+     11 McCaskie, T.C.
+     11 Mason, Tony
+     11 Macinnes, Allan I.
+     11 Lynch, J.
+     11 Loades, D.M.
+     11 Laslett, T.P.R.
+     11 Lambert, Andrew D.
+     11 Knight, Alan S.
+     11 Jones, D.H.
+     11 Johnson, Geraldine
+     11 Howell, David W.
+     11 Hartwell, R.M.
+     11 Hargreaves, J.D.
+     11 Gillespie, Raymond
+     11 Emsley, Clive
+     11 Emsley, C.
+     11 Ellis, E.L.
+     11 Cronin, Maura
+     11 Cowan, I.B.
+     11 Connolly, Sean J.
+     11 Connelly, Mark
+     11 Chapman, S.D.
+     11 Chamberlain, Muriel E.
+     11 Catto, R.J.A.I.
+     11 Carsten, F.L.
+     11 Campbell, J.K.
+     11 Burke, U. Peter
+     11 Bridges, R.C.
+     11 Brading, D.A.
+     11 Bond, Brian J.
+     11 Armytage, W.H.G.
+     10 Wrigley, E.A.
+     10 Wordie, J.R.
+     10 Wilson, B.R.
+     10 Williams, P.H.
+     10 Williams, G.A.
+     10 Welch, David A.
+     10 Welch, David
+     10 Taithe, Bertrand
+     10 Summerfield, Penny
+     10 Stead, P.P.
+     10 Smith, A. Hassell
+     10 Seal, A.
+     10 Scribner, R.W.
+     10 Rogan, Eugene L.
+     10 Roebuck, P.
+     10 Richmond, C.F.
+     10 Rendall, Jane L.
+     10 Ranger, T.O.
+     10 Prothero, I.J.
+     10 Prestwich, Michael C.
+     10 O'Rourke, Kevin
+     10 O'Gorman, F.
+     10 O'Brien, P.K.
+     10 Morgan, K.O.
+     10 Mingay, G.E.
+     10 Millar, F.G.B.
+     10 McCaffrey, J.F.
+     10 Matthews, J.F.
+     10 Matthew, H.C.G.
+     10 Manning, B.S.
+     10 Macintyre, A.D.
+     10 Lonsdale, John M.
+     10 Langhamer, Claire L.
+     10 Kain, R.J.P.
+     10 Jones, G. Stedman
+     10 Jones, G.D.B.
+     10 James, Thomas B.
+     10 Howkins, A.J.
+     10 Holmes, G.S.
+     10 Hennessy, Peter J.
+     10 Heal, Felicity M.
+     10 Hatton, Ragnhild M.
+     10 Harrison, Mark
+     10 Grootenboer, Hanneke
+     10 Green, Simon J.D.
+     10 Greengrass, Mark
+     10 Garnsey, P.D.A.
+     10 Foster, Robert F. (Roy)
+     10 Fisher, F.J.
+     10 Farias, P.F. de M.
+     10 Denton, J.H.
+     10 d'Avray, David L.
+     10 Crowther, M. Anne
+     10 Colvin, H.M.
+     10 Childs, John C.R.
+     10 Checkland, S.G.
+     10 Chaudhuri, K.N.
+     10 Campbell, R.H.
+     10 Campbell, J.
+     10 Bullough, D.A.
+     10 Buchanan, R.A.
+     10 Brown, R.
+     10 Brock, W.H.
+     10 Blanning, Timothy C.W.
+     10 Blanning, T.C.W.
+     10 Bickers, Robert
+     10 Bennett, James A.
+     10 Bennett, G.V.
+     10 Beckett, John V.
+     10 Beattie, A.J.
+     10 Bannerman, J.W.M.
+      9 Yapp, M.E.
+      9 Winter, J.M.
+      9 Wilson, H.S.
+      9 Williams, Ann
+      9 White, B.R.
+      9 Watkins, Charles
+      9 Wanklyn, Malcolm D.G.
+      9 Walvin, J.
+      9 Vickery, Amanda
+      9 Trapp, J.B.
+      9 Thompson, A.F.
+      9 Strachan, Hew F.A.
+      9 Steinberg, J.
+      9 Steedman, Carolyn K.
+      9 Speller, Ian
+      9 Smith, R.B.
+      9 Smith, E.A.
+      9 Smith, D.B.
+      9 Sked, Alan
+      9 Shukman, H.
+      9 Seton-Watson, C.I.W.
+      9 Ross, A.C.
+      9 Rose, Michael E.
+      9 Roberts, Gerrylynn K.
+      9 Roberts, B.K.
+      9 Riley-Smith, J.S.C.
+      9 Richardson, David
+      9 Pulzer, P.G.J.
+      9 Pronay, N.
+      9 Prince, H.C.
+      9 Porter, Andrew N.
+      9 Philpott, William
+      9 Owen, Edward R.J.
+      9 Obelkevich, J.
+      9 Mitchison, Rosalind M.
+      9 Meller, Helen E.
+      9 McKean, Charles A.
+      9 Matthews, J. F.
+      9 Lynch, M.
+      9 Lockley, Tim
+      9 Leyser, K.J.
+      9 Lewis, B.
+      9 Lenman, B.P.
+      9 Lannon, Frances
+      9 Langton, J.
+      9 Langhorne, R.T.B.
+      9 Langford, P.
+      9 Kirkwood, K.
+      9 Jones, P.J.
+      9 John, Angela V.
+      9 John, A.H.
+      9 Ingham, K.
+      9 Hill, Jacqueline
+      9 Highfield, J.R.L.
+      9 Hayton, David W.
+      9 Hawkes, Jane
+      9 Harris, Jose F.
+      9 Haigh, C.A.
+      9 Gooch, J.
+      9 Goldie, Mark A.
+      9 Fyfe, C.H.
+      9 Fisher, H.J.
+      9 Edwards, O.D.
+      9 Duffy, E.
+      9 Du Boulay, F.R.H.
+      9 Donnachie, I.L.
+      9 Digby, Anne
+      9 Devine, T.M.
+      9 Curwen, C.A.
+      9 Crook, J.M.
+      9 Cowie, Evelyn E.
+      9 Corsi, Pietro
+      9 Collinson, P.
+      9 Coleman, D.C.
+      9 Coats, A.W.
+      9 Carpenter, M. Christine
+      9 Bynum, William F.
+      9 Brown, Angela
+      9 Bradshaw, B.I.
+      9 Bentley, M.J.
+      9 Bennett, Martyn
+      9 Anderson, Michael
+      9 Anderson, David M.
+      9 Aldrich, R.E.
+      8 Zeldin, T.
+      8 Yasamee, F.A.K.
+      8 Worboys, Michael
+      8 Winter, Jay M.
+      8 Wilson, R.G.
+      8 Walter, John D.
+      8 Wallace-Hadrill, J.M.
+      8 Vincent, David M.
+      8 Treble, J.H.
+      8 Trebilcock, R.C.
+      8 Tiedemann, R. Gary
+      8 Thorpe, A.J.
+      8 Thompson, J.A.
+      8 Thomas, K.V.
+      8 Taylor, D.
+      8 Taylor, A.J.P.
+      8 Tann, Jennifer
+      8 Sutcliffe, A.R.
+      8 Supple, B.E.
+      8 Stone, N.
+      8 Steeds, D.
+      8 Slaven, A.
+      8 Simpson, G.G.
+      8 Shlaim, A.
+      8 Sharpe, James A.
+      8 Shackleton, R.M.Y.
+      8 Roper, Lyndal A.
+      8 Rodger, Richard G.
+      8 Riley-Smith, Jonathan S.C.
+      8 Richardson, Sarah
+      8 Reid, Alastair J.
+      8 Ramsden, J.A.
+      8 Prestwich, M.C.
+      8 Powell, Avril A.
+      8 Porter, Dilwyn
+      8 Polonsky, A.B.
+      8 Plumb, J.H.
+      8 Perkin, H.J.
+      8 Palmer, Sarah R.
+      8 Nicol, D.M.
+      8 Nicholas, H.G.
+      8 Newman, J.A.
+      8 Mullett, Michael A.
+      8 Mullett, M.
+      8 Mitter, Rana S.R.
+      8 Minchinton, W.E.
+      8 Mason, Roger A.
+      8 Marwick, A.J.B.
+      8 Marland, Hilary
+      8 Mahone, Sloan C.
+      8 Mackesy, P.G.
+      8 Ludlow, N. Piers
+      8 Loud, Graham A.
+      8 Leyser, Conrad
+      8 Lewis, Jane E.
+      8 Lewis, C.M.
+      8 Klein, Lawrence E.
+      8 Kedward, H.R.
+      8 Hunt, E.H.
+      8 Hughes, Jeff A.
+      8 Hughes, Ann L.
+      8 Holt, J.C.
+      8 Hindle, Steve
+      8 Harrison, B.H.
+      8 Harper, Marjory-Ann D.
+      8 Hall, S.G.
+      8 Hallett, Mark L.
+      8 Gray, Peter
+      8 Golding, Brian J.
+      8 Goldie, M.A.
+      8 Geary, Larry
+      8 Gazeley, Ian S.
+      8 Garrard, J.A.
+      8 Frere, S.S.
+      8 Frere, S. S.
+      8 Fraser, W.H.
+      8 Fox, Harold S.A.
+      8 Evans, Richard J.
+      8 Ellis, Katharine
+      8 Duggan, Christopher J.H.
+      8 Driver, Felix F.
+      8 Dendrinos, Charalambos
+      8 Daunton, M.J.
+      8 Darwin, J.G.
+      8 Dakin, D.
+      8 Cubitt, Catherine R.E.
+      8 Crosland, M.P.
+      8 Collins, E.J.T.
+      8 Clarke, Peter F.
+      8 Cheyne, A.C.
+      8 Champion, Justin A.I.
+      8 Cesarani, David
+      8 Butcher, Andrew F.
+      8 Butcher, A.F.
+      8 Bush, M.L.
+      8 Brooke, C.N.L.
+      8 Brockliss, Laurence W.B.
+      8 Bowman, Timothy
+      8 Blake, R.N.W.
+      8 Binfield, J. Clyde G.
+      8 Bethell, L.M.
+      8 Benson, John
+      8 Barry, Jonathan
+      8 Ball, Stuart R.
+      7 Wood, I.N.
+      7 Wood, Betty C.
+      7 Withers, C.W.J.
+      7 Whyman, J.
+      7 Whittow, Mark
+      7 Whiting, R.C.
+      7 Whiteman, E. Anne O.
+      7 Whatmore, Richard D.
+      7 Warwick, Andrew C.
+      7 Walsh, J.R.
+      7 Tranter, N.L.
+      7 Taylor, David
+      7 Swan, Mary
+      7 Stone, Dan
+      7 Stevenson, John
+      7 Stephens, W.B.
+      7 Starkey, David J.
+      7 Stargardt, Nicholas
+      7 Smith, R.M.
+      7 Skinner, Q.R.D.
+      7 Sharp, Paul R.
+      7 Serjeant, R.B.
+      7 Schofield, R.S.
+      7 Saul, S.B.
+      7 Rule, John G.
+      7 Ruddock, Alwyn A.
+      7 Ross, Duncan M.
+      7 Rollings, Neil
+      7 Robinson, Francis
+      7 Robertson, E.M.
+      7 Reid, F.
+      7 Readman, Paul A.
+      7 Ranson, Edward
+      7 Pullan, B.S.
+      7 Prestwich, J.O.
+      7 Preston, Paul
+      7 Prazmowska, Anita J.
+      7 Pilbeam, Pamela M.
+      7 Phillipson, N.T.
+      7 Peden, G.C.
+      7 Parrott, David A.
+      7 Parkes, M.B.
+      7 O'Neill, R.J.
+      7 Newman, A.N.
+      7 Newitt, M.D.D.
+      7 Mitchell, L.G.
+      7 Miller, E.
+      7 McKendrick, N.
+      7 McFarland, Elaine W.
+      7 McCulloch, Gary
+      7 McAuley, Mary
+      7 Mallett, Michael E.
+      7 Lowerson, J.R.
+      7 Lowe, R.A.
+      7 Lewis, Colin M.
+      7 Levitt, Ian
+      7 Lawton, R.
+      7 King, Peter J.R.
+      7 Kidson, P.
+      7 Kent, C. John
+      7 Kennedy, Hugh N.
+      7 Kedward, H. Roderick
+      7 Jupp, P.J.
+      7 Joyce, P.J.
+      7 Jones, Stuart
+      7 Jones, G.R.J.
+      7 Jones, E.
+      7 Johnson, J.R.B.
+      7 Jenner, Mark S.R.
+      7 Jenner, Mark
+      7 Jackson, G.
+      7 Jackson, Ben
+      7 Ives, E.W.
+      7 Iliffe, John
+      7 Howkins, Alun J.
+      7 Howell, D.
+      7 Howe, Daniel W.
+      7 Howard-Johnston, James D.
+      7 Hoppit, Julian
+      7 Holderness, B.A.
+      7 Hilton, A.J.B.
+      7 Hepburn, A.C.
+      7 Heard, N.
+      7 Heale, M.J.
+      7 Hayes, P.M.
+      7 Hawting, Gerald R.
+      7 Hastings, A.
+      7 Hartley, O.A.
+      7 Harrison, J.F.C.
+      7 Goodman, A.E.
+      7 Glasscock, R.E.
+      7 Gillard, D.R.
+      7 Fox, H.S.A.
+      7 Forrest, A.I.
+      7 Fisher, J.R.
+      7 Evans, R.H.
+      7 Ellison, Mary L.A.
+      7 Elliott, John
+      7 Edwards, David
+      7 Edgerton, David E.H.
+      7 Earle, P.
+      7 Dumville, David N.
+      7 Dukes, Paul
+      7 Duffy, M.
+      7 Duffy, Eamon
+      7 Dossett, Kate M.
+      7 Dooley, Terence
+      7 Davis, J.F.
+      7 Davies, Owen
+      7 Curry, Anne E.
+      7 Cumpston, I. Mary
+      7 Crook, Joseph Mordaunt
+      7 Cowan, Edward J.
+      7 Collinson, Patrick
+      7 Childs, J.C.R.
+      7 Charters, Erica
+      7 Chalklin, C.W.
+      7 Ceadel, M.E.
+      7 Cartledge, P.A.
+      7 Carter, Tim
+      7 Cannon, J.A.
+      7 Campbell, Eila M.J.
+      7 Campbell, A.E.
+      7 Burrows, Simon F.
+      7 Burk, Kathleen
+      7 Briggs, Robin
+      7 Briggs, A.
+      7 Brading, David A.
+      7 Boyce, Robert W.D.
+      7 Bourne, K.
+      7 Boardman, J.
+      7 Blackman, Janet M.
+      7 Black, Jeremy
+      7 Betts, Paul R.
+      7 Berghahn, V.R.
+      7 Bates, David R.
+      7 Bassett, S.R.
+      7 Barron, T.J.
+      7 Ashworth, W.
+      7 Arnold, D.J.
+      7 Allmand, C.T.
+      7 Alford, B.W.E.
+      6 Zaidi, Z.H.
+      6 Wrightson, Keith E.
+      6 Worden, A.B.
+      6 Winstanley, M.J.
+      6 Wilson, Richard G.
+      6 Wilson, C.H.
+      6 Williams, G.P.
+      6 Williams, Chris
+      6 Wickham, Christopher J.
+      6 Whitehead, L.A.
+      6 Whelan, Bernadette
+      6 Ward, J.T.
+      6 Ward, Brian E.
+      6 Walsham, Alexandra
+      6 Waller, P.J.
+      6 Vinson, A.J.
+      6 Vincent, J.R.
+      6 Vernon, N. James
+      6 Venn, Fiona M.
+      6 Unwin, R.W.
+      6 Tyacke, Nicholas R.N.
+      6 Todd, M.
+      6 Tiratsoo, Nicholas E.H.
+      6 Timmins, J. Geoffrey
+      6 Thorp, Teresa R.
+      6 Thomas, Martin
+      6 Taylor, Miles
+      6 Tallett, Frank
+      6 Sweet, D.W.
+      6 Styles, P.
+      6 Strickland, Matthew J.
+      6 Stockwin, J.A.A.
+      6 Stobart, Jon V.
+      6 Starkey, David R.
+      6 Southern, R.W.
+      6 Smith, Ralph B.
+      6 Smith, R.
+      6 Smith, N.A.F.
+      6 Smith, C.W.
+      6 Slade, C.F.
+      6 Simmons, C.P.
+      6 Sharp, P.R.
+      6 Secord, Jim A.
+      6 Schopflin, G.
+      6 Schofield, Phillipp
+      6 Ryan, David
+      6 Rubinstein, N.
+      6 Rubin, Patricia L.
+      6 Rubin, Miri E.
+      6 Rowe, W.J.
+      6 Rosen, F.
+      6 Rodger, Nicholas A.M.
+      6 Rodger, Nicholas
+      6 Robinson, Francis C.R.
+      6 Robinson, F.C.R.
+      6 Robbins, K.G.
+      6 Roach, J.P.C.
+      6 Rich, E.E.
+      6 Ranft, B.McL.
+      6 Ramsay, G.D.
+      6 Rack, H.D.
+      6 Quintrell, B.W.
+      6 Quinn, D.B.
+      6 Prescott, Robert G.W.
+      6 Porter, R.S.
+      6 Porter, A.N.
+      6 Pogge von Strandmann, H.J.O.
+      6 Phythian-Adams, Charles V.
+      6 Phimister, Ian R.
+      6 Phillipson, Nicholas T.
+      6 Peden, George C.
+      6 Panayi, Panikos
+      6 Ó Drisceoil, Donal
+      6 North, John A.
+      6 North, J.D.
+      6 Murray, Alan V.
+      6 Monroe, Elizabeth
+      6 Milton, Anthony
+      6 McGarry, Fearghal P.
+      6 Mawdsley, Evan
+      6 Maver, Irene E.
+      6 Martin, L.W.
+      6 Martin, G.H.
+      6 Mansergh, P.N.S.
+      6 MacLeod, D.J.
+      6 Macdougall, Simone C.
+      6 Luscombe, D.E.
+      6 Loyn, H.R.
+      6 Lowe, Peter C.
+      6 Lomas, Richard A.
+      6 Lewis, G.
+      6 Lewis, D.M.
+      6 Leslie, R.F.
+      6 Le Patourel, J.H.
+      6 Leifer, M.
+      6 Krikler, Jeremy M.
+      6 Kindersley, R.K.
+      6 Kidd, Alan
+      6 Kenyon, J.P.
+      6 Joyce, Patrick J.
+      6 Jones, Max
+      6 Jones, Gareth Stedman
+      6 James, Alan
+      6 Jackson, Mark
+      6 Howard, Maurice
+      6 Hope, C.A.
+      6 Holmes, Colin
+      6 Holmes, Clive A.
+      6 Hilton, A.J. Boyd
+      6 Higgs, Edward J.
+      6 Hartley, Owen A.
+      6 Harrop, Sylvia A.
+      6 Harris, Bob
+      6 Hardy, P.
+      6 Hall, A.R.
+      6 Hair, P.E.H.
+      6 Guy, John A.
+      6 Gurney, J.D.
+      6 Gunn, Steven J.
+      6 Griffith, W.P.
+      6 Gowing, Margaret M.
+      6 Goodman, M.D.
+      6 Ginsborg, P.A.
+      6 Gildea, Robert N.
+      6 Gerth, Karl
+      6 Geraghty, Anthony
+      6 Gatrell, V.A.C.
+      6 Fulbrook, Mary J.A.
+      6 Fraser, T.G.
+      6 Fox, Robert
+      6 Foxhall, Lin
+      6 Foster, Andrew W.
+      6 Forrest, Ian
+      6 Foot, Sarah
+      6 Fisher, H.E.S.
+      6 Faure, David W.
+      6 Falkus, M.E.
+      6 Englander, D.
+      6 Eastwood, David S.
+      6 Dunbabin, J.P.D.
+      6 Driscoll, Stephen T.
+      6 Downey, Declan
+      6 Doherty, Gabriel
+      6 Dockrill, Michael L.
+      6 Deas, Malcolm D.
+      6 Cunningham, Hugh St. C.
+      6 Cubitt, Catherine
+      6 Crossley, Paul B.
+      6 Crook, David R.
+      6 Cromwell, Valerie
+      6 Crawford, Catherine J.
+      6 Crawford, Barbara E.
+      6 Cowan, C.D.
+      6 Cole, W.A.
+      6 Clark, Peter A.
+      6 Chester, D.N.
+      6 Cherry, Steven
+      6 Chase, Malcolm S.
+      6 Chant, Colin W.
+      6 Champ, Judith F.
+      6 Capp, Bernard S.
+      6 Bury, J.P.T.
+      6 Bull, H.
+      6 Brooks, Christopher W.
+      6 Brock, M.G.
+      6 Britnell, Richard H.
+      6 Briggs, R.
+      6 Braddick, Michael J.
+      6 Bourne, John M.
+      6 Boulton, Jeremy
+      6 Betts, R.S.
+      6 Best, Antony M.
+      6 Berg, Maxine
+      6 Belchem, John C.
+      6 Beasley, W.G.
+      6 Baycroft, Timothy P.
+      6 Atkinson, B.J.
+      6 Arscott, Caroline H.
+      6 Arnold, David J.
+      6 Angell, A.E.
+      6 Andreyev, C. Catherine L.
+      6 Adams, D.K.
+      5 Young, John W.
+      5 Yeo, Eileen M.
+      5 Wrigley, C.J.
+      5 Worley, Matthew
+      5 Woodward, John H.
+      5 Woodward, J.H.
+      5 Woods, J.A.
+      5 Wood, Andrew
+      5 Wolffe, John R.
+      5 Williamson, Philip A.
+      5 Williams, Glanmor
+      5 Williams, Beryl J.
+      5 Wickham, C.J.
+      5 Whyte, William H.
+      5 Whittam, J.R.
+      5 West, Shearer
+      5 Weindling, P.J.
+      5 Weaver, M.L.H.L.
+      5 Walvin, James
+      5 Waller, Philip J.
+      5 Vinen, Richard C.
+      5 Vale, M.G.A.
+      5 Turner, J.A.
+      5 Towle, P.A.
+      5 Tombs, Robert P.
+      5 Thurlow, Richard C.
+      5 Thomson, Mathew
+      5 Teichova, Alice
+      5 Taylor, P.M.
+      5 Tapsell, Grant
+      5 Studd, J.R.
+      5 Strange, Julie-Marie
+      5 Stockwell, A.J.
+      5 Stead, Peter P.
+      5 Smout, T. Christopher
+      5 Smith, Stephen A.
+      5 Smith, P.
+      5 Smith, Jeremy R.
+      5 Smeaton, W.A.
+      5 Smalley, Beryl
+      5 Sleigh, Charlotte
+      5 Slack, P.A.
+      5 Silver, H.
+      5 Short, R.S.
+      5 Shlaim, Avi
+      5 Shaw, Gareth
+      5 Sharpe, Richard
+      5 Sharpe, J.A.
+      5 Searle, Alaric
+      5 Searby, P.
+      5 Scott, G.
+      5 Scarisbrick, J.J.
+      5 Russell, C.A.
+      5 Rupp, E.G.
+      5 Rule, J.G.
+      5 Rolo, P.J.V.
+      5 Robertson, John C.
+      5 Roberts, Michael F.
+      5 Richardson, R.C.
+      5 Reid, Brian Holden
+      5 Raven, James R.
+      5 Rathbone, Richard J.A.R.
+      5 Ratcliffe, D.J.
+      5 Purdue, A. William
+      5 Price, R.D.
+      5 Price, D.T.W.
+      5 Power, Michael J.
+      5 Potter, J.
+      5 Poole, Robert J.R.
+      5 Platt, D.C.St.M.
+      5 Platt, D.C.M.
+      5 Platt, C.P.S.
+      5 Platt, Colin P.S.
+      5 Pierce, G.O.
+      5 Phillips, Jonathan P.
+      5 Pelling, C.B.R.
+      5 Outhwaite, R.B.
+      5 Oram, Richard D.
+      5 O'Hanlon, Rosalind
+      5 O'Gorman, Francis
+      5 O'Driscoll, Mervyn
+      5 O'Day, M. Rosemary
+      5 Nicolson, Colin
+      5 Mulholland, Marc
+      5 Morris, Richard
+      5 Morgan, Susan
+      5 Mitchell, Leslie G.
+      5 Milward, A.S.
+      5 Milward, Alan S.
+      5 Millar, F. G. B.
+      5 Middlemas, R.K.
+      5 Merson, A.L.
+      5 McManners, J.
+      5 McKenzie, D.F.
+      5 McIvor, Arthur J.
+      5 McInnes, Angus J.D.M.
+      5 McGregor, O.R.
+      5 McDougall, James
+      5 McDonald, M.V.
+      5 Mattingly, H.B.
+      5 Mather, F.C.
+      5 Mason, E. Emma
+      5 Martin, David E.
+      5 Mango, C.
+      5 MacRae, D.G.
+      5 Macleod, Emma Vincent
+      5 MacKenzie, John M.
+      5 Mackenney, Richard S.
+      5 Macinnes, A.I.
+      5 Lucas, C.R.
+      5 Lowe, Rodney
+      5 Lowe, R.
+      5 Levick, Barbara M.
+      5 Lennon, Colm
+      5 Lee, W. Robert
+      5 Lee, W.R.
+      5 Layton, D.
+      5 Lawrence, Jon M.
+      5 Latham, A.J.H.
+      5 Lanfranchi, Pierre
+      5 Körner, Axel
+      5 Koenigsberger, H.G.
+      5 Knight, D.M.
+      5 Knecht, R.J.
+      5 Kitson, M.W.L.
+      5 Kirk-Greene, A.H.M.
+      5 Kiernan, V.G.
+      5 Kettle, Ann J.
+      5 Kershaw, I.
+      5 Kerr, David
+      5 Kemp, Martin J.
+      5 Keller, A.G.
+      5 Jones, T.A.
+      5 Jones, Sarah R. Rees
+      5 Jones, Michael C.E.
+      5 Jones, M.A.
+      5 Jones, J. Gwynfor
+      5 Jones, G.W.
+      5 Johnston, Elva
+      5 Jeffery, Keith J.
+      5 James, Elizabeth A.
+      5 Isserlin, B.S.J.
+      5 Hutton, R.E.
+      5 Hunt, Karen
+      5 Hughes, A.
+      5 Hufton, Olwen H.
+      5 Hudson, G.F.
+      5 Howard, I.K.A.
+      5 Houlbrook, Matt
+      5 Houlbrooke, R.A.
+      5 Hopwood, D.
+      5 Hinton, James S.
+      5 Hinchliff, P.B.
+      5 Hey, David G.
+      5 Hennock, E.P.
+      5 Heffernan, Michael J.
+      5 Heesom, Alan J.
+      5 Hastings, Adrian
+      5 Harwood, Jonathan H.
+      5 Harris, Ruth
+      5 Harrison, R.M.
+      5 Harris, Jonathan P.
+      5 Hardiman, David
+      5 Hannam, June B.
+      5 Hall, Simon D.
+      5 Gunn, Simon
+      5 Gritt, Andrew
+      5 Graves, Pam
+      5 Grant, Alexander
+      5 Gordon, P.
+      5 Gordon, Eleanor
+      5 Goldman, Lawrence
+      5 Goldberg, Jeremy
+      5 Gilbert, David
+      5 Gatrell, Peter
+      5 Garrison, Mary
+      5 Garnsey, Peter D.A.
+      5 Garnett, George S.
+      5 Gandy, Matthew
+      5 Fulford, M.G.
+      5 Fuccaro, Nelida
+      5 Fryer, W.R.
+      5 French, David W.
+      5 French, Christopher J.
+      5 Fraser, W. Hamish
+      5 Fraser, D.
+      5 Forrest, Alan I.
+      5 Forbes, D.
+      5 Flynn, William T.
+      5 Floud, R.C.
+      5 Fisher, D.J.V.
+      5 Feuchtwanger, E.J.
+      5 Feinstein, C.H.
+      5 Farr, I.
+      5 Evans, R.J.W.
+      5 Evans, R.J.
+      5 Erickson, J.
+      5 Erickson, Charlotte J.
+      5 Elwell-Sutton, L.P.
+      5 Ellis, Sylvia
+      5 Edwards, Jason
+      5 Dumville, D.N.
+      5 Dugmore, C.W.
+      5 Duffield, Ian
+      5 Duffield, I.
+      5 Dockrill, Saki
+      5 Ditchfield, Grayson
+      5 Dinwiddy, J.R.
+      5 Davis, John H.
+      5 Davies, R.W.
+      5 Davies, R.R.
+      5 Davies, R.G.
+      5 Davies, J.K.
+      5 Davies, J.
+      5 Davies, C.S.L.
+      5 Davidson, Nicholas S.
+      5 Davidoff, Leonore
+      5 Daniels, S.J.
+      5 Daly, Mary E.
+      5 Cunningham, Hugh St.C.
+      5 Crossley, D.W.
+      5 Crossick, G.J.
+      5 Crick, Julia C.
+      5 Cosgrave, Michael
+      5 Cooter, Roger
+      5 Conyne, George R.
+      5 Connelly, Mark L.
+      5 Colson, R.F.
+      5 Coley, N.G.
+      5 Coleman, Marie
+      5 Coleman, Bruce I.
+      5 Clogg, Richard R.M.
+      5 Clarkson, L.A.
+      5 Clarke, Meaghan E.
+      5 Cheney, C.R.
+      5 Chandavarkar, R.S.
+      5 Chandarvarkar, Raj S.
+      5 Cavallo, Sandra
+      5 Caunce, Stephen
+      5 Burrell, R.M.
+      5 Burns, Arthur
+      5 Brunton, Deborah
+      5 Brown, J.
+      5 Browning, R.
+      5 Brown, A.H.
+      5 Brett, Michael
+      5 Booth, Alan E.
+      5 Blinkhorn, R.M.
+      5 Blanchard, I.S.W.
+      5 Berry, Helen
+      5 Benson, J.
+      5 Beckett, J.C.
+      5 Barker, R.S.
+      5 Barker, Hannah
+      5 Ayton, Andrew C.
+      5 Ashton, Nigel J.
+      5 Arnot, Margaret L.
+      5 Allen, D.F.
+      5 Alcock, L.
+      5 Abramsky, C.A.
+      4 Zimmer, Oliver
+      4 Young, M.J.L.
+      4 Youings, Joyce A.
+      4 Yorke, Barbara A.E.
+      4 Yale, D.E.C.
+      4 Woolrych, A.H.
+      4 Woolf, S.J.
+      4 Windsor, P.
+      4 Whatley, Christopher A.
+      4 Weindling, Paul J.
+      4 Wear, Andrew
+      4 Watt, Donald Cameron
+      4 Wathey, Andrew B.
+      4 Ward, Matthew C.
+      4 Wanklyn, M.D.G.
+      4 Wallace, W.V.
+      4 Vincent, Mary
+      4 Van Houts, Elisabeth M.C.
+      4 Tyerman, Christopher J.
+      4 Twitchett, D.C.
+      4 Tumelty, J.J.
+      4 Tuck, Stephen G.N.
+      4 Trebilcock, R. Clive
+      4 Towle, Philip A.
+      4 Toulalan, Sarah
+      4 Thorpe, H.
+      4 Thorpe, Andrew
+      4 Thorne, C.G.
+      4 Thomson, Guy P.C.
+      4 Thompson, Noel W.
+      4 Thompson, John A.
+      4 Thompson, Dorothy  K.G.
+      4 Thomas, Peter D.G.
+      4 Thomas, Keith
+      4 Taylor, Stephen J.C.
+      4 Tadman, Michael
+      4 Szreter, Simon R.S.
+      4 Sykes, A.
+      4 Swift, J.
+      4 Sutherland, Gillian R.
+      4 Summerfield, A. Penny
+      4 Storey, R.L.
+      4 Stockwin, J. Arthur A.
+      4 Stephenson, A. Jill R.
+      4 Steedman, Carolyn
+      4 Stanwood, F.J.
+      4 Stafford, William
+      4 Spiers, Edward M.
+      4 Snodgrass, A.M.
+      4 Smith, David M.
+      4 Smith, Crosbie W.
+      4 Smith, Crosbie
+      4 Smith, Catherine Delano
+      4 Slater, T.R.
+      4 Skinner, Simon
+      4 Sked, A.
+      4 Sims, R.L.
+      4 Simon, B.
+      4 Simmons, R.C.
+      4 Sim, David
+      4 Shukman, Harold
+      4 Short, B.M.
+      4 Shoemaker, Robert B.
+      4 Sheils, William
+      4 Sheeran, George
+      4 Shafer, Byron E.
+      4 Seton-Watson, G.H.N.
+      4 Sefton, H.R.
+      4 Searle, G.R.
+      4 Scribner, Robert W.
+      4 Schlenther, B.S.
+      4 Schaffer, Simon J.
+      4 Scammell, G.V.
+      4 Saul, Nigel E.
+      4 Sassoon, Donald
+      4 Sanderson, G.N.
+      4 Sabri-Tabrizi, G.R.
+      4 Ryan, A.N.
+      4 Rubenstein, N.
+      4 Rowett, J.S.
+      4 Rosser, A. Gervase
+      4 Rosen, Fred
+      4 Rohl, J.C.G.
+      4 Robertson, A.J.
+      4 Roberts, B.C.
+      4 Riviere, P.G.
+      4 Richmond, Colin F.
+      4 Richardson, Roger C.
+      4 Reid, A.J.
+      4 Rees Jones, Sarah
+      4 Rees, E. Arfon
+      4 Reddaway, P.B.
+      4 Read, J.S.
+      4 Rawson, Jessica
+      4 Ranson, E.
+      4 Ramsden, John A.
+      4 Ramm, Agatha
+      4 Pulzer, Peter G.J.
+      4 Pryce, A. Huw
+      4 Prunty, Jacinta
+      4 Price, Simon R.F.
+      4 Prestwich, Menna
+      4 Pressnell, L.S.
+      4 Power, M.J.
+      4 Porter, Dorothy E.
+      4 Pollard, A.J.
+      4 Phillips, G.A.
+      4 Pevsner, N.B.L.
+      4 Perrie, Maureen P.
+      4 Penman, Michael A.
+      4 Payne, P.L.
+      4 Pavlowitch, St.K.
+      4 Passmore, Kevin
+      4 Paseta, Senia
+      4 Parry, Jonathan P.
+      4 Parker, N.G.
+      4 Paris, Michael J.
+      4 Ormrod, Mark
+      4 Orme, N.I.
+      4 O'Malley, M.
+      4 Ollerenshaw, Philip G.
+      4 Ohlmeyer, Jane H.
+      4 O'Donnell, Ruán
+      4 O'Donaghue, Heather
+      4 Obelkevich, James
+      4 Norton, E. Christopher
+      4 North, J.A.
+      4 Northedge, F.S.
+      4 Norman, E.R.
+      4 Nicholls, Anthony J.
+      4 Newman, Simon
+      4 Neve, Michael R.
+      4 Nash, Susie M.
+      4 Myers, A.R.
+      4 Munro, J.F.
+      4 Mouzelis, N.P.
+      4 Mort, Frank
+      4 Morris, Robert J.
+      4 Morris, C.D.
+      4 Morgan, Prys T.J.
+      4 Morgan, David A.L.
+      4 Moore, Robert
+      4 Moore, James
+      4 Mombauer, Annika
+      4 Miller, Nicola A.
+      4 Millar, Fergus G.B.
+      4 Mettam, R.C.
+      4 McVey, Ruth T.
+      4 McTighe, Sheila
+      4 McLoughlin, Dympna
+      4 McKibbin, Ross I.
+      4 McConnel, James
+      4 McBride, Ian R.
+      4 Mayr-Harting, H.M.R.E.
+      4 Mawby, Spencer W.
+      4 Massing, Jean Michel
+      4 Mason, T.W.
+      4 Mason, J.F.A.
+      4 Martin, Vanessa A.
+      4 Martin, R.
+      4 Martin, Jane
+      4 Marks, Richard
+      4 Major, J.S.H.
+      4 Maiolo, Joseph
+      4 MacKenzie, J.M.
+      4 Macfarlane, L.J.
+      4 Macdougall, N.A.T.
+      4 Lyttleton, N.A.O.
+      4 Lutton, Rob
+      4 Lowerson, John R.
+      4 Lowe, Roy A.
+      4 Lowden, John H.
+      4 Lovell, J.C.
+      4 Loud, Graham
+      4 Loades, David M.
+      4 Lieven, D.C.B.
+      4 Liddle, Joanna
+      4 Lewis, R.A.
+      4 Letwin, W.
+      4 Lentin, Antony
+      4 Leese, Roger
+      4 Leese, R.
+      4 Lawson, J.
+      4 Lawrence, Jon
+      4 Lawrence, Christopher J.
+      4 Lawrence, C.H.
+      4 Lawrence, Anne E.
+      4 Larkin, M.J.M.
+      4 Lane, Joan
+      4 Lampert, E.
+      4 Lambton, Ann K.S.
+      4 Lake, P.G.
+      4 Kuhrt, Amélie T.L.
+      4 Koch, H.W.
+      4 Knights, Mark
+      4 Kirk, J.
+      4 King, P.D.
+      4 King, E.J.
+      4 Kidd, Colin C.
+      4 Kelly, William
+      4 Keil, I.J.E.
+      4 Judd, D.O.
+      4 Jones, J.G.
+      4 Jones, D.K.
+      4 Johnson, Robert
+      4 Johnson, N.
+      4 Johnson, G.
+      4 Johnes, Martin O.
+      4 John, E.
+      4 Jerram, Leif
+      4 Jennings, Paul
+      4 Jenkins, G.H.
+      4 Jenkins, E.W.
+      4 Jeffreys-Jones, R.
+      4 Jefferys, Kevin
+      4 James, A.M.
+      4 Jacyna, Stephen
+      4 Jack, M.A.
+      4 Hurstfield, J.
+      4 Hunt, R.W.
+      4 Humphries, Jane
+      4 Hughes, Lindsey A.J.
+      4 Howells, B.E.
+      4 Howell, D.W.
+      4 Howe, Anthony C.
+      4 Howard-Johnston, J.D.
+      4 Housley, Norman J.
+      4 House, J.P.H.
+      4 House, John P.H.
+      4 Hotson, Howard
+      4 Hopkin, David M.
+      4 Hood, R.G.
+      4 Holt, Richard
+      4 Hodges, Sarah
+      4 Hodder, B.W.
+      4 Hinton, J.S.
+      4 Hinchcliff, P.B.
+      4 Hill, J.E.C.
+      4 Hey, D.G.
+      4 Hempton, D.N.
+      4 Hawkins, M.J.
+      4 Hawkes, Sonia E.
+      4 Havinden, M.A.
+      4 Hatcher, M.J.
+      4 Harris, A.
+      4 Harries, Jill D.
+      4 Harding, Vanessa A.
+      4 Hamerow, Helena F.
+      4 Hamerow, Helena
+      4 Hämäläinen, Pekka
+      4 Halsey, A.H.
+      4 Hall, Marie B.
+      4 Haldon, John F.
+      4 Haldon, J.F.
+      4 Haffenden, P.S.
+      4 Grimley, Matthew
+      4 Griffith, William P.
+      4 Grenville, John A.S.
+      4 Greengrass, M.
+      4 Greene, K.
+      4 Green, C.K.
+      4 Green, Adrian G.
+      4 Gray, M.
+      4 Gould, William R.
+      4 Goodman, David C.
+      4 Goodings, R.F.
+      4 Goldman, Lawrence N.
+      4 Gildea, Robert
+      4 Gaunt, Richard
+      4 Gash, N.
+      4 Garson, R.A.
+      4 Garnett, Jane
+      4 Fulford, Michael G.
+      4 Freedman, L.
+      4 Foster, R.F. (Roy)
+      4 Forrest, W.G.G.
+      4 Forrest, Alan
+      4 Ford, T.D.
+      4 Forbes, E.G.
+      4 Foot, Rosemary
+      4 Flinn, M.W.
+      4 Flanagan, Marie Therese
+      4 Finn, Margot
+      4 Finlayson, G.B.A.M.
+      4 Fincham, Kenneth C.
+      4 Figes, Orlando G.
+      4 Elton, Geoffrey
+      4 Elsner, Jas
+      4 Edgerton, D.
+      4 Eastmond, Antony
+      4 Earle, Rebecca
+      4 Eames, J.V.H.
+      4 Eales, Jacqueline S.
+      4 Dyer, C.C.
+      4 Dunn, Marilyn
+      4 Dunkerley, James
+      4 Duke, A.C.
+      4 Duckham, B.F.
+      4 Doyle, Shane D.
+      4 Dodd, Gwilym
+      4 Dixon, Philip W.
+      4 Ditchburn, David M.
+      4 Dickinson, Harry T.
+      4 Dickens, A.G.
+      4 Devine, Thomas M.
+      4 Dennis, Richard J.
+      4 Deighton, Anne F.
+      4 Dean, D.W.
+      4 Day, A.F.
+      4 d'Avray, David
+      4 Davis, John
+      4 Davies, I.N.R.
+      4 Darby, H.C.
+      4 Daniels, Gordon
+      4 Cust, R.P.
+      4 Curtis, T.C.
+      4 Cunningham, H.St.C.
+      4 Cunliffe, M.F.
+      4 Cullum, Patricia H.
+      4 Cull, Nicholas J.
+      4 Cullen, Christopher
+      4 Craig, R.S.
+      4 Cox, Catherine
+      4 Cowling, M.J.
+      4 Coward, B.
+      4 Cousens, S.H.
+      4 Coull, J.R.
+      4 Cornwall, J. Mark
+      4 Cornish, W.R.
+      4 Cornell, T.J.
+      4 Corbett, David
+      4 Cooter, Roger J.
+      4 Conway, Stephen R.
+      4 Collins, Tony
+      4 Cole, T.F.
+      4 Coles, P.H.
+      4 Cole, Nicholas
+      4 Clay, C.G.A.
+      4 Church, R.A.
+      4 Chrysostomides, Julian
+      4 Christie, Neil
+      4 Choueiri, Y.
+      4 Childs, Wendy R.
+      4 Chartres, J.A.
+      4 Charles-Edwards, T.M.
+      4 Chapman, Stanley D.
+      4 Chadwick, H.
+      4 Cecil, H.P.
+      4 Ceadel, Martin E.
+      4 Catterall, Peter P.
+      4 Carr, W.
+      4 Caplan, Jane
+      4 Cant, R.G.
+      4 Butterfield, H.
+      4 Butler, L.H.
+      4 Burk, Kathleen M.
+      4 Brunt, P. A.
+      4 Brown, R.A.
+      4 Brown, Keith M.
+      4 Brown, I.G.
+      4 Brown, C.
+      4 Broun, Dauvit E.
+      4 Brooks, P.N.
+      4 Brooks, C.
+      4 Brock, W.R.
+      4 Brigden, Susan E.
+      4 Brigden, Susan
+      4 Bridge, F.R.
+      4 Bridbury, A.R.
+      4 Breuning, Eleanor C.M.
+      4 Brett, M.
+      4 Brett, Annabel S.
+      4 Bradshaw, Brendan I.
+      4 Bowman, Alan K.
+      4 Bowman, A.K.
+      4 Bossy, J.A.
+      4 Borsay, Anne
+      4 Bolton, Brenda M.
+      4 Blinkhorn, R. Martin
+      4 Blakemore, H.
+      4 Bingham, Adrian C.
+      4 Bindoff, S.T.
+      4 Billinge, M.D.
+      4 Bielenberg, Andy
+      4 Betts, Paul
+      4 Best, G.F.A.
+      4 Berridge, Virginia
+      4 Bernard, G.W.
+      4 Beinart, William
+      4 Beaumont James, Tom
+      4 Beales, Derek E.D.
+      4 Bátonyi, Gábor
+      4 Bates, D.R.
+      4 Bassett, Steven R.
+      4 Baron, Nicholas
+      4 Barnard, T.C.
+      4 Barlow, F.
+      4 Bannerman, John W.M.
+      4 Balzaretti, Ross
+      4 Baker, J.H.
+      4 Ayers, Tim
+      4 Austin, Gareth M.
+      4 Ashton, R.
+      4 Archer, Ian W.
+      4 Ansari, K. Humayun
+      4 Anderson, M.S.
+      4 Anderson, D.M.
+      4 Anderson, David
+      4 Allen, Mark A.
+      4 Aldous, Richard
+      4 Aldgate, A.K.
+      4 Abrams, Lynn C.
+      3 Zheng, Yangwen
+      3 Yelling, J.A.
+      3 Yasamee, Feroz A.K.
+      3 Yapp, Malcolm E.
+      3 Wright, V.
+      3 Wright, A.D.
+      3 Wormald, C. Patrick
+      3 Wordie, J. Ross
+      3 Worden, A. Blair
+      3 Woolgar, Christopher M.
+      3 Wood, D.P.J.
+      3 Wogan-Browne, Jocelyn
+      3 Withrington, Donald J.
+      3 Wise, M.J.
+      3 Wilson, Sarah G.
+      3 Wilson, Sarah
+      3 Wilson, D.M.
+      3 Wilson, Andrew
+      3 Willis, Justin
+      3 Williamson, T.M.
+      3 Williamson, P.A.
+      3 Williams, Lawrence A.
+      3 Williams, L.A.
+      3 Williams, G.W.
+      3 Williams, D.T.
+      3 Wilks, M.J.
+      3 Wildman, Charlotte
+      3 Whyte, William
+      3 Whittaker, C.R.
+      3 Whitehand, J.W.R.
+      3 Whitehand, Jeremy W.R.
+      3 Whitby, L.M.
+      3 Webster, Wendy
+      3 Watts, Ruth
+      3 Watts, Karen
+      3 Watts, John L.
+      3 Watt, D.E.R.
+      3 Waswo, Ann
+      3 Warren, A.J.
+      3 Warne, Christopher M.
+      3 Warhurst, P.R.
+      3 Ward-Perkins, Bryan
+      3 Ward-Perkins, B.R.
+      3 Ward, Paul J.
+      3 Walsh, J. R.
+      3 Walker, R.F.
+      3 Walker, D.P.
+      3 Waddington, Lorna L.
+      3 Waddington, Geoffrey G.T.
+      3 Vollans, Eleanor C.
+      3 Vaughan, William
+      3 Vaughan, Megan A.
+      3 Vance, Norman
+      3 Vamplew, Wray
+      3 Ursinus, M.O.H.
+      3 Ullmann, W.
+      3 Tyler, Elizabeth
+      3 Tyack, Geoffrey
+      3 Tyacke, N.R.N.
+      3 Twaddle, M.J.
+      3 Turner, Sarah
+      3 Turner, Sam
+      3 Turner, G.L.E.
+      3 Turnbull, G.L.
+      3 Tuck, J.A.
+      3 Trythall, J. William D.
+      3 Tripp, Charles R.H.
+      3 Townshend, C.J.N.
+      3 Tomlin, R.S.O.
+      3 Tolliday, Steven W.
+      3 Todd, Selina
+      3 Thorpe, Andrew J.
+      3 Thompson, E.P.
+      3 Thompson, David M.
+      3 Thom, Deborah
+      3 Thomas, James H.
+      3 Taylor, P.G.
+      3 Taylor, James
+      3 Taylor, J.
+      3 Tarlow, Sarah
+      3 Tanner, Duncan M.
+      3 Taithe, Bertrand O.
+      3 Swingewood, A.W.
+      3 Sweetman, J.E.
+      3 Sutherland, C. H. V.
+      3 Sumner, James
+      3 Studd, J. Robin
+      3 Strobl, Gerwin
+      3 Street, Joe
+      3 Street, J.
+      3 Strauss, J.
+      3 Stoyle, Mark J.
+      3 Stokes, Raymond G.
+      3 Stokes, Melvyn B.
+      3 Stevenson, J.
+      3 Steinberg, Jonathan
+      3 Starr, Rebecca K.
+      3 Stanley, N.
+      3 Stanley, M.J.
+      3 Stachura, Peter D.
+      3 Spurr, John
+      3 Spufford, P.
+      3 Spohr, A.R. Kristina
+      3 Spiers, E.M.
+      3 Speck, William A.
+      3 Spawforth, Anthony
+      3 Spalding, Roger H.
+      3 Spackman, Stephen G.F.
+      3 Solkin, David H.
+      3 Smith, Rowland
+      3 Smith, R.E.F.
+      3 Smith, M.S.
+      3 Smith, Llinos O.W.
+      3 Smith, Lesley
+      3 Smith, G. Rex
+      3 Smith, Elise
+      3 Smith, D. Mack
+      3 Smith, D.M.
+      3 Smith, Catherine A.
+      3 Sluglett, P.J.
+      3 Slater, Terry R.
+      3 Slack, Paul A.
+      3 Skinner, Quentin R.D.
+      3 Simpson, Michael A.
+      3 Simpson, John M.
+      3 Shrimpton, N.G.
+      3 Shock, M.
+      3 Shiels, William J.
+      3 Shiels, William
+      3 Shepherd, M.A.
+      3 Sheils, W.J.
+      3 Sharpe, James
+      3 Shamdasani, Sonu
+      3 Service, Robert J.
+      3 Seed, G.
+      3 Searle, Geoffrey R.
+      3 Scroop, Daniel
+      3 Scott, Katie
+      3 Schulze, Kirsten E.
+      3 Schram, S.R.
+      3 Schmitt, C.B.
+      3 Sayer, Derek
+      3 Satzinger, Helga
+      3 Sarson, Steven J.
+      3 Sanderson, J.M.
+      3 Sabin, Philip
+      3 Ryan, Joan A.
+      3 Russell, C.S.R.
+      3 Rushton, Peter
+      3 Roy, Ian
+      3 Rowlandson, Jane L.
+      3 Rothschild, Emma
+      3 Roskell, J.S.
+      3 Röhrig Assunção, Matthias
+      3 Röhl, John C.G.
+      3 Rodriguez-Salgado, Maria-José
+      3 Rodger, R.G.
+      3 Roberts, Penny
+      3 Rimmer, D.
+      3 Riley, P.W.J.
+      3 Richmond, J.C.B.
+      3 Ribeiro de Meneses, Filipe
+      3 Rhodes, P.J.
+      3 Reynolds, Joyce M.
+      3 Reynolds, D.J.
+      3 Rex, Richard A.
+      3 Reinders, R.C.
+      3 Rees, T.J.
+      3 Reese, T.R.
+      3 Reeder, D.A.
+      3 Read, D.
+      3 Read, B.
+      3 Rawlings, Louis
+      3 Rawcliffe, Carole
+      3 Rattansi, P.M.
+      3 Ranger, Terence O.
+      3 Rady, Martyn C.
+      3 Quintrell, Brian W.
+      3 Quilley, Geoffrey
+      3 Purvis, June
+      3 Purcell, N.
+      3 Pugh, M.D.
+      3 Pravda, A.
+      3 Pluciennik, Mark
+      3 Pinker, R.A.
+      3 Pimlott, B.J.
+      3 Pick, Daniel M.
+      3 Phillips, Jonathan
+      3 Phillips, Colin B.
+      3 Phillips, C.B.
+      3 Philip, G.D.E.
+      3 Peter, L.F.
+      3 Pennington, D.H.
+      3 Peniston-Bird, Corinna
+      3 Pearl, Valerie L.
+      3 Paulsson, G. Steve
+      3 Parkinson, Gavin
+      3 Park, David
+      3 Pandey, B.N.
+      3 Palliser, D.M.
+      3 Pagden, A.R.D.
+      3 Oxley, Deborah J.
+      3 Oxley, Deborah
+      3 Overy, R.J.
+      3 Overy, Richard J.
+      3 Overton, Mark
+      3 Ó Tuathaigh, Gearóid
+      3 Omissi, David E.
+      3 O'Leary, D. Brendan
+      3 Oldridge, Darren
+      3 Ó hAnnracháin, Tadhg
+      3 O'Halpin, Eunan J.
+      3 Ogden, P.E.
+      3 O'Donoghue, Heather
+      3 Ó Cróinín, Dáibhí
+      3 O'Brien, Michael
+      3 O'Brien, G.
+      3 Nutton, Vivian
+      3 Nuechterlein, Jeanne
+      3 Nield, K.H.
+      3 Nicholas, Siân H.
+      3 Newton, Scott
+      3 Newman, R.K.
+      3 Nash, D.E.M.
+      3 Naphy, William G.
+      3 Murray, A.
+      3 Murdoch, Steve
+      3 Murdoch, Alexander J.
+      3 Mumm, Susan
+      3 Mulligan, William
+      3 Moxon, Ian
+      3 Moss, Rachel
+      3 Mosse, W.E.
+      3 Morriss, Roger
+      3 Morrissey, Susan
+      3 Morrison, I.A.
+      3 Morris, Jonathan
+      3 Morison, J.D.
+      3 Morgan, Victor F.G.
+      3 Morgan, P.T.J.
+      3 Morgan, Iwan
+      3 Morgan, Gwenda
+      3 More, Charles R.V.
+      3 Moran, Gerard
+      3 Molland, A.G.
+      3 Moggridge, D.E.
+      3 Miskell, Louise
+      3 Minogue, K.R.
+      3 Milsom, S.F.C.
+      3 Milne, Gustav
+      3 Michie, Ranald C.
+      3 Mendelsohn, J. Andrew
+      3 Mears, Natalie
+      3 Meadows, A.J.
+      3 McVey, Ruth  T.
+      3 McShane, Angela
+      3 McParland, Edward
+      3 McMillan, James F.
+      3 McMahon, Deirdre
+      3 McHardy, Alison K.
+      3 McGrath, Elizabeth
+      3 McGrath, Charles Ivar
+      3 McFarlane, A.
+      3 McElligott, Anthony
+      3 McDonald, Nicola
+      3 McCrone, D.
+      3 McCormick, Leanne
+      3 McClelland, V. Alan
+      3 McCafferty, John
+      3 Mayall, James
+      3 Maxwell, David J.P.
+      3 Mattingly, David J.
+      3 Matless, David
+      3 Martin, Geoffrey H.
+      3 Martin, D.A.
+      3 Marsden, W.E.
+      3 Marritt, Stephen
+      3 Marcombe, David
+      3 Mansell, A.L.
+      3 Mango, Cyril
+      3 Mandler, Peter
+      3 Magdalino, P.
+      3 MacLean, Simon J.
+      3 Mackay, A.I.K.
+      3 Machin, G.I.T.
+      3 Macdougall, Norman A.T.
+      3 Macdonald, Catriona M.M.
+      3 MacDonald, Callum A.
+      3 Luscombe, David E.
+      3 Luddy, Maria
+      3 Luckett, R.
+      3 Lowe, H.D.
+      3 Loughlin, James P.
+      3 Loseby, Simon
+      3 Longmore, Jane
+      3 Loizos, P.
+      3 Loftus, Donna
+      3 Loach, S. Jennifer
+      3 Lloyd, Sarah
+      3 Lloyd-Jones, Roger
+      3 Llewellyn, Nigel G.
+      3 Llewellyn, Nigel
+      3 Lienhardt, R.G.
+      3 Liddy, Christian D.
+      3 Lewis, Joanna E.
+      3 Lewis, Jill J.
+      3 Lewis, G.L.
+      3 Leonardi, Cherry
+      3 Le May, G.H.L.
+      3 Laxton, P.
+      3 Lavelle, Ryan L.
+      3 Laurence, E. Anne
+      3 Lancaster, William
+      3 Lambert, W.G.
+      3 Lambert, David
+      3 Knight, Roger J.B.
+      3 Kitch, M.J.
+      3 Kitchen, Kenneth A.
+      3 Kirk, Neville
+      3 Kirby, D.P.
+      3 Kidambi, Prashant
+      3 Keynes, S.D.
+      3 Kennedy, Liam
+      3 Kennedy, D.L.
+      3 Kenefick, William
+      3 Kempshall, Matthew S.
+      3 Kempshall, Matthew
+      3 Kemp, Betty
+      3 Kelly, James
+      3 Keller, Alex G.
+      3 Keith-Lucas, B.
+      3 Keene, Derek J.
+      3 Kaser, M.C.
+      3 Kaplanoff, Mark D.
+      3 Judt, T.R.
+      3 Jotischky, Andrew
+      3 Jones, William D.
+      3 Jones, R. Merfyn
+      3 Jones, G.G.
+      3 Jones, G. D. B.
+      3 Jones, Charles
+      3 Jones, Bill
+      3 Johnson, R.W.
+      3 Johnson, Paul A.
+      3 Johnson, D.S.
+      3 John, Michael F.
+      3 Jenkinson, Jacqueline L.M.
+      3 Jeffreys-Jones, Rhodri
+      3 James, W.R.
+      3 James, M.E.
+      3 James, E.
+      3 Jahn, Hubertus F.
+      3 Jackson, Mark A.
+      3 Jackson, Julian T.
+      3 Jackson, Gordon
+      3 Ingram, Martin J.
+      3 Imber, C.
+      3 Iliffe, Robert C.
+      3 Hutchison, Iain G.C.
+      3 Hunter, Michael C.W.
+      3 Hunt, E.D.
+      3 Hughes, Annemarie
+      3 Hughes, Ann
+      3 Hudson, Patricia
+      3 Howkins, Alun John
+      3 Houston, R.A.
+      3 House, John
+      3 Houlbrooke, Ralph A.
+      3 Hosking, G.A.
+      3 Hornblower, N.S.R.
+      3 Hopwood, Nick D.
+      3 Hont, Istvan
+      3 Holmes, George A.
+      3 Holmes, Catherine J.
+      3 Holmes, C.A.
+      3 Hodgett, G.A.J.
+      3 Hipkin, Stephen A.
+      3 Hinds, G.M.
+      3 Hind, J.G.F.
+      3 Hills, C.M.
+      3 Hills, Catherine M.
+      3 Hill, J.
+      3 Higgs, M.S.
+      3 Heuman, Gad J.
+      3 Hennessy, C.A.M.
+      3 Henig, Ruth B.
+      3 Heffernan, Mike
+      3 Headlam-Morley, Agnes
+      3 Haydon, Colin M.
+      3 Hawting, G.R.
+      3 Hawkins, Michael
+      3 Hassall, M.W.C.
+      3 Haselgrove, Colin
+      3 Harvey, Charles E.
+      3 Harris, Mary N.
+      3 Harris, Jason
+      3 Harris, D.R.
+      3 Harrington, Ralph
+      3 Harley, J.B.
+      3 Hanak, H.
+      3 Hamilton, Sarah M.
+      3 Hamilton, Bernard F.
+      3 Halsall, Guy
+      3 Halliday, Fred
+      3 Hallett, Mark
+      3 Habakkuk, H.J.
+      3 Haakonssen, Knud
+      3 Grossman, J.
+      3 Griffiths, Clare V.J.
+      3 Griffin, Miriam T.
+      3 Griffin, C.P.
+      3 Gregory, Adrian M.
+      3 Gregor, Neil
+      3 Green, Christopher
+      3 Grant, Oliver
+      3 Graham, Helen E.
+      3 Gowing, Laura
+      3 Gourvish, T.R.
+      3 Gould, William
+      3 Gordon, Federick B.
+      3 Gordon, F. Bruce
+      3 Gordon, Eleanor J.
+      3 Goose, Nigel
+      3 Goodman, D.C.
+      3 Goodman, Anthony E.
+      3 Goodare, Julian
+      3 Gombrich, R.F.
+      3 Goldthorpe, J.
+      3 Golby, John M.
+      3 Golby, J.M.
+      3 Goebel, Stefan
+      3 Goddard, Richard
+      3 Gleadle, Kathryn J.
+      3 Given-Wilson, Christopher J.
+      3 Gillett, E.
+      3 Gildea, R.N.
+      3 Giddens, A.
+      3 Gibson, Alex J.
+      3 Gibbs, G.C.
+      3 Ghosh, Anindita
+      3 Gerrard, Chris
+      3 Geiger, Till
+      3 Gatrell, Peter W.
+      3 Garside, W.R.
+      3 French, R.A.
+      3 French, Henry
+      3 Freeden, M.S.
+      3 Franklin, David G.
+      3 Frankish, A.
+      3 Foster, R.F.
+      3 Forty, J.A.
+      3 Fortna, Benjamin
+      3 Forrestal, Alison
+      3 Ford, G. Alan
+      3 Foot, Rosemary J.
+      3 Foot, M.R.D.
+      3 Fitzpatrick, David
+      3 Finnis, J.M.
+      3 Finley, M. I.
+      3 Fincham, Kenneth
+      3 Field, F.
+      3 Ferente, Serena
+      3 Fenske, James
+      3 Fennell, J.L.I.
+      3 Fenlon, I.A.
+      3 Feehan, Laurie J.
+      3 Fearon, Peter S.
+      3 Evans, Gillian R.
+      3 Evans, Eric J.
+      3 Esteves, Rui
+      3 Erdozain, Dominic
+      3 English, Barbara A.
+      3 Endfield, Georgina
+      3 Elvin, J.M.D.
+      3 Ellis, Steven
+      3 Elliott, J.H.
+      3 Eldridge, Colin C.
+      3 Eldridge, C.C.
+      3 Edwards, Owen Dudley
+      3 Dyer, C.C
+      3 Dupree, Marguerite
+      3 Dunn, J.M.
+      3 Dunbabin, Jean H.
+      3 Dudbridge, Glen
+      3 Doyle, Shane
+      3 Doyle, Barry
+      3 Donnachie, Ian L.
+      3 Dodgshorn, Robert A.
+      3 Ditchfield, Grayson M.
+      3 Ditchfield, G.M.
+      3 Dickson, P.G.M.
+      3 Dickson, M. Gary
+      3 Dickson, David
+      3 Dickinson, P.G.M.
+      3 Deuchler, Martina
+      3 Derry, J.W.
+      3 Derry, John W.
+      3 Denton, Jeffrey H.
+      3 Deletant, Dennis J.
+      3 de Groot, Joanna
+      3 De Groot, Jerry
+      3 Davies, Wendy E.
+      3 Davies, R. Rees
+      3 Davies, P.N.
+      3 Davies, John K.
+      3 Daunton, Martin
+      3 Daniels, C.M.
+      3 Dabhoiwala, Faramerz
+      3 Cunningham, Andrew R.
+      3 Cunliffe, B.W.
+      3 Cubitt, Geoffrey T.
+      3 Crouch, David B.
+      3 Cross, M. Claire
+      3 Crossley, B. Paul
+      3 Crossick, Geoffrey J.
+      3 Crook, J. A.
+      3 Crooke, Elizabeth
+      3 Crone, Patricia
+      3 Crompton, Francis G.
+      3 Crombie, A.C.
+      3 Crisp, Olga
+      3 Crawford, Martin S.
+      3 Crankshaw, David
+      3 Crampton, R.J.
+      3 Crampton, Richard J.
+      3 Cramp, Rosemary J.
+      3 Cox, N.C.
+      3 Cowdrey, H.E.J.
+      3 Cowan, Alexander F.
+      3 Cottrell, P.L.
+      3 Coopey, Richard C.
+      3 Cooper, M.B.
+      3 Conway, Martin
+      3 Collis, J.R.
+      3 Collins, M.
+      3 Collins, D.N.
+      3 Collins, David N.
+      3 Collier, S.D.W.
+      3 Cohen, P.S.
+      3 Coates, Peter A.
+      3 Clout, H.D.
+      3 Clough, C.H.
+      3 Clifton, R.
+      3 Clavin, Patricia M.
+      3 Clark, G.S.R. Kitson
+      3 Clarke, E.S.
+      3 Clark, Christopher M.
+      3 Clapp, B.W.
+      3 Clancy, Thomas
+      3 Chinn, Carl S.A.
+      3 Chibnall, Marjorie M.
+      3 Charmley, John D.
+      3 Charlesworth, A.
+      3 Ceserani, David
+      3 Caygill, Howard
+      3 Casey, Steven
+      3 Casey, J.G.
+      3 Cartledge, Paul A.
+      3 Carter, Harold
+      3 Carey, Peter B.R.
+      3 Cardwell, D.S.L.
+      3 Carden-Coyne, Ana
+      3 Capp, Bernard
+      3 Canny, Nicholas
+      3 Cameron, K.
+      3 Cameron, Ewen A.
+      3 Cameron, Averil M.
+      3 Calvert, P.A.R.
+      3 Callaghan, John
+      3 Bythell, Duncan
+      3 Bythell, D.
+      3 Burton, G.P.
+      3 Burrell, R. Michael
+      3 Burrage, M.C.
+      3 Burns, H.
+      3 Burney, Ian A.
+      3 Burnett, Charles S.F.
+      3 Burnard, Trevor
+      3 Burgess, P. Glenn
+      3 Burchardt, Jeremy F.S.
+      3 Bullock, A.L.C.
+      3 Buchanan, Tom
+      3 Bryer, Anthony A.M.
+      3 Brown, T.S.
+      3 Brown, K.D.
+      3 Brown, Ian G.
+      3 Brown, Callum G.
+      3 Brown, Callum
+      3 Brotherstone, W. Terry C.
+      3 Brooks, N.P.
+      3 Brooke, J.H.
+      3 Brooke, D.
+      3 Bromley, J.S.
+      3 Brogan, D.H.V.
+      3 Brock, S.P.
+      3 Briggs, Lord
+      3 Bric, Maurice J.
+      3 Breathnach, Ciara
+      3 Brailey, N.J.
+      3 Bradley, John
+      3 Bracken, Damian
+      3 Brace, Catherine
+      3 Boyce, R.W.D.
+      3 Bowness, A.
+      3 Bowler, Peter J.
+      3 Bowker, Margaret
+      3 Bourne, J.M.
+      3 Bourke, Richard
+      3 Booth, Paul H.W.
+      3 Booth, A.E.
+      3 Bonney, Richard J.
+      3 Bolt, Christine A.
+      3 Boardman, Steven I.
+      3 Bland, D.E.
+      3 Blanchard, Ian S.W.
+      3 Blair, W. John
+      3 Birley, A.R.
+      3 Bindman, David
+      3 Biller, Peter P.A.
+      3 Bidwell, R.L.
+      3 Biddle, M.
+      3 Biddiss, M.D.
+      3 Biagini, Eugenio F.
+      3 Bew, P.A.E.
+      3 Berlin, I.
+      3 Berg, Maxine L.
+      3 Benewick, R.J.
+      3 Belich, James
+      3 Belchem, J.C.
+      3 Behagg, Clive
+      3 Beckett, Ian F.W.
+      3 Beckett, Ian
+      3 Bechhofer, F.
+      3 Bebbington, D.W.
+      3 Beales, A.C.F.
+      3 Baxendale, John D.
+      3 Bassett, D.K.
+      3 Bartrip, Peter W.J.
+      3 Bartlett, C.J.
+      3 Barry, Terence
+      3 Barrass, D.A.
+      3 Barbu, Z.
+      3 Ball, Simon J.
+      3 Balfour, M.L.G.
+      3 Astill, Grenville G.
+      3 Armstrong, C.A.J.
+      3 Ardener, E.W.
+      3 Appleton, J.H.
+      3 Ansari, Sarah
+      3 Andrews, K.R.
+      3 Andrews, Jonathan
+      3 Andrews, Frances
+      3 Anderson, M.
+      3 Allen, Joan
+      3 Allan, J.W.
+      3 Aldgate, Anthony K.
+      3 Abulafia, Anna B. Sapir
+      3 Abrams, Lesley
+      3 Abel, Christopher G.
+      2 Zimmerer, Jürgen
+      2 Zeman, Z.A.B.
+      2 Zahar, E.G.
+      2 Zachariah, Benjamin
+      2 Young, Robert J.C.
+      2 Young, R.M.
+      2 Young, J.W.
+      2 Young, Frances
+      2 Young, Brian
+      2 Yelling, James A.
+      2 Yates, E.M.
+      2 Yarrington, Alison W.
+      2 Wright, Jonathan R.C.
+      2 Wright, E.
+      2 Wormald, Jenny
+      2 Wormald, Jennifer M.
+      2 Wormald, C.P.
+      2 Wordsworth, J.F.
+      2 Wootton, David
+      2 Wood, I.
+      2 Woodfine, Philip L.
+      2 Wolkowitz, Carol
+      2 Wolf, Gerhard
+      2 Wolff, Janet A.
+      2 Windscheffel, Alex
+      2 Wilson, K.M.
+      2 Wilson, E.
+      2 Willmer, H.
+      2 Williams, R.H.
+      2 Williams, P.M.
+      2 Williamson, A.P.
+      2 Williams, L.J.
+      2 Williams, Heather
+      2 Williams, G.L.
+      2 Williams, Gareth
+      2 Williams, D.M.
+      2 Williams, D.G.T.
+      2 Williams, David M.
+      2 Williams, Daniel T.
+      2 Williams, Chris M.
+      2 Wilks, M. J.
+      2 Wilks, I.G.
+      2 Wilkinson, J.C.
+      2 Wilkes, J.J.
+      2 Wild, J. P.
+      2 Widdowson, J.D.A.
+      2 Wickham, Chris
+      2 Wichert, Sabine
+      2 Whyte, Ian
+      2 Whittle, Jane C.
+      2 White, Michael
+      2 Whitelock, Dorothy
+      2 White, John
+      2 White, J.D.
+      2 Whitehead, D.
+      2 Whatley, C.A.
+      2 Weston, Helen D.
+      2 Westgate, Ruth
+      2 Wells, Roger A.E.
+      2 Welch, Martin G.
+      2 Welch, Evelyn
+      2 Welbourn, F.B.
+      2 Wei, Ian P.
+      2 Webster, J.R.
+      2 Webster, Jane
+      2 Webster, Charles
+      2 Webb, Diana M.
+      2 Watts, M.R.
+      2 Watt, J.A.
+      2 Watson, W.L.R.
+      2 Watson, Fiona J.
+      2 Watkin, David J.
+      2 Waterhouse, E.K.
+      2 Washbrook, D.A.
+      2 Warwick-Haller, Sally E.
+      2 Ware, K.T.
+      2 Ward-Perkins, Bryan R.
+      2 Ward, Paul
+      2 Ward, Kevin
+      2 Ward, I.
+      2 Walton, K.
+      2 Walter, J.D.
+      2 Walter, A.R.
+      2 Walsby, Malcolm
+      2 Wallace, William
+      2 Wallace, W.
+      2 Wallace-Hadrill, J. M.
+      2 Walbank, F. W.
+      2 Waites, B.A.
+      2 Waddington, Keir
+      2 Waddington, Geoffrey T.
+      2 Virgoe, Roger
+      2 Virden, Jenel
+      2 Vincent, R.J.
+      2 Vincent, Nicholas C.
+      2 Vaughan, W.
+      2 Vaughan, Megan
+      2 Vaughan, James
+      2 van Bremen, Riet
+      2 Vale, Malcolm G.A.
+      2 Vale, Malcolm
+      2 Umbach, Maiken
+      2 Ullman, W.
+      2 Ugolini, Laura
+      2 Tyzack, Rosemary M.
+      2 Tyson, Robert E.
+      2 Tuck, Stephen
+      2 Tuck, Richard F.
+      2 Tuck, P.J.N.
+      2 Tsoukalis, L.
+      2 Trowell, B.L.
+      2 Tripp, C.R.H.
+      2 Trim, David
+      2 Trapido, Stanley
+      2 Trainor, Richard H.
+      2 Townend, Matthew
+      2 Tonkin, J.E.A.
+      2 Tomlin, Roger S.O.
+      2 Timms, E.F.
+      2 Till, G.
+      2 Tiller, Kate
+      2 Thurlow, R.C.
+      2 Thornton, Timothy J.
+      2 Thornton, Chris
+      2 Thoms, D.W.
+      2 Thoms, David W.
+      2 Thompson, W.D.J. Cargill
+      2 Thompson, Peter
+      2 Thompson, Dorothy   K.G.
+      2 Thompson, Andrew S.
+      2 Thomas, W.E.S.
+      2 Thomas, T.I.V.
+      2 Thomas, Richard
+      2 Thomas, Nicola
+      2 Thomas, Martin C.
+      2 Thomas, J.D.
+      2 Thomas, James
+      2 Thomas, H.S.
+      2 Thirsk, I.     Joan
+      2 Thatcher, Ian D.
+      2 Thane, Pat
+      2 Thacker, Alan T.
+      2 Taylor, Joan M.
+      2 Taylor, D.D.
+      2 Taylor, Claire
+      2 Tanner, Duncan
+      2 Talbot, Ian
+      2 Tadman, M.
+      2 Swift, Roger E.
+      2 Swart, K.W.
+      2 Swanson, R.N.
+      2 Swain, Nigel J.
+      2 Sutton, Michael A.
+      2 Sutton, M.A.
+      2 Sutherland, Nicola M.
+      2 Sumner, C.S.
+      2 Styles, J.A.
+      2 Sturgis, J.L.
+      2 Stuart, John
+      2 Strong, D. E.
+      2 Stott, Anne
+      2 Storry, G.R.
+      2 Stockwell, Anthony J.
+      2 Stöber, Karen
+      2 Stinson, Marie
+      2 Stewart, John
+      2 Stevenson, D.
+      2 Stern, W.M.
+      2 Stephens, M.D.
+      2 Stephens, J.N.
+      2 Stein, P.G.
+      2 Stein, Claudia
+      2 Stedman Jones, Gareth
+      2 Steadman, Carolyn
+      2 Starkey, D.R.
+      2 Stanley, Timothy
+      2 Stallabrass, Julian P.
+      2 Stafford, Pauline A.
+      2 Stack, David
+      2 Spohr Readman, A.R. Kristina
+      2 Sowerby, Tracey A.
+      2 Southcombe, George
+      2 Sonenscher, Michael
+      2 Sonenscher, M.
+      2 Sokoloff, Sally
+      2 Snell, K.D.M.
+      2 Sneddon, Andrew
+      2 Snape, Michael
+      2 Smyth, A.P.
+      2 Smith, Simon
+      2 Smith, S.A.
+      2 Smith, R.R.R.
+      2 Smith, Roger
+      2 Smith, R. E.
+      2 Smith, Malcolm S.
+      2 Smith, J.
+      2 Smith, H.E.
+      2 Smith, Hannah
+      2 Smith, G.E.
+      2 Smith, David L.
+      2 Smith, David
+      2 Smith, D.
+      2 Smith, C.T.
+      2 Smith, Christopher
+      2 Smith, Amy
+      2 Smith, Alfred Hassall
+      2 Smith, A.D.S.
+      2 Smith, Adrian
+      2 Small, Graeme P.
+      2 Slaven, Anthony
+      2 Skoda, Hannah
+      2 Skeates, Robin
+      2 Sivasundaram, Sujit P.
+      2 Sinclair, S.B.
+      2 Simpson, A.W.B.
+      2 Simms, Brendan P.
+      2 Shore, Heather
+      2 Sherwin-White, A. N.
+      2 Shepherd, J.S.
+      2 Shepard, J.E.B.
+      2 Sheffield, Gary
+      2 Shearman, J.K.G.
+      2 Shaw, Tony
+      2 Shaw, G.
+      2 Sharpe, L.J.
+      2 Shannon, R.T.
+      2 Service, R.J.
+      2 Sennis, Antonio
+      2 Sellar, W.D.H.
+      2 Seddon, P.R.
+      2 Second, J.A.
+      2 Seager, R. J.
+      2 Scott, Len
+      2 Scott, Hamish M.
+      2 Schürer, Kevin
+      2 Schultze, Clemence E.
+      2 Schmucki, Barbara
+      2 Schmidt, Ulf
+      2 Schloer, Joachim
+      2 Schaffer, S.J.
+      2 Schaffer, Simon
+      2 Scales, Len E.
+      2 Saunders, David
+      2 Sanderson, S.F.
+      2 Salmon, Patrick J.K.
+      2 Rütten, Thomas
+      2 Russell, Colin A.
+      2 Rubinstein, William D.
+      2 Rubinstein, D.
+      2 Rubiés, Joan-Pau
+      2 Ruane, Kevin J.
+      2 Roy, J.
+      2 Roxborough, I.
+      2 Rowe, D.J.
+      2 Rothwell, V.H.
+      2 Rose, Stephen
+      2 Rosenthal, E.I.J.
+      2 Rose, Gillian C.
+      2 Rollason, D.W.
+      2 Roemer, Nils
+      2 Rock, P.E.
+      2 Robson, B.T.
+      2 Robinson, R.A.H.
+      2 Robinson, Lucy
+      2 Robinson, Duncan
+      2 Robinson, D.
+      2 Robinson, Chase F.
+      2 Roberts, Owen
+      2 Robertson, J.C.
+      2 Robertson, Iain J.M.
+      2 Robertson, Alex J.
+      2 Roberts, N.
+      2 Roberts, J.M.
+      2 Roberts, E. Adam
+      2 Roberts, Charlotte
+      2 Roberts, Andrew D.
+      2 Rizvi, G.
+      2 Rivet, A.L.F.
+      2 Rigby, Stephen
+      2 Riches, W.T.M.
+      2 Richardson, P.D.
+      2 Richards, Julian D.
+      2 Richards, J.M.
+      2 Richards, Jeffrey
+      2 Richards, B.A.
+      2 Ribeiro, Aileen E.
+      2 Reynolds, Susan M.G.
+      2 Reynolds, Andrew
+      2 Repp, R.C.
+      2 Renshaw, P.R.G.
+      2 Reid, D.A.
+      2 Reeves, P.D.
+      2 Rees, Timothy
+      2 Raybould, T.J.
+      2 Ranft, B. McL.
+      2 Randall, Ian M.
+      2 Ramos Pinto, Pedro
+      2 Ramos, Gabriela P.
+      2 Rahtz, P.A.
+      2 Radner, Karen
+      2 Pumfrey, Stephen P.
+      2 Pullan, Brian S.
+      2 Pritchard, D.G.
+      2 Pringle, Denys
+      2 Price, S.R.F.
+      2 Price, C.A.
+      2 Preston, Andrew
+      2 Prest, John M.
+      2 Pravda, Alex
+      2 Power, Michael
+      2 Power, Helen J.
+      2 Powell, Avril
+      2 Porter, Roy S.
+      2 Porter, Roy S
+      2 Porter, H.C.
+      2 Porter, B.J.
+      2 Pooley, Colin G.
+      2 Pooley, C.G.
+      2 Pole, J. R.
+      2 Poggi, G.
+      2 Plumley, J.M.
+      2 Ploeckl, Florian
+      2 Pimlott, Ben J.
+      2 Pilbeam, Pamela
+      2 Pierce, Steven
+      2 Phimister, Ian
+      2 Phillips, Jim
+      2 Pettegree, A.D.M.
+      2 Pelling, Margaret
+      2 Pearl, Valerie  L.
+      2 Pearce, Sarah J.K.
+      2 Payne, Peter L.
+      2 Patterson, H.
+      2 Patterson, D.
+      2 Paton, Diana
+      2 Parry, C.H.T.
+      2 Parry, C.
+      2 Parrott, David
+      2 Parr, Helen
+      2 Parkin, Tim
+      2 Parker, T.M.
+      2 Parker, John S.
+      2 Parish, P.J.
+      2 Pantin, W.A.
+      2 Palmer, J.J.N.
+      2 Pallot, Judith
+      2 Pagden, Anthony R.D.
+      2 Owen, J.B.
+      2 Owen, Dorothy M.
+      2 Osborne, R.G.
+      2 Orr, R.R.
+      2 Orme, Nicholas
+      2 O'Reilly, William
+      2 O'Reilly, Jennifer
+      2 O'Malley, Michelle
+      2 Oliver, Kendrick J.
+      2 Oldfield, John R.
+      2 O'Halloran, Clare
+      2 O'Donnell, Ruan
+      2 O'Connor, Thomas
+      2 O'Connor, E.
+      2 Ó Ciardha, Éamonn
+      2 O'Brien, Phillips P.
+      2 Obolensky, D.
+      2 Oakley, S.P.
+      2 Nutton, V.
+      2 Nove, A.
+      2 North, J. A.
+      2 Noakes, Jeremy D.
+      2 Nield, Keith H.
+      2 Nicolson, Malcolm
+      2 Nicolson, Colin C.
+      2 Nickell, S.J.
+      2 Nichols, Tom
+      2 Nicholson, Helen J.
+      2 Newsome, D.H.
+      2 Newman, John A.
+      2 Newby, Laura
+      2 Newby, H.
+      2 Neve, Michael
+      2 Nesbitt, J.E.
+      2 Neave, D.R.J.
+      2 Naylor, Gillian
+      2 Musallam, B.F.
+      2 Murray, Alexander
+      2 Murphy, David
+      2 Murphy, Christopher J.
+      2 Murphey, Rhoads
+      2 Munch-Petersen, Thomas
+      2 Mullett, M.A.
+      2 Muirhead, I.A.
+      2 Muhs, Rudolf
+      2 Morys, M.
+      2 Morrison, Alex
+      2 Morris-Jones, W.H.
+      2 Morrin, Jean
+      2 Morison, John D.
+      2 Morgan, Simon
+      2 Morgan, Philip J.
+      2 Morgan, Mary S.
+      2 Morgan, Kevin
+      2 Morgan, Hiram
+      2 Morgan, D.O.
+      2 Morgan, David O.
+      2 Morgan, D.A.L.
+      2 Moore, J.R.
+      2 Moore, B.J.S.
+      2 Mooney, Linne
+      2 Moodie, Elspeth M.
+      2 Montefiore, A.C.R.G.
+      2 Momigliano, A. D.
+      2 Mitchell, Rosemary
+      2 Milner, John
+      2 Millward, R.
+      2 Mills, Catherine J.
+      2 Miller, R.M.
+      2 Miller, Michael
+      2 Miller, John L.
+      2 Miller, J.L.
+      2 Millard, Alan R.
+      2 Metcalf, G.
+      2 Metcalfe, G.E.
+      2 Mellor, Philip A.
+      2 Mellor, David
+      2 Mead, W.R.
+      2 McWilliam, Rohan
+      2 McLynn, Neil
+      2 McLay, Keith A.J.
+      2 McKean, Robert B.
+      2 McIvor, Arthur
+      2 McIntyre, A.D.
+      2 Mcintyre, A.D.
+      2 McInnes, A.J.D.M.
+      2 McGregor, Martin
+      2 McGing, Brian
+      2 McFarlane, Anthony
+      2 McEwen, J.S.
+      2 McDonald, Michael V.
+      2 McDermid, Jane H.
+      2 McCracken, K. John
+      2 McCaskie, Thomas C.
+      2 McCarthy, Andrew
+      2 McCarry, T.J.
+      2 Mazower, Mark A.
+      2 Mayhew, Nicholas
+      2 Maxfield, Valerie A.
+      2 Matthews, Geoffrey F.
+      2 Matless, David S.
+      2 Matless, D.
+      2 Mason, Roger
+      2 Mason, R.
+      2 Mason, A.F.
+      2 Martland, S. Peter
+      2 Martin, Susan M.
+      2 Martin, David
+      2 Martin, C.J.M.
+      2 Marshall, Peter J.
+      2 Marsden, William E.
+      2 Markwell, D.J.
+      2 Marfany, Julie
+      2 Mapstone, Sally
+      2 Mann, M.
+      2 Manley, John
+      2 Mancini, JoAnne
+      2 Mallet, Ann
+      2 Malcolm, Elizabeth
+      2 Major, Patrick
+      2 Mahone, Sloan
+      2 Maguire, Patrick J. (Paddy)
+      2 Maguire, Martin
+      2 Maddicott, John R.L.
+      2 MacRaild, Donald M.
+      2 MacRaild, Don
+      2 Macleod, R.
+      2 Macleod, Emma V.
+      2 Macleod, Christine
+      2 MacLean, M.
+      2 Maclean, J.N.M.
+      2 MacKillop, Andrew
+      2 MacKenzie, D.A.
+      2 Mackay, R.F.
+      2 Macinnes, Allan I
+      2 Machin, G. Ian T.
+      2 MacDonald, C.A.
+      2 Lyon, P.H.
+      2 Lunn, Kenneth J.
+      2 Luft, P.
+      2 Lucas, N.
+      2 Lubelska, Catherine E.
+      2 Lowe, Kate J.P.
+      2 Louth, Andrew
+      2 Loud, G.A.
+      2 Loseby, Simon T.
+      2 Longley, David A.
+      2 Logan, John
+      2 Lockyer, R.W.
+      2 Lock, Peter
+      2 Lloyd, T.H.
+      2 Lloyd-Jones, R.
+      2 Lloyd, G.E.R.
+      2 Lindop, Fred J.
+      2 Lindop, F.J.
+      2 Lindop, F.
+      2 Linch, Kevin B.
+      2 Linch, Kevin
+      2 Lillie, Amanda
+      2 Lienhardt, P.A.
+      2 Leyser, Henrietta
+      2 Leyser, C. Conrad
+      2 Lewitter, L.R.
+      2 Lewis, Richard
+      2 Lewis, Rhodri
+      2 Lewis, R.
+      2 Lewis, P.S.
+      2 Lewis, G.J.
+      2 Lewis, D. M.
+      2 Lewis, Christopher P.
+      2 Levin, P.H.
+      2 Levin, M.
+      2 Leonard, J.W.
+      2 Lenman, Bruce P.
+      2 Legg, Stephen
+      2 Lee, J.M.
+      2 Lederer, David
+      2 Leask, Nigel J.
+      2 Lawson, Tom G.P.
+      2 Law, Robin C.C.
+      2 Lawrence, Paul M.
+      2 Lawrence, Paul
+      2 Lawrence, C.J.
+      2 Law, R.C.C.
+      2 Lawless, Catherine
+      2 Laven, P.J.
+      2 Laven, David S.
+      2 Lauxtermann, Marc
+      2 Latham, R.C.
+      2 Latham, J.D.
+      2 Laslett, T. Peter R.
+      2 Large, Stephen S.
+      2 Lapidge, M.
+      2 Lane, J.
+      2 Lane, D.S.
+      2 Lancaster, W.
+      2 Lamont, W.M.
+      2 Lambert, Peter A.
+      2 Laffan, Michael
+      2 Kusin, V.V.
+      2 Kurtz, Donna C.
+      2 Kümin, Beat
+      2 Kolbert, C.F.
+      2 Kochan, L.E.
+      2 Knox, William W.
+      2 Knox, MacGregor
+      2 Knox, Macgregor
+      2 Knights, Mark J.
+      2 Knight, Roger J. B.
+      2 Knight, Gill
+      2 Knight, Alan
+      2 Knapp, A. Bernard
+      2 Kitson-Clark, G.S.R.
+      2 Kirk, Tim
+      2 Kirk, James
+      2 Kirby, Dianne
+      2 Kirby, David
+      2 King, John P.
+      2 King, H.P.
+      2 King, Helen
+      2 Killingray, David
+      2 Kerslake, Celia J.
+      2 Kershaw, Ian
+      2 Kent, C.J.
+      2 Kennedy, L.
+      2 Kennedy, Hugh
+      2 Kemp, Martin
+      2 Kelly, Catriona
+      2 Kelidar, A.R.
+      2 Keep, J.L.H.
+      2 Keen, M.H.
+      2 Keen, Maurice H.
+      2 Keene, Derek
+      2 Katzenellenbogen, S.E.
+      2 Kassell, Lauren
+      2 Kapila, Shruti
+      2 Jupp, Peter J.
+      2 Judica, John
+      2 Judd, Denis O.
+      2 Jones, Richard
+      2 Jones, P.M.
+      2 Jones, Peter M.
+      2 Jones, Kathleen
+      2 Jones, Karen
+      2 Jones, J.R.
+      2 Jones, G.     Stedman
+      2 Jones, G.   Stedman
+      2 Jones, Greta
+      2 Jones, G.E.
+      2 Jones, G.D.
+      2 Jones, D.J.V.
+      2 Jones, David Ceri
+      2 Jones, C.D.H.
+      2 Jones, B.L.
+      2 Jones, Aled G.
+      2 Jones, A.G.
+      2 Jones, A.
+      2 Johnston, Ronald
+      2 Johns, Richard
+      2 Johnson, P.A.
+      2 Johnson, Marion
+      2 Johnson, Gordon
+      2 Johnson, David S.
+      2 Johnson, A.M.
+      2 Johns, J.
+      2 Jeffreys, Elizabeth M.
+      2 Jeffrey, Keith J.
+      2 Jarvis, P.J.
+      2 Jardine, N.
+      2 James, Simon T.
+      2 James, Simon
+      2 James, E.F.
+      2 James, Edward F.
+      2 James, E.A.
+      2 Jackson, Will
+      2 Jackson, T. Alvin
+      2 Jackson, P.
+      2 Jackson, A.H.
+      2 Israel, Jonathan I.
+      2 Iredale, J.
+      2 Imber, Colin H.
+      2 Iliffe, Robert
+      2 Ibbetson, D.J.
+      2 Hynes, Sandra
+      2 Hutton, Ronald E.
+      2 Hurstfield, J.G.
+      2 Hunter, Janet E.
+      2 Hume, J.R.
+      2 Huff, Gregg
+      2 Hudson, John G.H.
+      2 Hoyle, Richard W.
+      2 Howell, David
+      2 Howard - Johnston, J. D.
+      2 Howard, D.J.
+      2 Houlbrook, Matthew
+      2 Hoskins, W.G.
+      2 Hoskin, M.A.
+      2 Horrox, Rosemary E.
+      2 Horrocks, Sally
+      2 Horn, J.P.P.
+      2 Horning, Audrey
+      2 Horn, Gerd-Rainer
+      2 Hornblower, Simon
+      2 Horden, J.N. Peregrine B.
+      2 Hopwood, Derek
+      2 Hopwood, A.G.
+      2 Hopkins, J.F.P.
+      2 Hopkin, D.R.
+      2 Hope, N.M.
+      2 Hope, Charles A.
+      2 Hope, Charles
+      2 Hood, Christopher
+      2 Holt, James
+      2 Holmes, G.A.
+      2 Hollenweger, W.
+      2 Holland, Robert F.
+      2 Holland, Robert
+      2 Holdsworth, C.J.
+      2 Holden Reid, Brian
+      2 Hitchcock, Tim
+      2 Hinton, D.A.
+      2 Hinsley, Harry
+      2 Hind, John G.F.
+      2 Hill, Jeff
+      2 Higham, Nicholas J.
+      2 Heywood, C.J.
+      2 Herrmann, L.J.
+      2 Hendy, M.F.
+      2 Hempstead, C.A.
+      2 Heath, P.
+      2 Hearder, H.
+      2 Healey, J.F.
+      2 Hayward, Maria A.
+      2 Hayes, Paul M.
+      2 Hawthorn, G.P.
+      2 Hatcher, M. John
+      2 Haslam, Jonathan G.
+      2 Haslam, J.G.
+      2 Haskell, Francis J.H.
+      2 Haselgrove, C.C.
+      2 Haseldine, Julian P.
+      2 Harvie, C.T.
+      2 Harvey, Karen
+      2 Harvey, David
+      2 Hart, T.
+      2 Hart, M.W.
+      2 Harte, Negley B.
+      2 Harrison, C.J.
+      2 Harrison, Brian H.
+      2 Harris, J.R.
+      2 Harris, Jose
+      2 Harris, Jonathan
+      2 Harris, Howell J.
+      2 Harper, Timothy N.
+      2 Harper, Tim
+      2 Harper-Bill, Christopher
+      2 Harman, Peter M.
+      2 Harley, Charles Knickerbocker
+      2 Hardy, E. R.
+      2 Hardy, Anne
+      2 Harding, A.
+      2 Hanson, William S.
+      2 Hannah, Leslie
+      2 Hampson, N.
+      2 Hamlett, Jane
+      2 Halls, W.D.
+      2 Hall, G.D.G.
+      2 Hallett, Raphael J.L.
+      2 Hall, Alaric
+      2 Hale, J.R.
+      2 Haggerty, Sherylynne
+      2 Haggerty, Sheryllynne
+      2 Hadfield, C.
+      2 Hack, Karl A.
+      2 Gurney, Peter J.
+      2 Grun, G.A.
+      2 Grove, Eric J.
+      2 Griffiths, R.M.
+      2 Grieves, Keith
+      2 Gretton, Thomas H.
+      2 Grenville, Jane
+      2 Grell, Olé
+      2 Gregory, D.J.
+      2 Greenwood, Sean
+      2 Green, S.J.D.
+      2 Green, I.M.
+      2 Green, Ewen H.H.
+      2 Green, A.E.
+      2 Grayson, C.
+      2 Grassby, R.B.
+      2 Graham, J.M.
+      2 Graham, Helen
+      2 Graham, B.D.
+      2 Gow, James
+      2 Goody, J.R.
+      2 Goodwin, G.L.
+      2 Goldey, D.B.
+      2 Glynn, S.
+      2 Gleeson, David
+      2 Gleadle, Kathryn
+      2 Glassey, Lionel K.J.
+      2 Glass, D.V.
+      2 Glaisyer, Natasha
+      2 Given-Wilson, C.J.
+      2 Gilvear, David
+      2 Gillies, W.
+      2 Giles, Katherine
+      2 Gilbert, M.J.
+      2 Giglioni, Guido
+      2 Ghosh, Peter
+      2 Ghosh, Kantik
+      2 Geras, N.M.
+      2 Gentilcore, David C.
+      2 Gaunt, Peter G.I.
+      2 Gauci, Perry L.
+      2 Gasper, Giles M.
+      2 Garson, Robert A.
+      2 Garrard, John A.
+      2 Gardner, P.W.
+      2 Gameson, Richard G.
+      2 Gajda, Alex
+      2 Gabbey, W.A.
+      2 Fryde, E.B.
+      2 Frost, Robert I.
+      2 Frenkiel, S.
+      2 Frend, W.H.C.
+      2 Freitag, Ulrike
+      2 Freeman, T.W.
+      2 Freeman, Mark
+      2 Freedman, M.
+      2 Freeden, Michael S.
+      2 Frederiksen, M. W.
+      2 Frayling, C.J.
+      2 Fraser, P. M.
+      2 Frame, R.F.
+      2 Foster, J.
+      2 Foster, D.
+      2 Fortna, Benjamin C.
+      2 Fortescue, W.A.I.
+      2 Forrester, John
+      2 Foot, Sarah R.I.
+      2 Foot, R.
+      2 Foote, P.G.
+      2 Fletcher, R.A.
+      2 Fletcher, Jennifer M.
+      2 Fletcher, Anthony J.
+      2 Fletcher, A.J.
+      2 Fisher, Nicholas R.E.
+      2 Fisher, Kate
+      2 Fisher, John
+      2 Fisher, H.E. Stephen
+      2 Fischer, Conran J.
+      2 Finley, M.I.
+      2 Finlay, Richard J.
+      2 Fielden, K.
+      2 Feldman, David M.
+      2 Fedorowich, Kent
+      2 Fear, Andrew T.
+      2 Farrie, D.A.
+      2 Farnie, D.A.
+      2 Ewen, Shane
+      2 Evans, P.C.C.
+      2 Esdaile, Charles J.
+      2 Erickson, Charlotte  J.
+      2 Emery, F.V.
+      2 Ellis, Robert
+      2 Ellison, James
+      2 Ellis, Katharine J.
+      2 Ellis, G.J.
+      2 Ellis, Geoffrey J.
+      2 Elliott-Bateman, M.R.
+      2 Eldridge, Colin
+      2 Edwards, Peter
+      2 Edwards, O. Dudley
+      2 Edwards, M.
+      2 Edwards, Kathleen
+      2 Edwards, Andrew C.
+      2 Eden, P.M.G.
+      2 Dyhouse, Carol A.
+      2 Dyer, A.D.
+      2 Dwyer, Claire
+      2 Dunthorne, Hugh L.A.
+      2 Dunne, John
+      2 Dunne, Denise
+      2 Duncan, A.M.
+      2 Duits, Rembrandt
+      2 Duffy, Seán
+      2 Drewery, B.
+      2 Dresser, Madge J.
+      2 Doyle, William
+      2 Downes, D.M.
+      2 Dow, Frances D.
+      2 Dodwell, Barbara
+      2 Dodgshorn, R.A.
+      2 Dodge, Hazel
+      2 Dodds, Benjamin
+      2 Dodds, Ben
+      2 Dobson, Mary J.
+      2 Dixon, Simon M.
+      2 Ditchfield, Simon R.
+      2 Dingwall, Helen M.
+      2 Dimsdale, Nicholas
+      2 Dilks, David N.
+      2 Dickson, M.G.
+      2 Diamond, D.R.
+      2 Dewey, C.J.
+      2 de Visscher, Eva
+      2 Dennis, Flora
+      2 de Madariaga, Isabel
+      2 Deighton, Anne
+      2 Deighton, A.F.
+      2 De Groot, Gerald J.
+      2 de Bellaigue, Christina
+      2 Dean, Dennis W.
+      2 Daybell, James
+      2 Dawson, P.F.
+      2 Davis, Virginia G.
+      2 Davis, R.J.
+      2 Davis, R.
+      2 Davis, John R.
+      2 Davis, J.A.
+      2 Davies, Wendy
+      2 Davies, Richard G.
+      2 Davies, Peter J.
+      2 Davies, I. Norman R.
+      2 Davies, Clifford S.L.
+      2 Davies, Andrew M.
+      2 Davies, A.
+      2 Davidson, R.
+      2 Davidson, Nick
+      2 Davey, Christopher J.
+      2 Daruvala, Susan
+      2 Da Rold, Orietta
+      2 Darlington, R.R.
+      2 Daniels, Stephen
+      2 Daniels, C. M.
+      2 Daly, Miriam A.
+      2 Cust, Richard P.
+      2 Cushing, Kathleen G.
+      2 Curtin, Mary Ellen
+      2 Curry, Anne
+      2 Cunningham, A.R.
+      2 Cunliffe, B. W.
+      2 Cullum, Patricia
+      2 Cullis, Philip J.
+      2 Crowson, Nicholas J.
+      2 Cross, M.  Claire
+      2 Cross, A.G.
+      2 Crook, Malcolm H.
+      2 Crook, J.A.
+      2 Cronin, Michael J.
+      2 Croft, J. Pauline
+      2 Creighton, H.C.
+      2 Crawford, M.H.
+      2 Craig, David
+      2 Crafts, N.F.R.
+      2 Crafts, N.
+      2 Cox, J.W.
+      2 Cox, J.J.
+      2 Coward, Barry
+      2 Cottrell, Philip L.
+      2 Coss, P.R.
+      2 Coss, Peter R.
+      2 Coss, Peter
+      2 Cosgrove, Dennis E.
+      2 Cosgrave, Mike
+      2 Cornell, Timothy J.
+      2 Copley, A.R.H.
+      2 Cooper, R.A.
+      2 Cooper, J.P.
+      2 Cook, Robert J.
+      2 Collins, Michael
+      2 Coley, Noel G.
+      2 Cole, Terence F.
+      2 Coleman, Janet
+      2 Cohn, Samuel
+      2 Coates, D.
+      2 Clear, Caitríona
+      2 Clark, P.A.
+      2 Clark, Ian
+      2 Clarke, J.C.
+      2 Clark, B.D.
+      2 Clarence-Smith, William G.
+      2 Claeys, Gregory R.
+      2 Church, Roy A.
+      2 Church, C.H.
+      2 Chaudhuri, P.K.
+      2 Chatterji, Joya
+      2 Charles-Edwards, T.M.O.
+      2 Charles-Edwards, Thomas M.O.
+      2 Charles-Edwards, Thomas
+      2 Chapman, Mark D.
+      2 Chaplais, P.T.V.M.
+      2 Chandavarkar, Rajnarayan S.
+      2 Chandarvarkar, R.S.
+      2 Chambers, Liam
+      2 Chambers, D. S.
+      2 Chalus, Elaine
+      2 Challis, C.E.
+      2 Chadwick, W.O.
+      2 Cecil, Hugh P.
+      2 Cass, Peter
+      2 Carver, Martin O.H.
+      2 Carter, Jennifer J.
+      2 Carr, A.D.
+      2 Carabott, Philip J.
+      2 Capp, B.S.
+      2 Capp, B.C.
+      2 Cannadine, D.N.
+      2 Campbell, P.R.
+      2 Campbell, J. Brian
+      2 Campbell, I.L.
+      2 Campbell, Bruce M.S.
+      2 Campbell, Alan B.
+      2 Cameron, J.
+      2 Cameron, Euan K.
+      2 Caird, J.B.
+      2 Cain, P.J.
+      2 Byres, T.J.
+      2 Butters, Humfrey C.
+      2 Butlin, R.A.
+      2 Butler, Lawrence J.
+      2 Butler, D.E.
+      2 Burt, R.
+      2 Burton, Janet E.
+      2 Burrow, John W.
+      2 Burrow, C.J.
+      2 Burnham, P.C.
+      2 Burnett, J.
+      2 Burke, U.P.
+      2 Burgess, Clive R.
+      2 Bullock, N.O.A.
+      2 Bull, Marcus G.
+      2 Buckley, John
+      2 Bryant, Margaret E.
+      2 Brunt, P.A.
+      2 Brown, Stewart J.
+      2 Brown, Michael H.
+      2 Brown, Michael
+      2 Brown, Kenneth D.
+      2 Browning, D.G.
+      2 Browne, E. Janet
+      2 Brown, A.F.J.
+      2 Brown, A.
+      2 Broun, Dauvit
+      2 Brotherstone, W.T.C.
+      2 Brooks, Nicholas P.
+      2 Brooks, Colin
+      2 Brooks, Chris W.
+      2 Brookes, J.E.
+      2 Brock, William H.
+      2 Brock, Sebastian P.
+      2 Brockliss, Laurence W.B
+      2 Breuilly, J.J.
+      2 Brayshay, Mark
+      2 Brand, C.P.
+      2 Bracke, Maud
+      2 Bracewell, C. Wendy
+      2 Boynton, L.O.J.
+      2 Boyce, Robert
+      2 Bowman, Alan
+      2 Bowers, R.D.
+      2 Bowers, J.K.
+      2 Bowers, B.
+      2 Bowen, Huw V.
+      2 Bowden, Susan M.
+      2 Boulton, Jeremy P.
+      2 Bottomore, T.B.
+      2 Bosworth, Richard
+      2 Blunt, A.F.
+      2 Blair, W.J.
+      2 Blackstock, Allan
+      2 Black, Christopher F.
+      2 Blackbourn, D.G.
+      2 Bivins, Roberta E.
+      2 Birley, A. R.
+      2 Biller, Peter
+      2 Biddiss, Michael D.
+      2 Bhattacharya, Sanjoy
+      2 Bennett, J.A.
+      2 Beier, A.L.
+      2 Behr, Shulamith
+      2 Beddoe, Deirdre
+      2 Beddard, R.A.
+      2 Beck, P.J.
+      2 Beckett, John  V.
+      2 Beard, W. Mary
+      2 Beach, Jim
+      2 Baycroft, Timothy
+      2 Baxter, Stephen D.
+      2 Batstone, E.V.
+      2 Bates, Crispin P.
+      2 Bates, Crispin B.
+      2 Bastin, J.S.
+      2 Bartrip, P.
+      2 Barry, J.
+      2 Barrow, Julia S.
+      2 Barron, J. P.
+      2 Barrett, T.H.
+      2 Barrett, John C.
+      2 Barrett, J.C.
+      2 Barnes, Ian R.
+      2 Barnes, A. John L.
+      2 Barnard, Toby
+      2 Barker, Simon
+      2 Barker, Graeme
+      2 Barber, Malcolm C.
+      2 Barber, Karin
+      2 Barber, J.D.
+      2 Banks, J.A.
+      2 Banham, P.R.
+      2 Baker, L. G. D.
+      2 Baker, Alan R.H.
+      2 Baines, Dudley E.
+      2 Bailiff, Ian
+      2 Bailey, V.
+      2 Bailey, Paul J.
+      2 Badcock, Sarah
+      2 Aylmer, Gerald E.
+      2 Avery, P.W.
+      2 Austin, R.
+      2 Austin, G.M.
+      2 Attewell, Guy
+      2 Attard, Bernard
+      2 Atkin, Nicholas
+      2 Atherton, Ian J.
+      2 Atherton, Ian
+      2 Aston, Emma
+      2 Ashton, Owen R.
+      2 Ashton, Owen
+      2 Asbridge, Thomas S.
+      2 Arena, Valentina
+      2 Archer, Rowena
+      2 Archer, John E.
+      2 Archer, Ian
+      2 Angold, M.J.
+      2 Anglo, S.
+      2 Anderson, Robert D.
+      2 Ambler, R.W.
+      2 Ambler, Rodney W.
+      2 Allison, Pim
+      2 Allison, Penelope
+      2 Allen, Mark
+      2 Allchin, F.R.
+      2 Ali, Daud
+      2 Alford, Stephen
+      2 Alexander, Sally A.
+      2 Alexander, Sally
+      2 Aldous, Christopher
+      2 Aldcroft, D.H.
+      2 Alcock, J.
+      2 A'Hearn, Brian
+      2 Afflerbach, Holger H.W.
+      2 Adams, Tony J.
+      2 Adamson, David L.
+      2 Adams, David
+      2 Acton, Edward D.J.
+      2 Abulafia, D.S.H.
+      2 Abramson, G.
+      2 Abramsky, C.
+      2 Abel-Smith, Brian
+      1 Zuczynski, M.G.
+      1 Zubaida, S.D.
+      1 Zipperstein, S.
+      1 Zimmerman, Friedrich W.
+      1 Ziemann, Benjamin
+      1 Zell, M.L.
+      1 Zell, Michael
+      1 Zeldon, T.
+      1 Zeitlin, J.H.
+      1 Zammit, J. Ann
+      1 Zacek, Natalie
+      1 Yudkin, J.
+      1 Yoxen, E.J.
+      1 Young, T.
+      1 Youngs, Deborah
+      1 Young, Ruth
+      1 Young, Robert
+      1 Young, Pamela
+      1 Young, N.J.
+      1 Young, Ken
+      1 Young, K.
+      1 Young, Brian W.
+      1 Young, Alan
+      1 Youings, Joyce  A.
+      1 Yorke, Barbara
+      1 York, Brian A.
+      1 Yeo, J.F.C. Harrison and C.S.
+      1 Yemetianova, Galina
+      1 Yee, Jennifer
+      1 Yates, Margaret
+      1 Yarrow, Simon
+      1 Yapp, Malcolm
+      1 Wynn, Neil A.
+      1 Wynn, Neil
+      1 Wynne, B.E.
+      1 Wyke, Terry
+      1 Wurthmann, William B.
+      1 Wrigley, C.C.
+      1 Wright, W.D.C.
+      1 Wright, R. P.
+      1 Wright, R.M.
+      1 Wright, R.J.M.
+      1 Wright, O.
+      1 Wright, J.R.C.
+      1 Wright, Anthony D.
+      1 Wormald, B.H.G.
+      1 Wormald, B. H. G.
+      1 Wordie, Ross
+      1 Worden, Blair
+      1 Worboys, M.R.
+      1 Woolley, Matthew
+      1 Woolf, Stuart J.
+      1 Woolf, G.D.
+      1 Woolf, Alexander
+      1 Woodward, P.R.
+      1 Woodward, Donald M.
+      1 Woodward, D.M.
+      1 Wood, Susanne M.
+      1 Wood, Susan M.
+      1 Woods, Robert I.
+      1 Woods, R.I,
+      1 Wood, P.A.
+      1 Wooding, Lucy
+      1 Woodhead, Christine
+      1 Woodgate, Graham
+      1 Wood, D.
+      1 Wood, C.M.
+      1 Wood, Betty
+      1 Woodall, Joanna W.
+      1 Wong, Yoke-Sum
+      1 Womersley, D.J.
+      1 Womersley, David J.
+      1 Womer, J.L.
+      1 Wolpe, H.
+      1 Wolffe, B.P.
+      1 Wolff, A.
+      1 Wolfe, Roy
+      1 Withington, Phil J.
+      1 Withington, Philip J.
+      1 Withers, Charles W.J.
+      1 Wiseman, Richard
+      1 Wiseman, D.J.
+      1 Wise, J.M.
+      1 Winterbottom, Michael
+      1 Winterbottom, M.
+      1 Winstanley, Michael
+      1 Winchester, D.H.
+      1 Wilton-Ely, J.
+      1 Wilson, P.
+      1 Wilson, N.G.
+      1 Wilson, N. G.
+      1 Wilson, K.P.
+      1 Wilson, K.G.
+      1 Wilson, Kenneth B.
+      1 Wilson, Keith M.
+      1 Wilson, J.Q.
+      1 Wilson, Jon E.
+      1 Wilson, Jon
+      1 Wilson, Joe
+      1 Wilson, J.M.
+      1 Wilson, J. F.
+      1 Wilson, D.R.
+      1 Wilson, D.A.
+      1 Wilmer, H.
+      1 Wills, Tarrin
+      1 Willson, Perry
+      1 Willsden, Clare A.
+      1 Willis, J.
+      1 Williams, W.M.
+      1 Williams, T.I.
+      1 Williams, Richard
+      1 Williamson, Paul
+      1 Williamson, C. F.
+      1 Williams, Michael
+      1 Williams, Kieran D.
+      1 Williams-Jones, W.K.
+      1 Williams, J.E. Hall
+      1 Williams, J.E.
+      1 Williams, G.P
+      1 Williams, Glyndwr
+      1 Williams, Gavin P.
+      1 Williams, Gavin
+      1 Williams, E. Ann
+      1 Williams, C.M.
+      1 Williams, Chris A.
+      1 Williams, A.F.
+      1 Willett, Peter
+      1 Wilks, Stephen R.M.
+      1 Wilks, Michael J.
+      1 Wilks, J. J.
+      1 Wilkinson, S.F.
+      1 Wilkinson, R.H.
+      1 Wilkins, N.E.
+      1 Wilkes, John J.
+      1 Wilford, F. Hugh
+      1 Wiles, P.J.
+      1 Wild, J.P.
+      1 Wilcock, Paul
+      1 Wigley, P.G.
+      1 Wightman, W.P.D.
+      1 Wightman, D.R.
+      1 Wiese, Christian
+      1 Wiener, P.B.
+      1 Whyte, J.H.
+      1 Whitworth, Michael
+      1 Whitty, G.J.
+      1 Whittington, G.W.
+      1 Whittaker, C. R.
+      1 Whiting, Robert
+      1 White, Martin
+      1 Whiteman, E.Anne O.
+      1 Whiteman, E.  Anne  O.
+      1 Whitelock, Anna
+      1 Whiteley, Linda
+      1 Whiteley, Jon J.L.
+      1 Whiteley, J.J.L.
+      1 White, James D.
+      1 White, H.P.
+      1 White, Graeme
+      1 Whitefield, S.D.
+      1 White, Eryn M.
+      1 White, B.
+      1 Whitby, L. Michael
+      1 Whitbread, Ian
+      1 Whitaker, P.
+      1 Whitaker, C. W.
+      1 Whistler, C.T.
+      1 Whenham, E.J.
+      1 Wheeler, M.C.
+      1 Wheeler, Dennis
+      1 Whaley, Joachim
+      1 West, Shearer C.
+      1 West, H.W.
+      1 Westall, O.M.
+      1 Westad, Arne
+      1 Werskey, P.G.
+      1 Wernham, R.B.
+      1 Wendl, W.M.L.
+      1 Wenden, D.J.
+      1 Welton, J.
+      1 Wells, R.A.E.
+      1 Wells, Helen
+      1 Wellesley, K.
+      1 Weis, Rene
+      1 Weisheipl, J.
+      1 Weisbrod, Bernd
+      1 Weinberger, Barbara
+      1 Weigall, David
+      1 Weedon, Alexis
+      1 Webster, D.
+      1 Webster, A.B.
+      1 Webber, Teresa
+      1 Webber, N.
+      1 Webber, M. Tessa J.
+      1 Webber, J.M.
+      1 Webb, Clive J.
+      1 Weaver, Lawrence
+      1 Wear, Andre
+      1 Waxman, Zoe
+      1 Watts, John
+      1 Watt, Dianne
+      1 Watt, Diane
+      1 Watson, N.F.
+      1 Watson, J.K.
+      1 Watson, D.R.
+      1 Watkins, O.
+      1 Watkins, Carl S.
+      1 Watkins, C.
+      1 Watkin, David
+      1 Watkin, C.
+      1 Watanabe-O'Kelly, Helen
+      1 Washbrook, David
+      1 Warwick, G.
+      1 Warren, W.L.
+      1 Warren, Allen J.
+      1 Warren, Alan J.
+      1 Warrack, J.
+      1 Warnock, Helen M.
+      1 Warnes, Christopher
+      1 Ware, K. T.
+      1 Wareing, J.
+      1 Ward, S.B.
+      1 Ward, P.J.
+      1 Wardle, Ken A.
+      1 Ward, J.S.K.
+      1 Ward, Jennifer C.
+      1 Ward, Benedicta
+      1 Warburton, Alan
+      1 Wansbrough, J.E.
+      1 Wangermann, E.
+      1 Walton, John
+      1 Walton, J.F.
+      1 Walters, C.C.
+      1 Walsh, P.G.
+      1 Walls, A.P.
+      1 Walls, Andrew F.
+      1 Wallis, P.J.
+      1 Waller, Philip
+      1 Wallace-Hadrill, J.M
+      1 Wallace-Hadrill, A.F.
+      1 Walker, Stephen P.
+      1 Walker, Simon K.
+      1 Walker, Simon
+      1 Walker, Gordon
+      1 Walker, Garthine M.
+      1 Walker, Garthine
+      1 Walker, F.X.
+      1 Walker, D.G.
+      1 Waley, D.P.
+      1 Waldron, Tony
+      1 Wakelin, Peter
+      1 Wakefield, G.L.
+      1 Waites, Bernard A.
+      1 Waites, Bernard
+      1 Waines, D.
+      1 Wailes, B.
+      1 Wahrman, Dror
+      1 Wagstaff, A.M.
+      1 Waddington, Geoffrey T.P.
+      1 Wacher, J.S.
+      1 Wacher, J.
+      1 Vysny, M. Paul
+      1 Vysny, M.P.
+      1 Vosper, Susan R. Saunders
+      1 Vosper, S.
+      1 von Tunzelmann, G.N.
+      1 Volfing, Annette
+      1 Vogel, Ursula
+      1 Vinson, Adrian J.
+      1 Vine, R.T.R.
+      1 Vickers, E.
+      1 Viala, Alain
+      1 Vertovec, Steven A.
+      1 Vermes, G.
+      1 Verdi, Richard F.
+      1 v, D.
+      1 Vaughan, R.
+      1 Vaughan, M.A.
+      1 Vaughan, C.
+      1 Vasunia, Phiroze
+      1 Vasudevan, Alex
+      1 Vasey, T.W.C.
+      1 Varouxakis, Georgios
+      1 Varnam, Laura
+      1 van Wees, Hans
+      1 van Lohuizen de Leeuw, Johanna E.
+      1 van Houts, Elisabeth M.C.
+      1 van Houts, Elisabeth
+      1 van Houten, Pieter
+      1 van Gelderen, Martin
+      1 van Dommelen, Peter
+      1 van de Ven, Hans
+      1 van der Veen, Marijke
+      1 van der Veen, Manjke
+      1 van der Eijk, Philip
+      1 Van den Ven, Hans J.
+      1 van den Ven, Hans
+      1 Vance, R.N.C.
+      1 Van Bremen, Henrietta C.
+      1 van Arkadie, B.
+      1 Vamplew, W.
+      1 Vallance, Ted
+      1 Vallance, Edward
+      1 Valiulis, Maryann
+      1 Usher, G.A.
+      1 Usborne, Cornelie
+      1 Urry, J.
+      1 Unwin, Timothy
+      1 Unwin, P. Tim H.
+      1 Unterhalter, Elaine
+      1 Ullmann, H.P.
+      1 Tziovas, D.
+      1 Tyzack, Rosemary  M.
+      1 Tyson, Robert
+      1 Tyson, J.C.
+      1 Tyre, Stephen
+      1 Tyler, Elizabeth M.
+      1 Tyerman, Christopher
+      1 Twyman, Michael
+      1 Turpin, C.C.
+      1 Turner, P.D.L.
+      1 Turner, Michael E.
+      1 Turner, Michael
+      1 Turner, M.E.
+      1 Turner, M.
+      1 Turner, H.W.
+      1 Turner, H.A.F.
+      1 Turner, D.M.
+      1 Turner, David M.
+      1 Turner, David
+      1 Turnbull, G.F.
+      1 Turley, D.M.
+      1 Turley, David M.
+      1 Turley, David
+      1 Turchetti, Simone
+      1 Tunzelmann, G.N. von
+      1 Tunzelman, G.N. von
+      1 Tunstall, Kate
+      1 Tumblety, Joan L.
+      1 Tumblety, Joan
+      1 Tudor, H.
+      1 Tsang, Steve Y.-S.
+      1 Tsang, S.
+      1 Trythall, J.W.D.
+      1 Trueman, Carl R.
+      1 Trueman, B.E.S.
+      1 Tringham, Nigel
+      1 Trinder, B.S.
+      1 Trinder, Barrie S.
+      1 Trevor-Roper, H. R.
+      1 Trevithick, J.A.
+      1 Tregidga, G.
+      1 Tregear, P.S.
+      1 Treadwell, V.W.
+      1 Travers, D.T.
+      1 Trapido, Stephen
+      1 Trainor, R.H.
+      1 Toye, J.F.J.
+      1 Townshend, Charles
+      1 Townsend, G.B.
+      1 Towle, Philip
+      1 Tosh, John
+      1 Tosh, J.A.
+      1 Torrence, J.R.
+      1 Torrance, I.
+      1 Tooze, J. Adam
+      1 Tooze, Adam
+      1 Tomlinson, Roger S.O.
+      1 Tomlinson, Jim D.
+      1 Tomlinson, Jim
+      1 Tomlinson, James
+      1 Tomlinson, H. A.
+      1 Tomlinson, D.R.
+      1 Tomlinson, B.R. (Tom)
+      1 Tomlinson, B.R.
+      1 Tomlin, R. S. O.
+      1 Tomlin, Roger
+      1 Tomkys, Roger
+      1 Tomkins, Alannah E.
+      1 Tomaszewski, Jerzy
+      1 Tolliday, Stephen W.
+      1 Tolley, B.H.
+      1 Todman, Daniel W.
+      1 Titov, Alexander
+      1 Tiratsoo, N.
+      1 Tipping, Richard
+      1 Tippett, Maria W.
+      1 Tinios, P. Ellis
+      1 Tinios, P.E.
+      1 Tingle, Elizabeth
+      1 Tindley, Annie
+      1 Till, Geoffrey
+      1 Thurmer, J.A.
+      1 Throup, David W.
+      1 Thrift, N.J.
+      1 Thorp, T. Rosemary
+      1 Thorp, Teresa  R.
+      1 Thornton, Timothy
+      1 Thornton, M.
+      1 Thornton, Dora
+      1 Thornton, Christopher
+      1 Thorne, David
+      1 Thomson, John A.F.
+      1 Thomson, J.K.J.
+      1 Thomson, Guy
+      1 Thomson, Benjamin J.
+      1 Thomson, Alistair S.
+      1 Thompson, W.
+      1 Thompson, Steven
+      1 Thompson, R.F.
+      1 Thompson, P.J.
+      1 Thompson, Paul R.
+      1 Thompson, Mathew
+      1 Thompson, Mark
+      1 Thompson, John B.
+      1 Thompson, James
+      1 Thompson, J.
+      1 Thompson, I.A.A.
+      1 Thompson, E. A.
+      1 Thompson, Dorothy     K.G.
+      1 Thompson, David
+      1 Thompson, Colin
+      1 Thompson, Benjamin J.
+      1 Thompson, Andrew
+      1 Thompson, Alastair P.
+      1 Thomis, M.I.
+      1 Thom, D.
+      1 Thomas, Nicholas
+      1 Thomas, Martin C.R.
+      1 Thomas, J.J.
+      1 Thomas, J.H.
+      1 Thomas, Gabor
+      1 Thomas, G.
+      1 Thomas, D.O.
+      1 Thomas, D.A.T.
+      1 Thomas, D.
+      1 Thomas, C.
+      1 Thirsk, I.  Joan
+      1 Thewlis, J.C.
+      1 Thernstrom, S.
+      1 Thane, Patricia     M.
+      1 Temperley, H.R.
+      1 Tebbutt, Melanie
+      1 Taylor, Simon
+      1 Taylor, R.H.
+      1 Taylor, P.A.M.
+      1 Taylor, Matthew
+      1 Taylor, John
+      1 Taylor, Jeremy
+      1 Taylor, H.W.J.
+      1 Taylor, G.L.
+      1 Taylor, Eric
+      1 Taylor, E.A. Roberts and R.
+      1 Taylor, E
+      1 Taylor, Craig D.
+      1 Taylor, C.C.
+      1 Tayloe, Craig
+      1 Tate, T.
+      1 Tasker, Mary E.
+      1 Tanner, M.F.
+      1 Tanner, Andrea
+      1 Talbot, Ian A.
+      1 Talbot, E.J.
+      1 Tadmor, Naomi
+      1 Szreter, Simon
+      1 Szreter, R.
+      1 Szejnmann, Claus-Christian W.
+      1 Symonds, R.
+      1 Symondson, A.
+      1 Sykes, Alan
+      1 Swindell, K.
+      1 Swift, Tony
+      1 Swift, Roger
+      1 Swift, Helen
+      1 Swenarton, M.C.
+      1 Swanwick, K.
+      1 Swanson, Robert
+      1 Swann, P.
+      1 Swallow, Deborah
+      1 Swain, Geoffrey R.
+      1 Swain, Geoff
+      1 Sutton, John
+      1 Sutton, Deborah
+      1 Sutherland, Lucy S.
+      1 Sutherland, Lucy
+      1 Sutherland, J.
+      1 Sutherland, Gillian  R.
+      1 Sutherland, C.H.V.
+      1 Sutherland, Annie
+      1 Sutcliffe, R.B.
+      1 Sutcliffe, Anthony R.
+      1 Surry, N.W.
+      1 Supple, B. E.
+      1 Summerson, J.N.
+      1 Summerson, J.
+      1 Summers, Anne R.
+      1 Summers, Anne
+      1 Summerfield, Pennt
+      1 Summer, C.S.
+      1 Sullivan, T.J.
+      1 Suleiman, Michael W.
+      1 Sugihara, Kaoru
+      1 Styles, John
+      1 Styles, J.
+      1 Sturgess, R.W.
+      1 Sturgess, R.
+      1 Sturdy, Steve
+      1 Stuart, Elizabeth
+      1 Strong, D.E.
+      1 Strohm, Reinhard
+      1 Stringer, K.J.
+      1 Stringer, Keith
+      1 Strickland, Matthew
+      1 Strauss, Johann
+      1 Strathern, A. Marilyn
+      1 Strange, Susan
+      1 Strange, Julie Marie
+      1 Strange, Ian
+      1 Stradling, Robert A.
+      1 Stradling, R.A.
+      1 Strachan, Hew
+      1 Stoye, J.W.
+      1 Stouraiti, Anastasia
+      1 Storrs, Christopher
+      1 Stopford, J.
+      1 Stoodley, Nick
+      1 Stone, Norman
+      1 Stone, J.R.N.
+      1 Stone, John
+      1 Stone, J.C.
+      1 Stonehouse, B.
+      1 Stone, Glen
+      1 Stone, Eric
+      1 Stokes, Ray
+      1 Stokes, M.B.
+      1 Stokes, Martin
+      1 Stoddart, Simon
+      1 Stockwin, James A.A.
+      1 Stockwell, Sarah E.
+      1 Stockwell, Sarah
+      1 Stocks, J.C.
+      1 Stobart, Jon
+      1 Stigant, P.
+      1 Stigant, E.P.
+      1 Stiff, P.M.
+      1 Stewart, Peter
+      1 Stewart, J.W.
+      1 Stewart, John W.
+      1 Stewart, D.H.
+      1 Stewart, Daniel
+      1 Stewart, A.W.G.
+      1 Stewart, A.
+      1 Stevenson, Kim
+      1 Stevenson,  J.
+      1 Stevenson, Christine
+      1 Stevens, C. E.
+      1 Stevens, Anne F.
+      1 Steveni, M.
+      1 Stern, Karen
+      1 Stern, J.P.
+      1 Stern, G.H.
+      1 Sternfeld, F.W.
+      1 Stephens, John N.
+      1 Stein, S.
+      1 Stein, P.
+      1 Steiner, Zara  S.
+      1 Steiner, H.I.
+      1 Steele, Murray
+      1 Stedman, M.B.
+      1 St. Clair, W.L.
+      1 Staveley, R.
+      1 Staveley, E.S.
+      1 Staub, Martial J.M.
+      1 Starkey, Patricia
+      1 Stargardt, Nick
+      1 Stanley, L.
+      1 Stanley, E.G.
+      1 Stanley, Brian
+      1 Stanley, B.
+      1 Stalley, Roger
+      1 Stallabrass, Julian
+      1 Stafford, W.
+      1 Stafford, Pauline
+      1 Stafford, David
+      1 Stafford, D.
+      1 Spufford, Peter M.
+      1 Spring, D.W.
+      1 Spooner, F.C.
+      1 Spink, Ian W.A.
+      1 Spencer, Stephanie
+      1 Spencer, Philip
+      1 Spencer, J.W.
+      1 Spencer, J.R.
+      1 Spencer, John R.
+      1 Spencer, John
+      1 Spencer, J.C.
+      1 Spence, J.
+      1 Spawforth, Tony
+      1 Spate, V.M.
+      1 Spary, Emma
+      1 Sparke, Penelope
+      1 Spang, Rebecca L.
+      1 Sowerby, Tracey
+      1 Southgate, D.G.
+      1 Southern, D.B.
+      1 Southall, H.R.
+      1 Soukup, L.
+      1 Soskice, David
+      1 Sorkin, D.
+      1 Solomou, S.N.
+      1 Solomos, J.
+      1 Solokoff, Sally I.
+      1 Solkin, David H
+      1 Sokoloff, Sally I.
+      1 Sockett, H.T.
+      1 Snell, Keith D. M.
+      1 Snellgrove, D.L.
+      1 Snape, Steven R.
+      1 Snape, M.F.
+      1 Smith, V.F.G. Morgan and A. Hassell
+      1 Smith, T.A.
+      1 Smith, Roland R.R.
+      1 Smith, R.E.
+      1 Smith, R.B. Dobson and D.M.
+      1 Smith, R.A.A. McCall
+      1 Smith, Mark A.
+      1 Smith, L.
+      1 Smith, K.E.
+      1 Smith, Julia M.H.
+      1 Smith, Julia
+      1 Smith, Joseph
+      1 Smith, J.H.
+      1 Smith, Jeremy
+      1 Smith, I.R.
+      1 Smith, H.S.
+      1 Smith, G.S.
+      1 Smith, F.B.
+      1 Smith, Emma
+      1 Smith, D.J.
+      1 Smith, David F.
+      1 Smith, Christopher J.
+      1 Smith, Cathy
+      1 Smith, Brendan S.
+      1 Smith, Brendan .
+      1 Smith, Brendan
+      1 Smith, Alan G.R.
+      1 Smith, A.     Hassell
+      1 Smith, A.  Hassell
+      1 Smith, Adrian A.
+      1 Smith, Adam I.P.
+      1 Smethurst, R.G.
+      1 Smart, N.
+      1 Smallman-Rayner, Matthew
+      1 Small, Graeme
+      1 Smail, R.C.
+      1 Sloane, P.J.
+      1 Slinn, P.E.
+      1 Slatter, J.D.
+      1 Slater), T.R.
+      1 Slater, Terry
+      1 Slater, Elizabeth A.
+      1 Slack, G.L.
+      1 Sklair, L.A.
+      1 Skinner, Trish
+      1 Skinner, Quentin
+      1 Skinner, Patricia
+      1 Skilliter, Susan A.
+      1 Skilliter, S.
+      1 Sinclair, P.J.N.
+      1 Sinclair, D.J.
+      1 Sims, Richard L.
+      1 Sims, N.R.A.
+      1 Sims, N.A.
+      1 Simpson, Grant G.
+      1 Simpson, G.M.
+      1 Simon, U.E.
+      1 Simms, Katherine
+      1 Simms, Brendan
+      1 Simmonds, Alan G.V.
+      1 Siltanen, Janet
+      1 Sigsworth, E.M.
+      1 Siddle, D.
+      1 Siani-Davies, Peter
+      1 Shuttleworth, S.
+      1 Shrimpton, Nicholas
+      1 Shotter, David C.A.
+      1 Short, K.R.M.
+      1 Short, Ian
+      1 Short, Brian M.
+      1 Shivtiel, A.
+      1 Shipley, Graham
+      1 Sherr, James G.
+      1 Sherrington, E.J.
+      1 Sherratt, Andrew G.
+      1 Sheratt, Susan
+      1 Shepperson, G.S.
+      1 Shepperson, G. A.
+      1 Sheppard, June A.
+      1 Shepherd, J.W.
+      1 Shepherd, G.T.
+      1 Shepherd, G. T.
+      1 Shepherd, Ben
+      1 Shepard, Jonathan E.B.
+      1 Sheldrake, John S.
+      1 Sheikholeslami, A. Reza
+      1 Sheikholeslami, Ali Reza
+      1 Sheatman, J.K.G.
+      1 Shaw-Taylor, Leigh
+      1 Shaw, R.
+      1 Shaw, Philip
+      1 Shaw, M.T.
+      1 Shaw, Jane A.
+      1 Shaw, Jane
+      1 Shaw, Denis J.B.
+      1 Shattock, E.   Joanne
+      1 Sharpe, Laurence J.
+      1 Sharpe, Kevin M.
+      1 Sharp, A.J.
+      1 Sharp, A.
+      1 Sharma, Shalini
+      1 Shapin, S.A.
+      1 Shannon, R.S.
+      1 Shafer, B.E.
+      1 Shackleton, R.
+      1 Seymour, Susanne
+      1 Seyd, P.
+      1 Sewell, Michael J.
+      1 Serjeantson, Richard W.
+      1 Serjeant, R. B.
+      1 Sen, G.
+      1 Semple, Sarah
+      1 Selwyn, D.G.
+      1 Sellers, Ian
+      1 Sellar, W. David H.
+      1 Seligmann, Matthew S.
+      1 Seligmann, Matthew
+      1 Seed, John
+      1 Seed, J.
+      1 Sealy, L.S.
+      1 Seager, Robin J.
+      1 Seaborne, M.
+      1 Scott, William
+      1 Scott, Linda
+      1 Scott, H.G.
+      1 Scott, Dieter
+      1 Schwarz, Leonard
+      1 Schulze, Rainer U.W.
+      1 Schulze, Max-Stephan
+      1 Schulkind, E.W.
+      1 Schofield, Roger S.
+      1 Schlaim, A.
+      1 Schiller, Kay
+      1 Schenk, H.G.A.V.
+      1 Schenk, Catherine R.
+      1 Schapiro, L.
+      1 Schaefer, Axel R.
+      1 Schad, John
+      1 Scase, R.
+      1 Scarre, Chris
+      1 Sayers, Jane E.
+      1 Sayer, D.
+      1 Sawyer, P.H.
+      1 Sawyer, P. H.
+      1 Saward, Michael
+      1 Saville, A.J.B.     Marwick and J.
+      1 Savage-Smith, E.
+      1 Savage, R.T.
+      1 Saunders, O.C.
+      1 Saunders, I.J.
+      1 Saumarez-Smith, C.R.
+      1 Santangelo, Federico
+      1 Sandle, Mark A.
+      1 Sandle, Mark
+      1 Sanderson, J.M.M.
+      1 Sanderson, J. Michael
+      1 Sanders, E.P.
+      1 Salt, J.
+      1 Salmon, Richard J.
+      1 Salmon, P.J.K.
+      1 Sally, Horrocks
+      1 Saint, Andrew J.
+      1 Saint, Andrew
+      1 Sainsbury, Sally B.
+      1 Sainsbury, Sally  B.
+      1 Sabri-Tabrizi, G. Reza
+      1 Sabin, Philip A.G.
+      1 Sabin, P.A.G.
+      1 Ryzova, Lucy
+      1 Rykwert, J.
+      1 Rycraft, Peter
+      1 Ryan, William F.
+      1 Ryan, Stephen
+      1 Ryan, S.
+      1 Ryan, Mick
+      1 Ryan, James R.
+      1 Ryan, James
+      1 Ryan, A.J.
+      1 Rutter, Neville K.
+      1 Rutherford, Ian C.
+      1 Russell, P.E.
+      1 Russell, D.C.
+      1 Russell, David
+      1 Russell, D. A. F. M.
+      1 Rushton, P.
+      1 Rumble, Alex R.
+      1 Ruggles, Clive
+      1 Rudwick, M.J.S.
+      1 Rudden, B.A.
+      1 Rublack, Ulinka C.
+      1 Rubin, Pat
+      1 Rubin, Miri
+      1 Rubies, Joan-Pau
+      1 Rpbertson, C.J.A.
+      1 Rowthorn, R.E.
+      1 Rowlinson, W.
+      1 Rowley-Conwy, Peter
+      1 Rowlands, M.J.
+      1 Rowlands, M.
+      1 Rowlands, I.W.
+      1 Rowlands, Ifor
+      1 Rowlands, Guy R.
+      1 Rowlands, Guy
+      1 Rowlands, Alison
+      1 Rowett, John S.
+      1 Rowe, Michael P.
+      1 Rowell, D. Geoffrey
+      1 Rowe, E.
+      1 Rowdon, H.H.
+      1 Rowbotham, Judith D.
+      1 Rouse, Paul
+      1 Rothwell, Victor H.
+      1 Rothwell, Victor
+      1 Rothschild, E.
+      1 Rosser, A.G
+      1 Rosselli, J.
+      1 Ross, C.D.
+      1 Ross, Cathy
+      1 Ross, A.
+      1 Rosman, Doreen M.
+      1 Rosman, Doreen  M.
+      1 Roskell, R.S.
+      1 Roseveare, H.G.
+      1 Rose, S.
+      1 Rose, Mary B.
+      1 Rose, F.
+      1 Roper, Michael S.
+      1 Roper, Lyndal
+      1 Roodhouse, Mark
+      1 Röhrkasten, Jens U.
+      1 Röhl, J.C.G.
+      1 Rohkramer, Thomas
+      1 Rogister, John M.J.
+      1 Rogister, J.M.J.
+      1 Rogers, T.
+      1 Rogers, D.
+      1 Rogers, A.
+      1 Roffey, Simon
+      1 Rodway, A.E.
+      1 Rodgers, H.B.
+      1 Rodewald, C. A.
+      1 Roche, J.J.
+      1 Robson, P.
+      1 Robinson, Neal
+      1 Robinson, Ian
+      1 Robinson, D.J.
+      1 Roberts, S.
+      1 Roberts, R.S.
+      1 Roberts, R.O.
+      1 Roberts, R.J.
+      1 Roberts, Richard
+      1 Roberts, P.R.
+      1 Roberts, Peter R.
+      1 Roberts, Penelope W.
+      1 Robertson, E. Clare
+      1 Robertson, C. M.
+      1 Robertson, C.J.A.
+      1 Roberts, M.
+      1 Roberts, Geoffrey
+      1 Roberts, Edward A.
+      1 Roberts, D.
+      1 Robb, Peter
+      1 Robbins, R.H.
+      1 Roach, Andrew P.
+      1 Roach, Andrew
+      1 Rivet, A. L. F.
+      1 Rivers, J.P.W.
+      1 Rivers, Isabel
+      1 Risso, Linda
+      1 Ringen, Stein
+      1 Rimmington, D.R.
+      1 Rimmer, Joyce M.
+      1 Riley - Smith, J.S.C.
+      1 Riley - Smith, J. S. C.
+      1 Riley, R.C.
+      1 Rigby, S.H.
+      1 Rifkin, Adrian
+      1 Rieger, Bernhard
+      1 Rider, Catherine R.
+      1 Riddy, J.
+      1 Riddy, Felicity
+      1 Richmond, Vivienne
+      1 Riches, William T.M.
+      1 Richards, Shaun
+      1 Richards, P.G.
+      1 Richards, Penny
+      1 Richardson, Richard C.
+      1 Richardson, R.
+      1 Richards, Jennifer T.
+      1 Richards, Jeffrey M.
+      1 Richards, J.
+      1 Richards, D.S.
+      1 Richards, D. S.
+      1 Richards, Donald S.
+      1 Ribeiro, Aileen  E.
+      1 Riall, Lucy J.
+      1 Rhys Morus, Iwan
+      1 Rhodes, P. J.
+      1 Rhodes, Peter J.
+      1 Reynolds, Siân
+      1 Reynolds, Joyce  M.
+      1 Reynalds, Andrew
+      1 Reuveni, Gideon
+      1 Renwick, Christopher
+      1 Renfrew, J.M.
+      1 Renfrew, J.
+      1 Rendle, Matt
+      1 Rendel, Marguerite
+      1 Rendall, Jane
+      1 Remond, R.
+      1 Reiss, Matthias
+      1 Reis.
+      1 Reinhardt, Tobias
+      1 Reimann, Aribert
+      1 Reid, Kirsty M.
+      1 Reid, K.C.
+      1 Reidi, Eliza
+      1 Reid, Douglas A.
+      1 Reid, B.H.
+      1 Regan, D.
+      1 Reeves, P.
+      1 Reeves, Marjorie E.
+      1 Rees, Tim
+      1 Rees, Owen
+      1 Rees, Arfan
+      1 Rees, A.M.
+      1 Ree, J.
+      1 Reed, Terence J.
+      1 Reece, R.M.
+      1 Redworth, Glyn
+      1 Redmond, Anthony
+      1 Reddaway, T.F.
+      1 Rechter, D.
+      1 Rea, J.R.
+      1 Read, Christopher
+      1 Ray, Margaret
+      1 Ray, J.D.
+      1 Raychaudhuri, Tapan
+      1 Raychaudhuri, Dr. T.
+      1 Raven, J.
+      1 Ravenhill, W.L.D.
+      1 Rathwell, J.C.A.
+      1 Rathbone, Richard
+      1 Ratcliffe, B.M.
+      1 Rapport, Michael G.
+      1 Rankin, S.
+      1 Ranieri, Ruggero
+      1 Randall, Nicholas
+      1 Ramble, Charles
+      1 Rajak, Tessa
+      1 Rahtz, P. A.
+      1 Rack, Henry D.
+      1 Raby, Julian A.J.
+      1 Rabinovitch, N.L.
+      1 Raab, C.D.
+      1 Quinn, Kate
+      1 Quinn, Josephine
+      1 Quinault, Roland E.
+      1 Questier, Michael C.
+      1 Pyrsent, Robert B.
+      1 Pye, N.
+      1 Pye, E.M.
+      1 Purkiss, Diane
+      1 Purkis, J.
+      1 Purcell, Nicholas
+      1 Purcell, J.
+      1 Pumfrey, S.
+      1 Pullman, B.S.
+      1 Pugh, R.K.
+      1 Pugh, R.B.
+      1 Puffett, D.R.
+      1 Prynne, J.H.
+      1 Proudfoot, Lindsey J.
+      1 Prothero, R.M.
+      1 Prothero, Iorwerth J.
+      1 Procter, Margaret
+      1 Procter, Evelyn E.S.
+      1 Pritchard, J.
+      1 Pritchard, Gareth D.
+      1 Prince, Hugh C.
+      1 Prince, D.T.W.
+      1 Priestland, D.R.
+      1 Priestland, David R.
+      1 Price, Roger D.
+      1 Price, Munro
+      1 Price, J. Leslie
+      1 Price, Jenny
+      1 Price, C.J.L.
+      1 Prettejohn, Elizabeth
+      1 Prestwich, Michael
+      1 Preston, R.
+      1 Prescott, Andrew
+      1 Prescott, A.
+      1 Pratt, K.L.
+      1 Pratt, David R.
+      1 Pratt, Alan
+      1 Powis, Jonathan K.
+      1 Powis, J.K.
+      1 Power, Daniel J.
+      1 Power, Amanda L.
+      1 Powell, Nia M.W.
+      1 Powell, C.T.
+      1 Powell, B.W.F.
+      1 Potts, D.C.
+      1 Potter, Simon
+      1 Potter, D.L.
+      1 Potter, David L.
+      1 Postles, David A.
+      1 Post, H.R.
+      1 Postgate, John N.
+      1 Porter, R.
+      1 Porter, J.H.
+      1 Porter, E.
+      1 Porter, Dil
+      1 Porter, Bernard J.
+      1 Porter, B.
+      1 Popham, M.R.
+      1 Pope, Rex
+      1 Pope, R.
+      1 Pooley, Roger
+      1 Poole, Steven W.
+      1 Poole, Steven
+      1 Pons, V.
+      1 Pollock, N.
+      1 Pollock, Griselda
+      1 Pollard, John F.
+      1 Pollard, J.
+      1 Poleg, Eyal
+      1 Pointon, Marcia R.
+      1 Pogge van Strandman, H.J.O.
+      1 Pocock, D.F.
+      1 Platt, John E.
+      1 Platt, Colin S.
+      1 Pitt, M.R.
+      1 Pistarino, G.
+      1 Piscatori, James P.
+      1 Piscatori, James
+      1 Pinder-Wilson, R.H.
+      1 Pihlips, D.
+      1 Pickles, W.
+      1 Phythian, Mark
+      1 Phimster, Ian
+      1 Phiminster, Ian
+      1 Philp, Mark F.E.
+      1 Philp, Mark
+      1 Phillipson, N.
+      1 Phillips, Gordon A.
+      1 Phillips, David G.
+      1 Phillips, Celia M.
+      1 Phillips, B.C.
+      1 Phillips, A.D.M.
+      1 Philipson, Nicholas T.
+      1 Philips, Gordon
+      1 Philips, Colin B.
+      1 Philips, C.B.
+      1 Philip, M. F. E.
+      1 Philip, I.G.
+      1 Philip, G.E.D.
+      1 Phelan, Craig
+      1 Pettigrew, Will
+      1 Peter, Thompson
+      1 Peterson, Jen
+      1 Peterson, Derek
+      1 Peter R.
+      1 Péter, L.F.
+      1 Peter Edwards
+      1 Petch, D.F.
+      1 Perry, J.
+      1 Perlman, M.
+      1 Perkin, H. J.
+      1 Penslar, Derek
+      1 Penrose, Edith T.
+      1 Penny, N.
+      1 Penn, D.J.
+      1 Pelling, M.
+      1 Pelling, H. Margaret
+      1 Pelczynski, Z.A.
+      1 Peel, J.D.Y.
+      1 Peele, Gillian R.
+      1 Peele, Gillian  R.
+      1 Pederson, Fredrik J.G.
+      1 Pederson, Federik J.G.
+      1 Pedersen, Frederik J.G.
+      1 Pearson, Robin
+      1 Pearson, J.D.
+      1 Pear, R.H.
+      1 Pearce, Robert D.
+      1 Peacock, D. P. S.
+      1 Peach, Guthlac C.K.
+      1 Payne, A.J.
+      1 Pavlowitch, Stevan K.
+      1 Pavlowitch, S.K.
+      1 Paul, J.
+      1 Pattison, George
+      1 Pattison, B.
+      1 Pattinson, Juliette
+      1 Patterson, H.H.
+      1 Patten, J.H.C.
+      1 Patrick, Derek
+      1 Paterson, Jerry
+      1 Partridge, Monica
+      1 Partner, P.D.
+      1 Partmore, J.A.
+      1 Parsons, P. J.
+      1 Parsons, Martin
+      1 Parsons, Gerald
+      1 Parsons, D.W.
+      1 Parry, M.L.
+      1 Parry-Jones, W. Ll.
+      1 Parry, Ann
+      1 Parrinder, E.G.S.
+      1 Park, R.
+      1 Parkinson, F.
+      1 Parkin, F.
+      1 Parker, W.H.
+      1 Parker, R.L.
+      1 Parker, R.A.
+      1 Parker, R.
+      1 Parker, D.
+      1 Parker, Christopher J.W.
+      1 Parker, A.W.
+      1 Parker, Anthony W.
+      1 Paris, Michael
+      1 Pankhurst, R.
+      1 Paluello, L. Minio
+      1 Palsson, H.
+      1 Palmier, L.H.
+      1 Palmer, M.J.E.
+      1 Palmer, John J.N.
+      1 Palma, José G.
+      1 Pallot, J.
+      1 Pallister, Anne
+      1 Palliser, David M.
+      1 Palliser, David
+      1 Palladino, Paolo
+      1 Palairet, M.R.M.
+      1 Paget, E.
+      1 Page, R.I.
+      1 Page, M.
+      1 Oxaal, I.
+      1 Owen, Susan J.
+      1 Owen, Nicholas J.
+      1 Owen, Dorothy  M.
+      1 Ovendale, R.
+      1 Outhwaite, R.P.
+      1 Outhwaite, R. Brian
+      1 Ott, Sandra J.
+      1 Otte, Thomas
+      1 Oswald, A.J.
+      1 O'Sullivan, Deirdre
+      1 O'Sullivan, Deidre
+      1 Osmond, Jonathan P.
+      1 Osborne, Toby
+      1 Osborne, Robin G.
+      1 Ortiz, Eduardo
+      1 Orr, J.M.
+      1 Orridge, A.W.
+      1 O'Rourke, Shane P.
+      1 Ormrod, W.R.
+      1 Ormrod, D.J.
+      1 Orme, Nicholas I.
+      1 Orde, Anne W.
+      1 Orde, Anne  W.
+      1 Oram, Alison M.
+      1 Oram, Alison
+      1 Oppenheimer, Peter M.
+      1 Oliver, R.
+      1 O'Leary, Paul
+      1 Oldfield, J.R.
+      1 Oldfield, John
+      1 Oldfield, Anne S.
+      1 Olde, Anne W.
+      1 Okey, Robin F.C.
+      1 Okey, Robin
+      1 Okey, R.F.C.
+      1 O'Higgins, P.
+      1 O'Higgins, J.
+      1 O'Hara, James
+      1 O'Hanlon, Polly
+      1 O'Hanlon, M.
+      1 Ogilvie, S.C.
+      1 Ogborn, Miles J.
+      1 O'Flaherty, Wendy D.
+      1 O'Flaherty, Eamon
+      1 Offler, H.S.
+      1 O'Dowd, Dr. Mary
+      1 O'Donoghue, H.
+      1 O'Day, Rosemary
+      1 O'Connor, P. Emmet J.
+      1 O'Connell, Sean
+      1 O'Cinneide, Muireann
+      1 O'Ciardha, E.
+      1 O'Cathain, Mairtin
+      1 O'Brien, Phillips
+      1 O'Brien, M. Gerard R.
+      1 O'Brien, D.P.
+      1 O'Brien, D.B. Cruise
+      1 O'Brien, D.B.C.
+      1 Obelensky, D.
+      1 Nutton, V.M.
+      1 Nuttall, G.F.
+      1 Nugent, Paul C.
+      1 Nowell-Smith, Geoffrey S.
+      1 Nowakowska, Natalia M.
+      1 Nowakowska, Natalia
+      1 Nott, James
+      1 Noszlopy, George
+      1 Norton, E.C.
+      1 Northway, A.M.
+      1 North, G.
+      1 Norris, H.T.
+      1 Norbrook, D.G.E.
+      1 Norbrook, David G.E.
+      1 Norbrook, David
+      1 Noltie, Henry
+      1 Nolte, Insa
+      1 Nolan, P.H.
+      1 Nockles, Peter
+      1 Noakes, Jeremy
+      1 Noakes, J.D.
+      1 Noach, A.
+      1 Nizami, Farhan A.
+      1 Nixon, Mignon
+      1 Nisbet, J.D.
+      1 Nightingale, M.
+      1 Nightingale, John
+      1 Nicol, D. M.
+      1 Nicol, D.
+      1 Nichols, W.A.T.
+      1 Nicholson, Malcolm
+      1 Nicholson, Anthony (Tony)
+      1 Nicholls, Matthew
+      1 Nicholls, Mark
+      1 Nicholls, David
+      1 Nicholls, AJ.
+      1 Ní Bhroiméil, Úna
+      1 Newton, P.A.
+      1 Newton, C.C.S.
+      1 Newth, J.A.
+      1 Newman, M.
+      1 Newman, J.
+      1 Newman, A.W.
+      1 Newman, Aubrey N.
+      1 Newman, Andrew J.
+      1 Newby, L.J.
+      1 Newbigin, L.
+      1 Newbery, D.M.G.
+      1 Nevitt, Adela A.
+      1 Neve, M.R.
+      1 Netton, Ian R.
+      1 Nettler, Ronald
+      1 Nenadic, Stana S.
+      1 Nenadic, Stana
+      1 Nelson, Jinty
+      1 Nelson, Janet  L.
+      1 Nelson, Janet   L.
+      1 Neilsen, R.J.
+      1 Neill, E.T.
+      1 Neild, R.R.
+      1 Neild, R. R.
+      1 Nehring, Holger
+      1 Needham, J.
+      1 Naylor, R.
+      1 Nash, Robert C.
+      1 Napier, B.W.
+      1 Nair, Gwyneth
+      1 Nagib, Lucia
+      1 Myint, H.
+      1 Muthesius, S.
+      1 Mustapha, Abdul R.
+      1 Musallam, Basim F.
+      1 Murta, K.H.
+      1 Murray, P.J.
+      1 Murray, O.
+      1 Murray, L.
+      1 Murray, C.D.
+      1 Murphy, Philip V.
+      1 Murphy, Philip
+      1 Murphy, Neil W.
+      1 Murphey, R.
+      1 Murdoch, Brian O.
+      1 Murdoch, Alexander
+      1 Munton, R.J.C.
+      1 Munton, Richard J.C.
+      1 Munting, R.D.
+      1 Munslow, Alun
+      1 Munn, C.W.
+      1 Munitiz, Joseph A.
+      1 Munck, Thomas
+      1 Mullins, Elizabeth
+      1 Mullett, Michael
+      1 Mullet, Michael A.
+      1 Muldrew, J. Craig
+      1 Muldrew, Craig
+      1 Moxon, Ian S.
+      1 Mosley, D.J.
+      1 Morton, Graeme
+      1 Morton, A.H.
+      1 Mortimer, Sarah
+      1 Mortimer, Sara C.
+      1 Morris, T.P.
+      1 Morris, Rosemary
+      1 Morris, P.J.T.
+      1 Morris, Peter
+      1 Morrison, John C.
+      1 Morris, Jon
+      1 Morris, Jeremy
+      1 Morris, H.F.
+      1 Morris, G.C.
+      1 Morris, Christopher D.
+      1 Morris, Christine
+      1 Morris, C.
+      1 Morrill, John
+      1 Morgan, V.F.G.
+      1 Morgan, Philip
+      1 Morgan, N.
+      1 Morgan, J.D.
+      1 Morgan, Ben
+      1 Morewood, Steven
+      1 Moreton, P.W. Terence
+      1 More, Charles
+      1 Moorhouse, H.F.
+      1 Moorey, P. Roger S.
+      1 Moore, Susan Hardman
+      1 Moore, R.S.
+      1 Moore, R. E.
+      1 Moore, Jonathan
+      1 Moore, J.A.
+      1 Moore, Dafydd
+      1 Moore-Colyer, Richard
+      1 Moore, B. John S.
+      1 Moon, E.P.
+      1 Moon, David
+      1 Moody, Jane
+      1 Montagu, J.
+      1 Molyneux, Maxine
+      1 Molà, Luca
+      1 Moffatt, I.
+      1 Mitter, Rana
+      1 Mitchison, Rosalind  M.
+      1 Mitchison, Rosalind   M.
+      1 Mitchison, Rosalind     M.
+      1 Mitchell, S.
+      1 Mitchell, J.C.
+      1 Mitchell, A.
+      1 Misra, Maria
+      1 Miran, Marie
+      1 Mingay, Jean
+      1 Milne, Graeme J.
+      1 Milne, Drew
+      1 Mills, Stephen F.
+      1 Mills, C.A.
+      1 Millett, P.C.
+      1 Millett, P.
+      1 Millett, M.J.
+      1 Miller, T.J.
+      1 Miller, P.
+      1 Miller, Nicola
+      1 Miller, M.
+      1 Miller, John
+      1 Miller, D.L.
+      1 Millar, Sir Oliver
+      1 Millar, F. C. B.
+      1 Millard, D.W.
+      1 Millard, Andrew
+      1 Miliband, R.
+      1 Miliband, R
+      1 Miles, H.A.D.
+      1 Middleton, Roger A.H.
+      1 Middlebrook, Kevin
+      1 Mick, Christoph
+      1 Michie, R.C.
+      1 Michael, M.
+      1 Michael J.
+      1 Mhaonaigh, Máire Ní
+      1 Meussig, Carolyn
+      1 Mettam, Roger C.
+      1 Metcalfe, Sarah
+      1 Metcalfe, Alex
+      1 Metcalf, D. Michael
+      1 Merritt, Julia F.
+      1 Merritt, Julia
+      1 Merridale, Catherine
+      1 Meredith, A.
+      1 Mercer, Patricia A.
+      1 Mercer, Patricia   A.
+      1 Menski, W.F.
+      1 Mengham, Rod
+      1 Mendl, W.M.L.
+      1 Mendes-Flohr, P.
+      1 Menage, V.L.
+      1 Mellor, R.E.H.
+      1 Mellor, David A.
+      1 Mellart, J.
+      1 Meikle, S.
+      1 Mehrotra, S.R.
+      1 Meeks, G.
+      1 Mee, John
+      1 Mee, C.B.
+      1 Medlicott, W.N.
+      1 Mearker, Anna
+      1 McPhee, A.
+      1 McPartland, M.F.
+      1 McNamara, Robert
+      1 McNally, Paddy
+      1 McMullen, David L.
+      1 McManus, Clare
+      1 McLeod, Jenny
+      1 McLeod, D. Hugh MacLeod
+      1 McLean, M.
+      1 McLean, Iain S.
+      1 McLean, Iain
+      1 McKitterick, Rosamond  D.
+      1 McKitterick, David J.
+      1 McKinstry, Samuel
+      1 McKinley, R.A.
+      1 McKenzie, P.R.
+      1 McKenzie, M.L.
+      1 McKenzie, Judith
+      1 McKenzie, Donald F.
+      1 McKennel, A.C.
+      1 McKean, Charles
+      1 McKay, D.
+      1 McIvor, Arthur I.
+      1 McIvor, A.J.
+      1 McIntosh, Esther
+      1 McIlwaine, Ia  C.
+      1 McHugh, P.F.
+      1 McGuire, James
+      1 McGrail, Sean
+      1 McGrail, S.
+      1 McGowan, Margaret
+      1 McGlew, T.J.
+      1 McFarquhar, A.M.M.
+      1 McFarlane, Antony
+      1 McElligot, Anthony P.
+      1 McDonald, Alan
+      1 McDermott, R.P.
+      1 McDermid, Jane
+      1 McDaniel, Iain
+      1 McCullough, Peter
+      1 McCracken, Kathleen
+      1 McCracken, J.L.
+      1 McCormick, Finbar
+      1 McCormack, Matthew
+      1 McCormack, G.P.
+      1 McClive, Cathy
+      1 McClelland, V.A.
+      1 McClelland, Keith
+      1 McClelland, K.
+      1 MccGwire, M.K.
+      1 McCaskie, Tom
+      1 McCaffrey, John F.
+      1 McBride, Ian
+      1 McBarnet, Doreen J.
+      1 McAllister, R.A.
+      1 McAllister, James
+      1 May, G.H.L. Le
+      1 Mayer, A.C.
+      1 Mayall, James B.L.
+      1 Mayall, B.L.
+      1 Maxwell, R.
+      1 Maxwell, David
+      1 Maws, Alex
+      1 Mawby, Spencer
+      1 Mawby, Arthur A.
+      1 Maule, Jeremy F.
+      1 Mattingly, H. B.
+      1 Mattingley, David J.
+      1 Matthews, R.C.O.
+      1 Matthews, E.A.W
+      1 Matthew, J.F.
+      1 Matthew, H. Colin G.
+      1 Matthew, D.J.A.
+      1 Matless, D.S.
+      1 Mathieson, Margaret
+      1 Mathew, A.G.
+      1 Matheson, W.
+      1 Matheson, P.C.
+      1 Mather, Paul
+      1 Masterman, N.C.
+      1 Mass, J.
+      1 Massing, J.M.
+      1 Mason, S.F.
+      1 Mason, R.A.
+      1 Mason, Keith
+      1 Mason, E.  Emma
+      1 Mason, Alistair F.
+      1 Martin, Vanessa M.
+      1 Martin, Vanessa
+      1 Martins, H.G.
+      1 Martins, Herminio Gomez
+      1 Martin, R.L.
+      1 Martin, Moira
+      1 Martin, John
+      1 Martin, G.W.
+      1 Martin, G.
+      1 Martindale, Jane P.
+      1 Martindale, A.H.R.
+      1 Martin, D.
+      1 Martin, Colin J.M.
+      1 Martell, A. Luke
+      1 Marsh, Ben J.
+      1 Marshall, G.
+      1 Marshall, Dorothy
+      1 Marshall, Alan
+      1 Marsh, A.I.
+      1 Marsden, E. W.
+      1 Marrison, Andrew J.
+      1 Marrison, A.J.
+      1 Marriott, S.
+      1 Marnette, Sophie
+      1 Marland, M. Hilary
+      1 Markus, R. A.
+      1 Mark, James
+      1 Margaret Spufford
+      1 Marcus, R.A.
+      1 Marcus, Laura
+      1 March, L.J.
+      1 Mapstone, Sally L.
+      1 Mansfield, Nick
+      1 Manor, James
+      1 Mannsaker, F.M.
+      1 Mann, J.M.
+      1 Mann, J.C.
+      1 Mann, J. C.
+      1 Manning, D.J.
+      1 Mannherz, Julia
+      1 Mann, C. Nicholas J.
+      1 Mann, Alistair J.
+      1 Mango, Marlia
+      1 Mandlebrote, Scott H.
+      1 Mandelbrote, Scott H.
+      1 Malvern, Susan B.
+      1 Malone, Caroline
+      1 Mallett, M.E.
+      1 Malkiewicz, Andrej J.A.
+      1 Malek, J.
+      1 Malcolm, E.
+      1 Makin, Stephen A.R.
+      1 Major, John S.H.
+      1 Major, Andrea
+      1 Ma, John
+      1 Mailk, I.H.
+      1 Mahony, M.P.
+      1 Maguire, Patrick J.
+      1 Magraw, R.W.
+      1 Magdalino, Paul
+      1 Madelung, Wilfred W.F.
+      1 Madelung, Wilferd F.
+      1 Maddison, F.R.
+      1 Maddicott, John R. L.
+      1 Maddicott, John
+      1 Macrides, Ruth J.
+      1 MacRaild, Donald
+      1 MacPherson, A.
+      1 Macola, Giacomo
+      1 Macnicol, J.S.
+      1 MacMullen, Ian J.
+      1 MacMillan, Margaret O.
+      1 MacLeod, R.
+      1 Maclean, Ian W.F.
+      1 Mack Smith, D.
+      1 Mackridge, Peter A.
+      1 Mackie, Robin
+      1 Mackerness, E.D.
+      1 Mackerness, E.
+      1 Mackenzie, J.
+      1 MacKenzie, G.G.N.
+      1 Mackay, D.
+      1 MacIver, Kathleen M.
+      1 MacIntyre, A.D.
+      1 MacGregor, Susanne
+      1 MacGregor, Martin D.W.
+      1 Macgregor, Martin D.W.
+      1 MacGregor, Arthur G.
+      1 MacFarlane, S.N.
+      1 Macfarlane, Alan D.J.
+      1 Macfarlane, A.
+      1 Mac Eoin, G.S.
+      1 Macdougall, Simone
+      1 MacDonald, M.V.
+      1 MacDonald, M.E.
+      1 MacDonald, K.D.
+      1 MacDonald, J.H.
+      1 Macdonald, D.F.
+      1 Macdonald, Alistair J.
+      1 Macdonald, Alastair
+      1 Macdonald, A.J.
+      1 MacDonal, Alan
+      1 MacCulloch, D.
+      1 MacBeth, A.M.
+      1 Macaulay, James
+      1 Macartney, C.A.
+      1 Mabro, R.E.
+      1 Lyttelton, N.A.O.
+      1 Lythe, S.G.E.
+      1 Lyons, F.S.L.
+      1 Lyon, Peter H.
+      1 Lynch, John
+      1 Lynch, Derek
+      1 Lyall, F.
+      1 Lunn, K.J.
+      1 Lund, H.
+      1 Lukes, S.M.
+      1 Ludlow, P.W.
+      1 Luckin, W.
+      1 Lubbock, Jules
+      1 Lubasz, H.M.
+      1 Loyn, Brenda M. Bolton and H.R.
+      1 Lowy, S.
+      1 Lowry, M.J.C.
+      1 Lowry, Martin
+      1 Lowrey, J.P.
+      1 Low, Polly
+      1 Lowerson, John Ridley
+      1 Lowe, R.C.
+      1 Lowenthal, D.
+      1 Lowe, Kate
+      1 Lowe, J.
+      1 Lowe, D.A.
+      1 Lowder, S.
+      1 Low-Beer, Ann
+      1 Low-Beer, A.
+      1 Lo, Vivienne
+      1 Love, Rosalind
+      1 Lovell, Stephen
+      1 Lovell, John C.
+      1 Lovegrove, D.W.
+      1 Lovatt, R.W.
+      1 Lovatt, Roger W.
+      1 Louth, A.
+      1 Loughlin, James
+      1 Loughlin, J.
+      1 Lough, J.
+      1 Loudon, I.S.
+      1 Losseff, Nicola
+      1 LoPrete, Kimberly
+      1 Loon, P. van der
+      1 Lombardi, Elena
+      1 Lomas, R.A.
+      1 Loewe, M.A.N.
+      1 Lockley, Tim J.
+      1 Lockhouse, M.
+      1 Loach, S.  Jennifer
+      1 Lloyd, S.D.
+      1 Lloyd, P.C.
+      1 Lloyd, Lorna
+      1 Lloyd, J.A.
+      1 Lloyd, H.A.
+      1 Livingstone, David N.
+      1 Livesey, James
+      1 Liversidge, M.J.H.
+      1 Liversidge, A.V.  Antonovics     and M.J.H.
+      1 Liu, Tao Tao
+      1 Littlejohn, J.
+      1 Little, Jo
+      1 Lipner, Julius J.
+      1 Lipner, J.J.
+      1 Lintott, A.W.
+      1 Lintott, Andrew W.
+      1 Linton, Marisa
+      1 Ling, Lesley A.
+      1 Linehan, Peter A.
+      1 Lindley, K.J.
+      1 Lindley, Keith J.
+      1 Limentani, U.
+      1 Lilley, Keith
+      1 Lieven, Dominic
+      1 Lienhardt, R. G.
+      1 Liddiard, Robert E.
+      1 Leyshon, Catherine
+      1 Leyser, K. J.
+      1 Leyser, Henrietta L.V.
+      1 Leyser, Conrad C.
+      1 Lewis, Sian
+      1 Lewis, R. Gillian
+      1 Lewis, P. S.
+      1 Lewis, Peter S.
+      1 Lewis, M.J.T.
+      1 Lewis, Michael J.
+      1 Lewis, M.E.
+      1 Lewis, L.J.
+      1 Lewis, Katherine J.
+      1 Lewis, Joanna
+      1 Lewis, J.B.
+      1 Lewis, James B.
+      1 Lewis, James
+      1 Lewis, H.D.
+      1 Lewis, Gwynne
+      1 Lewis, C. Roy
+      1 Lewis, C.R.
+      1 Levi, Eric
+      1 Levene, Mark
+      1 Levene, Dan
+      1 Lester, Alun .J.
+      1 Le Saux, Françoise
+      1 Le Roux, Thomas
+      1 Le Roux, A.A.
+      1 Lepschy, G.
+      1 Lepper, F. A.
+      1 Leone, Anna
+      1 Leonard, D.
+      1 Lentin, Anthony
+      1 Lentin, A.
+      1 Lenihan, Pádraig
+      1 Leneghan, Francis
+      1 Lemon, M.C.
+      1 Lemon, A.
+      1 Lemnitzer, Jan M.
+      1 Leigh, L.H.
+      1 Le Huray, P.G.
+      1 Lehmann, J.-P.
+      1 Lehmann, Albert D.
+      1 Lehmann, A.D.
+      1 Leggett, Denise
+      1 Leff, G.
+      1 Lee, Robert
+      1 Lee, R.
+      1 Leeder, Karen
+      1 Leask, N.J.
+      1 Leach, Peter
+      1 Leach, Elizabeth
+      1 Leach, Bridget
+      1 Lawson, Tom
+      1 Lawrence, G.R.P.
+      1 Lawlor, Sheila M.M.
+      1 Lawler, K.
+      1 Law, John E.
+      1 Law, John
+      1 Law, D.S.
+      1 Laven, P. J.
+      1 Laven, Mary R.
+      1 Laurence, Ray
+      1 Last, M.
+      1 laslett, T.P.R.
+      1 Lasko, P.E.
+      1 Lasko, P.
+      1 Lash, N.L.A.
+      1 Larmer, Miles
+      1 Large, S.S.
+      1 Laqua, Daniel
+      1 La Porte, Norman
+      1 Lapidge, Michael
+      1 Lapenna, I.
+      1 Langton, John
+      1 Langslow, David
+      1 Langley, Dan
+      1 Langhorne, H.M.
+      1 Langford, C.M.
+      1 Lang, D.M.
+      1 Lang, D. M.
+      1 Lane, Melissa
+      1 Lane, A.T.
+      1 Lane, A.D.
+      1 Lane, A.
+      1 Landrus, Mallica K.
+      1 Landers, John M.
+      1 Lamont, W.
+      1 Lambert, Francis J.D.
+      1 Lambert, Audrey M.
+      1 Lambert, Andrew
+      1 Laing, L.R.
+      1 Laing, A.
+      1 Laidlaw, J. C.
+      1 Lacey, Nicola
+      1 Kushner,  A.R.J. (Tony)
+      1 Kurtz, D.C.
+      1 Kunt, M.
+      1 Kunt, Ibraham M.
+      1 Kuhrt, Amelie T.L.
+      1 Kuhrt, Amelie  T.L.
+      1 Kuczynski, Michael G.
+      1 Kuczynski, M.G.
+      1 Kraye, Jill
+      1 Kraus, C.S.
+      1 Kramer, M.
+      1 Kramer, Alan
+      1 Kornicki, P.F.
+      1 Korner, Axel
+      1 Konishi, Sho
+      1 Kolinsky, M.
+      1 Kolantiewicz, George M.
+      1 Koenigsberger, Dorothy M.
+      1 Knox, William
+      1 Knox, R. Buick
+      1 Knox, R.B.
+      1 Knowles, Dudley
+      1 Knowles, C.H.
+      1 Knight, Roger
+      1 Knight, J.B.
+      1 Knight, Frances
+      1 Knight, A.S.
+      1 Knecht, Robert J.
+      1 Knapp, Andrew
+      1 Klier, John D.
+      1 Klein, R.E.
+      1 Klein, Lawrence
+      1 Kirk, Linda M.
+      1 Kirk, John
+      1 Kirkham, P.
+      1 Kirk, G. S.
+      1 Kirby, Peter
+      1 Kirby, David G.
+      1 King, Ursula M.
+      1 King, Stephen A.
+      1 Kingsbury, B.W.
+      1 King, Ros
+      1 King, Edmund J.
+      1 King, D.S.
+      1 King, Desmond S.
+      1 King, Desmond
+      1 King, Christine E.
+      1 King, Christine  E.
+      1 King, C.E.
+      1 King, Carla
+      1 Kinealy, Christine
+      1 Killham, E.J.
+      1 Kidd, Colin
+      1 Kidd, Alan J.
+      1 Kidd, A.J.
+      1 Khong, Yuen Foong
+      1 Khong, Yuen F.
+      1 Khan, M.H.
+      1 Khalidi, T.
+      1 Keynes, Simon D.
+      1 Kerslake, Celia
+      1 Kershen, Anne S.
+      1 Kerr, W.G.
+      1 Kermode, Jennifer  I.
+      1 Kerler, D.-B.
+      1 Keppie, L.
+      1 Keogh, Dermot
+      1 Keogh, Daire
+      1 Kent, N.L.
+      1 Kent, J.H.S.
+      1 Kennedy, W.P.
+      1 Kennedy, Ruth
+      1 Kennedy, Michael J.
+      1 Kennedy, Michael
+      1 Kennedy, H.N.
+      1 Kennedy, E.M.
+      1 Kemp, M.J.
+      1 Kemp, Brian R.
+      1 Kemp, B.J.
+      1 Kemp, A.G.
+      1 Kelsall, R.K.
+      1 Kelly, W.
+      1 Kelly, T.
+      1 Kelly, John S.
+      1 Kelly, Jennifer
+      1 Kelly, J.E.
+      1 Kelly, E.
+      1 Kelly, Brian
+      1 Kelly, B.
+      1 Keller, D. McLellan and A.G.
+      1 Keller, A.G
+      1 Keepie, L.J.
+      1 Keene, Suzanne
+      1 Keeble, D.E.
+      1 Kedslie, Moyra J.
+      1 Keating, John
+      1 Kearns, G.P.
+      1 Kearns, G.
+      1 Keanrs, G.P.
+      1 Kean, Margaret
+      1 Kealey, Diana
+      1 Kaviraj, S.
+      1 Kavan, Z.
+      1 Kauffmann, Martin
+      1 Kauffman, Martin
+      1 Kauffman, Claus M.
+      1 Katz, D.
+      1 Katsari, Constantina
+      1 Karl, Raimund
+      1 Karlin - Hayter, Patricia
+      1 Karlin, D.
+      1 Kaplan, Benjamin J.
+      1 Kandiah, Michael D.
+      1 Kamminga, Harmke
+      1 Kamminga, H.
+      1 Kallis, Aristotle
+      1 Kakabadse, Nada
+      1 Kaizer, Ted
+      1 Kain, Roger K. P.
+      1 Kain, Roger J.P.
+      1 Kahn, R.F.
+      1 Kahn, J.S.
+      1 Jurica, John
+      1 Judge, H.G.
+      1 Judd, D.
+      1 Jotischsky, Andrew
+      1 Joslin, D.M.
+      1 Joshi, V.R.
+      1 Jordanova, Ludmilla  J.
+      1 Jope, E.M.
+      1 Jones, William
+      1 Jones, Timothy
+      1 Jones, Schuyler
+      1 Jones, Richard L.C.
+      1 Jones, Richard E.
+      1 Jones, R.
+      1 Jones, Polly
+      1 Jones, Phil
+      1 Jones, Peter Murray
+      1 Jones, Peter
+      1 Jones, Matthew
+      1 Jones, Martin
+      1 Jones, Katherine Duncan-
+      1 Jones, H. Stuart
+      1 Jones, Helen
+      1 Jones, Heather
+      1 Jones, G.T.
+      1 Jones, G.S.
+      1 Jones, G.L.
+      1 Jones, G. D. B
+      1 Jones, G.
+      1 Jones, Emrys L.
+      1 Jones, D.W.
+      1 Jones, Colin D.H.
+      1 Jones, Colin
+      1 Jones, Charles A.
+      1 Jones, Cecily
+      1 Jones, Catherine J.
+      1 Jones, C.
+      1 Jones, A.V.
+      1 Jone, D.J.V.
+      1 Johnston, Stephen
+      1 Johnston, J.
+      1 Johnstone, H.D.
+      1 Johnston, Edith M.
+      1 Johnson, Trevor R.
+      1 Johnson, Matthew H.
+      1 Johnson, Julian
+      1 Johnson, Geraldine A.
+      1 Johnson, D. W. J.
+      1 Johnson, D.T.
+      1 Johnson, Anthony M.
+      1 Johns, Jeremy
+      1 John, S.B.
+      1 Johnman, Lewis
+      1 John, I.G.
+      1 John, David S.
+      1 John, A.V.
+      1 John, A. H.
+      1 Jobling, R.G.
+      1 Jobey, G.
+      1 J. H. Bird
+      1 Jensen, Olaf
+      1 Jenner, W.J.F.
+      1 Jenkins, Keith W.
+      1 Jenkins, David
+      1 Jenkins, D.
+      1 Jeffs, R.M.
+      1 Jeffries, P.J.
+      1 Jeffreys, M.
+      1 Jeffery, Lilian R.
+      1 Jeffery, K.J.
+      1 Jeffery, Keith
+      1 Jefferies, Tom
+      1 Jedlicki, J.
+      1 Jasper, R.C.D.
+      1 Jarvis, David A.
+      1 Jarvis, Adrian
+      1 Jarrett, Jonathan
+      1 Janku, Andrea
+      1 Jamroziak, Emilia M.
+      1 James, Tom Beaumont
+      1 James, T.B.
+      1 James, T.
+      1 James, H.
+      1 James, E.D.
+      1 Jaffe, A.M.
+      1 Jacobs, Jonathan
+      1 Jacob, I.H.
+      1 Jackson, T.A.
+      1 Jackson, Michelle
+      1 Jackson, J. Clare L.
+      1 Jackson, E.F.
+      1 Jackson, Benjamin
+      1 Jackson, A. H.
+      1 Jack, I.R.J.
+      1 Ives, Eric W.
+      1 Isaac, B.
+      1 Irvine, A.K.
+      1 Ireland, R.I.
+      1 Innes, Joanna  M.
+      1 Innes, Joanna
+      1 Ingram, D.R.
+      1 Ing, Catherine M.
+      1 Ilic, Melanie J.
+      1 Ilic, Melanie
+      1 Ilic, M.
+      1 Iles, C.
+      1 Ickringill, Stephen J.S.
+      1 Hyde, J. K.
+      1 Hyde, F.E.
+      1 Hyams, P.R.
+      1 Hyam, Roland
+      1 Hyam, R.
+      1 Huttenberger, P.
+      1 Hutchison, I.G.S.
+      1 Hutchison, I.G.C.
+      1 Hutchison, H.
+      1 Hutchinson, Paul
+      1 Hussey, Stephen
+      1 Hussey, S.
+      1 Hussey, Joan M.
+      1 Hussey, David
+      1 Husbands, C.T.
+      1 Hurt, J.S.
+      1 Hurst, P.
+      1 Hurrell, Andrew J.
+      1 Hurrell, A.J.
+      1 Huray, P.G. Le
+      1 Hunt, N.C.
+      1 Hunt, J.
+      1 Hunter, Richard
+      1 Hunter, Emma
+      1 Hunnisett, R.F.
+      1 Humphries, K.J.
+      1 Humphreys, Sarah C.
+      1 Humphreys, Sarah  C.
+      1 Humphreys, Sarah   C.
+      1 Humphreys, R.A.
+      1 Humphreys, D.W.
+      1 Humphrey, Caroline
+      1 Humes, W.M.
+      1 Hugman, Joan
+      1 Hughes, P.
+      1 Hughes, M.
+      1 Hughes, Jefff A.
+      1 Hughes, G.A.
+      1 Hughes, Eamonn
+      1 Hughes, D.J.
+      1 Hughes, C.J.
+      1 Hughes, Annmarie
+      1 Huggins, Michael
+      1 Huggett, Jeremy W.
+      1 Hufton, Olwen
+      1 Hudson, John J.G.
+      1 Hudson, A.M.
+      1 Hoyland, Robert
+      1 Howlett, Peter
+      1 Howlett, Jana R.
+      1 Howlett, Darryl
+      1 Howkins, M.J.
+      1 Howgego, Christopher J.
+      1 Howgego, Christopher
+      1 Howe, W.J.
+      1 Howe, John R.
+      1 Howe, Danel W.
+      1 Howe, C.B.
+      1 Howe, A.C.
+      1 Howarth, J.H.
+      1 Howarth, Janet
+      1 Howarth, J.
+      1 Howarth, D.J.
+      1 Howard, Michael
+      1 Howard, M.
+      1 Howard-Johnson, J.D.
+      1 Howard, John
+      1 Howard, I. K. A.
+      1 Howard, C.H.D.
+      1 Houston, Robert A.
+      1 Housley, N.J.
+      1 Housden, Martyn
+      1 Hourani, A. H.
+      1 Hourani, A,.H.
+      1 Hotson, H.N.
+      1 Hoskins, Philippa
+      1 Horton, Ian
+      1 Horobin, Simon
+      1 Horner, Craig
+      1 Horlock, D.
+      1 Horbury, W.
+      1 Hoppit, J.
+      1 Hopper, R. J.
+      1 Hopper, Andrew J.
+      1 Hoppen, K.T.
+      1 Hopkins, M.K.
+      1 Hopkins, J. F. P.
+      1 Hopkins, David
+      1 Hopkins, Antony G.
+      1 Hope - Taylor, B.K.
+      1 Hope, Nicholas M.
+      1 Hood, A.B.E.
+      1 Hood, A.
+      1 Hont, I.
+      1 Honore, A.M.
+      1 Honey, P.J.
+      1 Honey, J.
+      1 Honeybone, R.C.
+      1 Holt, R.J.
+      1 Holton, R.J.
+      1 Holton, David
+      1 Holmes, Janice
+      1 Holmes, Clive
+      1 Holmes, Catherine
+      1 Holmes, Andrew R.
+      1 Holmes, Andrew
+      1 Holloway, G.I.
+      1 Hollis, Patricia L.
+      1 Hollis, Patricia   L.
+      1 Hollinshead, Janet E.
+      1 Hollingsworth, T.
+      1 Holland, P.D.
+      1 Holland, C.A.
+      1 Holladay, D.J.
+      1 Hohler, E.C.
+      1 Hogg, G.W.
+      1 Hodson, F.R.
+      1 Hodkinson, S.J.
+      1 Hodgkin, T.L.
+      1 Hodges, M.R.
+      1 Hodder, I.R.
+      1 Hobsbawm, E.J.
+      1 Hobcraft, J.N.
+      1 Hobcraft, J.
+      1 Hoare, J.
+      1 Hitchcock, Timothy V.
+      1 Hirst, P.Q.
+      1 Hirst, Paul Q.
+      1 Hirst, D. Michael G.
+      1 Hirsch, Pam
+      1 Hipkin, Stephan A.
+      1 Hinton, David
+      1 Hinsley, H.
+      1 Hinsley, F.H,
+      1 Hinings, C.R.
+      1 Hinds, Peter
+      1 Hindley, B.V.
+      1 Hindle, Steven
+      1 Hinchliff, Peter B.
+      1 Hinchliff, P. B.
+      1 Hilton, Rodney H.
+      1 Hilton, R.A.
+      1 Hilton, Matthew
+      1 Hilson, Mary
+      1 Hills, Paul
+      1 Hill, Rosalind M.T.
+      1 Hill, Rosalind M. T.
+      1 Hill, R.
+      1 Hilling, D.
+      1 Hill, D.
+      1 Hill, Christopher J.
+      1 Hill, Christopher
+      1 Hill, C.
+      1 Hill, B.W.
+      1 Hill, Brian W.
+      1 Higham, R.A.
+      1 Higham, N.J.
+      1 Higham, Nicholas
+      1 Higgs, Edward
+      1 Higginson, Ian
+      1 Higgins, D.A.
+      1 Hiden, J.W.
+      1 Hiden, John W.
+      1 Hiden, John
+      1 Hickox, M.
+      1 Hickman, Tim
+      1 Hibawi, A.L.
+      1 Heywood, Colin M.
+      1 Heywood, C.M.
+      1 Heuman, Gad
+      1 Hesse, M.B.
+      1 Hesse, Joachim J.
+      1 Hessayon, Ariel
+      1 Hertzig, Edmund
+      1 Hepurn, Anthony C.
+      1 Henriques, Ursula R.Q.
+      1 Henriques, Ursula   R.Q.
+      1 Hennessy, Peter
+      1 Hennessey, Thomas
+      1 Henig, Rugh B.
+      1 Hendy, M. F.
+      1 Hendry, D.F.
+      1 Hendrick, Harry J.
+      1 Henderson, Paul
+      1 Henderson, J.G.W.
+      1 Henderson, I.
+      1 Henderson, G.D.S.
+      1 Hemstedt, G.C.
+      1 Hempton, David N.
+      1 Hemingway, Andrew F.
+      1 Hemingway, A.
+      1 Hefferman, Mike
+      1 Heesom, P.A.J.
+      1 Heelas, Paul
+      1 Hebbert, M.J.
+      1 Heather, Peter J.
+      1 Heather, Peter
+      1 Heath, A.F.
+      1 Healy, Róisín
+      1 Healy, J. F.
+      1 Heal, F.M.
+      1 Heal, Felicity
+      1 Heale, Michael J.
+      1 Heady, C.J.
+      1 Hayward, Rhodri
+      1 Hayward, Paul
+      1 Hayward, Jack E.S.
+      1 Haynes, John
+      1 Hayes, Nick
+      1 Hayes, J.F.
+      1 Haydon, Colin
+      1 Hay, D.A.
+      1 Hawkins, Mike
+      1 Hawkins, Michael J.
+      1 Hawkins, J.
+      1 Hawkins, Angus B.
+      1 Hawkes, Sonia E.C.
+      1 Hawkes, Sonia  E.C.
+      1 Hawkes, C.F.C.
+      1 Havely, Nicolas
+      1 Havely, Nicholas R.
+      1 Havely, Nicholas
+      1 Haughton, Tim
+      1 Hatton, T.
+      1 hatton, Ragnhild M.
+      1 Hatcher, John
+      1 Hassinger, E.
+      1 Haslam, Sara
+      1 Haseldine, Julian
+      1 Harvey, P.D.A.
+      1 Harvey, Margaret H.
+      1 Harvey, E.
+      1 Harvey, D.W.
+      1 Harvey, David W.
+      1 Harvey, C.E.
+      1 Harvey, Barbara     F.
+      1 Hartley, T.E.
+      1 Hartley, Owen
+      1 Hartley, Janet E.
+      1 Hart, Jennifer M.
+      1 Harting, H.M.R.E. Mayr-
+      1 Harriss-White, Barbara
+      1 Harris, Rosemary L.
+      1 Harris, Robert
+      1 Harrison, R. M.
+      1 Harrison, M.
+      1 Harrison, Christopher J.
+      1 Harrison, B.J.D.
+      1 Harris, N.
+      1 Harris, José F.
+      1 Harris, Jose  F.
+      1 Harris, James R.
+      1 Harris, J.
+      1 Harris, Andrew
+      1 Harries, Jill
+      1 Harper, Sue
+      1 Harper, R.H.
+      1 Harper, John
+      1 Harloe, M.H.
+      1 Harley, Sean
+      1 Harley, Knick
+      1 Harle, J.C.
+      1 Harkness, David W.
+      1 Hare, John N.
+      1 Hare, John
+      1 Hardy, Henry
+      1 Hardy, A.M.
+      1 Hardwick, Joseph
+      1 Harding, Vanessa
+      1 Harding, Jan
+      1 Harding, D.W.
+      1 Harding, D. W.
+      1 Harding, A.F.
+      1 Harcourt, Freda
+      1 Happle, B.A.
+      1 Hanson, Williams S.
+      1 Hanna, Ralph
+      1 Hannam, June
+      1 Handlin, O.
+      1 Hamshere, J.D.
+      1 Hamnett, B.R.
+      1 Hammerstein, Helga Robinson
+      1 Hammerstein
+      1 Hammersley, Rachel
+      1 Hamlett, Jane E.
+      1 Hamilton, Sue
+      1 Hamilton, K.A.
+      1 Hamilton, F.E.I.
+      1 Halsall, E.
+      1 Halpern, E.B. (Rick)
+      1 Halpern, E.B (Rick)
+      1 Hall, Simon
+      1 Hall, M.B.
+      1 Hall, J.B.
+      1 Hall, B.
+      1 Halladay, E.
+      1 Halikowski-Smith, Stefan
+      1 Haley, K.H.D.
+      1 Hale, W.M.
+      1 Hale, W.
+      1 Haigh, Christopher A.
+      1 Haigh, Christopher
+      1 Hagopian, Patrick
+      1 Hadrill, J.M.   Wallace-
+      1 Hackmann, W.D.
+      1 Hackmann, W.
+      1 Gyford, J.
+      1 Guy, J.A.
+      1 Gurney, Peter
+      1 Gurney, J.
+      1 Gurnell, Angela
+      1 Gunner, Elizabeth E.A.
+      1 Gummett, P.J.
+      1 Gummett, P.
+      1 Gulvin, C.G.
+      1 Gulf, K.
+      1 Guest, Harriet
+      1 Guarino, Gabriel
+      1 Grün, G.A.
+      1 Groot, Joanna  C.  de
+      1 Grootenboer, Hannete
+      1 Groom, A.J.R.
+      1 Groll, S.
+      1 Grimes, W.F.
+      1 Griffiths, Thomas R.
+      1 Griffiths, G.T.
+      1 Griffiths, E.
+      1 Griffith, G. T.
+      1 Griffith, G. I.
+      1 Griffin, Miriam
+      1 Griffin, Colin
+      1 Griffin, A.R.
+      1 Grieveson, Lee
+      1 Grieves, Keith R.
+      1 Grey, Daniel
+      1 Grenville, J. A. S.
+      1 Grell, Ole-Peter
+      1 Gregory, R.G.
+      1 Gregory, Jeremy
+      1 Gregory, Jane
+      1 Gregory, James
+      1 Gregory, Ian
+      1 Gregory, A.M.
+      1 Gregory, Adrian
+      1 Greenway, Diana E.
+      1 Green, Tony
+      1 Greenslade, S. L.
+      1 Green, Simon
+      1 Greenlees, Janet
+      1 Green, Ian
+      1 Greenhill, R.G.
+      1 Green, E.R.R.
+      1 Greene, Kevin
+      1 Greene, D.
+      1 Green, David R.
+      1 Green, David
+      1 Green, Christopher K.
+      1 Green, Chris
+      1 Green, A.G.
+      1 Green, Adrian
+      1 Grebenik, E.
+      1 Greaves, H.R.G.
+      1 Gray, W.A.H.
+      1 Grayston, K.
+      1 Gray, Robert Q.
+      1 Gray, Peter H.
+      1 Gray, J.W.
+      1 Gray, J.
+      1 Gray, F. W.
+      1 Gray, Drew
+      1 Gray, D.
+      1 Graves, C. Pamela
+      1 Graves, A.A.
+      1 Gratwick, A.S.
+      1 Grattan-Guinness, M.I.
+      1 Grassby, R.E.
+      1 Grant, Susan-Mary C.
+      1 Grant, N.D.C.
+      1 Grant, A.
+      1 Gransden, Antonia
+      1 Graham, J.K.H.
+      1 Graham, Elaine L.
+      1 Graham-Campbell, J.A.
+      1 Graham, A. J.
+      1 Gragnolati, Manuele
+      1 Gradon, P.O.E.
+      1 Grace, G.R.
+      1 Grace, F.R.
+      1 Gowland, Angus
+      1 Gould, Will R.
+      1 Goulbourne, Harry
+      1 Goski, Richard
+      1 Gosden, Chris
+      1 Gorsky, Martin
+      1 Gorski, Richard C.
+      1 Gorman, F.O.
+      1 Gorlizki, Yoram
+      1 Gorham, D.A.
+      1 Gorgon, Eleanor J.
+      1 Gordon, R.P.
+      1 Gordon, M.C.
+      1 Gordon, Frederick B.
+      1 Gopal, S.
+      1 Goose, Nigel R.
+      1 Gooptu, Nandini
+      1 Goodyear, F.R.D.
+      1 Goodyear, F. R. D.
+      1 Goodwin, Barbara L.
+      1 Goodway, D.J.
+      1 Goodrick-Clarke, Nicholas
+      1 Goodrich, Amanda
+      1 Goodman, Michael S.
+      1 Goodman, Joyce
+      1 Goodman, J.
+      1 Goodman, David
+      1 Gooding, J.E.
+      1 Gooding, David C.
+      1 Goodey, D.B.
+      1 Goodare, Julian M.
+      1 Goodall, Alex
+      1 Gomulka, S.
+      1 Gombrich, E.H.J.
+      1 Gombrich, D.F.
+      1 Goldthorpe, J.H.
+      1 Goldstrom, J.M.
+      1 Goldman, L.N.
+      1 Gold, John R.
+      1 Golding, P.
+      1 Golding, H.J.
+      1 Golding, D.B.
+      1 Golding, B.J.
+      1 Goldhawk, N.P.
+      1 Goldberg, Jeremy P.
+      1 Gökay, Bülent
+      1 Goff, Barbara E.
+      1 Godfrey, Barry
+      1 Godden, M.R.
+      1 Glucksmann, Miriam
+      1 Glickman, Gabriel
+      1 Glennie, Paul
+      1 Gledhill, J.E.
+      1 Glassey, L.K.J.
+      1 Glancy, H.M.
+      1 Glaisyer, Natasha A. F.
+      1 Gladfelder, Hal
+      1 Given-Wilson, Chris
+      1 Given, M.
+      1 Gittins, L.
+      1 Ginsburg, P.A.
+      1 Gilroy, P.J.
+      1 Gilliver, Catherine
+      1 Gillings, Mark
+      1 Gillingham, John B.
+      1 Gillingham, J.B.
+      1 Gilley, Sheridan W
+      1 Gillespie, Vincent
+      1 Gillespie, R.
+      1 Gillam, J.P.
+      1 Gilfillan, J.B.S.
+      1 Gildart, Keith
+      1 Gilchrist, Roberta L.
+      1 Gilbert, E.W.
+      1 Gilbert, A.
+      1 Giggs, J.
+      1 Giddens, Anthony
+      1 Gibson, Margaret T.
+      1 Gibson, Dawn-Marie
+      1 Gibson, A.J.S.
+      1 Gibbs, J.
+      1 Gibbs, D.
+      1 Gibbons, M.
+      1 Gibb, A.
+      1 Ghosh, Shami
+      1 Ghosh, Peter R.
+      1 Gerwarth, Robert
+      1 Gerrard, Christine
+      1 George, P.J.
+      1 Geoghegan, Patrick
+      1 Gemie, Sharif
+      1 Gellner, E.A.
+      1 Gellner, E.
+      1 Gelling, P. S.
+      1 Gee, Malcolm D.
+      1 Geary, R.J.
+      1 Gauci, Perry
+      1 Gatress, Peter
+      1 Gathercole, P.W.
+      1 Garton-Ash, Timothy J.
+      1 Garton Ash, Timothy J.
+      1 Garson, M.J.
+      1 Garnsey, P. D. A.
+      1 Garnett, E.     Jane
+      1 Garner, L.
+      1 Garner, B.J.
+      1 Garlick, K.J.
+      1 Gardner, Philip W.
+      1 Gardner, J.R.
+      1 Gardner, Helen
+      1 Garden, E.J.C.
+      1 Gameson, Richard
+      1 Gamer, Philip
+      1 Galloway, David M.
+      1 Gallo, E.L.
+      1 Gallie, W.B.
+      1 Gallie, W. B.
+      1 Gallie, D.
+      1 Gallgher, J.A.
+      1 Gales, Kathleen E.
+      1 Galeotti, mark
+      1 Gajda, Alexandra L.
+      1 Gage, J.S.
+      1 Furley, O.W.
+      1 Furet, F.
+      1 Fulton, John
+      1 Fuller, Mary
+      1 Fullbrook, Mary J.A.
+      1 Fulbrook, Mary
+      1 Fulbrook, J.G.H.
+      1 Frost, M.R.D.
+      1 Friedrich, Karin
+      1 Frey, Hugo
+      1 Frenz, Margaret
+      1 Frend, W. H. C.
+      1 French, R.K.
+      1 French, Michael J.
+      1 French, David
+      1 French, C.J.
+      1 French, Chris
+      1 Free, S.S.
+      1 Freeman, R.B.
+      1 Freedman, L.D.
+      1 Freedman, Lawrence
+      1 Freedland, M.R.
+      1 Freedland, Mark R.
+      1 Freeden, Michael
+      1 Freedberg, D.A.
+      1 Fredericksen, M.W.
+      1 Fredericksen, M. W.
+      1 Frazier, R.L.
+      1 Frayling, C.
+      1 Fraser, Thomas G.
+      1 Fraser, M.
+      1 Fraser, Hamish
+      1 Franzosi, Roberto
+      1 Franklin, Simon
+      1 Franklin, Peter
+      1 Francis, Martin
+      1 France, John
+      1 Frame, Robin F.
+      1 Foyle, A.M.
+      1 Fox, R.J. Lane
+      1 Fox, R.
+      1 Foxon, D.
+      1 Fox, Joanne C.
+      1 Fox, Adam P.
+      1 Fox, A.
+      1 Fowles, A.J.
+      1 Fowler, Ken A.
+      1 Fowler, F.J.
+      1 Fowler, Chris
+      1 Fowler, Bridget
+      1 Fowkes, F.B.M.
+      1 Fouracre, Paul J.
+      1 Fouracre, Paul
+      1 Foulkes, R.G.
+      1 Foster, Roy
+      1 Foster, K.
+      1 Foster, John
+      1 Foster, J.O.
+      1 Foster, I.L.
+      1 Foster, Ian
+      1 Foster, G.C.F.
+      1 Foster, A.W.
+      1 Forty, J. Adrian
+      1 Forte, Angelo
+      1 Forsyth, W.J.
+      1 Forsyth, C.F.
+      1 Forster, P.G.
+      1 Forster, Gordon C.F.
+      1 Forster, Anthony W.
+      1 Forrest, W. G. G.
+      1 Forres, Ian
+      1 Forgacs, D.A.
+      1 Forey, Alan J.
+      1 Foreman-Peck, J.S.
+      1 Foreman-Peck, James S.
+      1 Ford, Graham
+      1 Forbes, A.D.W.
+      1 Footitt, Hillary
+      1 Foong Khong, Yuen
+      1 Folly, Martin
+      1 Fogg, Kevin
+      1 Foellmer, Moritz J.
+      1 Foard, Glenn
+      1 Flynn, William
+      1 Flower, J.E.
+      1 Floud, Roderick
+      1 Floud, R.
+      1 Flood-Page, C.M.
+      1 Flint, Kate
+      1 Fletcher, Richard A.
+      1 Fleming, Peter
+      1 Fleet, Kate
+      1 Fleeman, J.D.
+      1 Flavell, R.
+      1 Fitzsimmons, V.
+      1 Fitzpatrick, M.H.
+      1 Fitzpatrick, Martin H.
+      1 Fitzpatrick, Antonia
+      1 Fitzgerald, Patrick
+      1 FitzGeraldn, E.V.K.
+      1 FitzGerald, E.K.V.
+      1 FitzGerald, Alison
+      1 Fisher, R.R.
+      1 Fisher, N.W.
+      1 Fisher, Nick
+      1 Fisher, D.S.V.
+      1 Fisher, C.A.
+      1 Fisher, A.J.
+      1 Fisera, V.C.
+      1 Fischer, D.V.
+      1 Firth, A.E.
+      1 Finnis, John
+      1 Finney, Patrick B.
+      1 Finer, S.E.
+      1 Finch, M.H.J.
+      1 Finch, Jonathan
+      1 Fincham, K.C.
+      1 Figlio, K.
+      1 Fielding, S.J.
+      1 Fielding, A.J.
+      1 Fielden, Kenneth
+      1 F.H. Hilliard
+      1 Ferriter, Diarmaid
+      1 Feroz A.K. Yasamee
+      1 Ferns, H.S.
+      1 Ferguson, Niall C.
+      1 Ferdinand, Christine
+      1 Fenwick, J.R.K.
+      1 Fenlon, Iain A.
+      1 Femia, J.V.
+      1 Feller, Laurent
+      1 Fell, Alison
+      1 Feldman, Daniel M.
+      1 Fedorowich, E. Kent
+      1 Featherstone, Kevin
+      1 Fawcett, Louise L.
+      1 Faure, D.W.
+      1 Faulkes, A. R.
+      1 Farr, Martin
+      1 Farr, Ian
+      1 Farrell, M.
+      1 Farrar, W.V.
+      1 Farrar, K.R.
+      1 Farmer, D.H.
+      1 Farmer, D. H.
+      1 Farmer, B.H.
+      1 Farias, Paulo F. de Moraes
+      1 Falconer, Isobel
+      1 Fairclough, A.
+      1 Fagge, Roger
+      1 Eyal, J.
+      1 Ewing, K.D.
+      1 Evison, Vera I.
+      1 Evans, T.E.
+      1 Evans, H.D.
+      1 Evans, Gillian D.
+      1 Evans, B.J.
+      1 Etchingham, Colmán
+      1 Esteves, R.P.
+      1 Estall, R.C.
+      1 Eskine-Hill, H.H.
+      1 E. Schulze, Kristin
+      1 Ernst, W.H.C.
+      1 Ernst, Waltraud
+      1 Epstein, Larry
+      1 Entwistle, N.J.
+      1 Ennew, J.
+      1 English, Barbara  A.
+      1 Emmerson, T.
+      1 Emilia, Jamroziak
+      1 Elvin, J. Mark D.
+      1 Eltis, David
+      1 Elston, Mary-Ann
+      1 Ellis, P.D.
+      1 Ellison, Mary L.
+      1 Ellison, James R.V.
+      1 Ellis, Joyce M.
+      1 Elliott, Marianne J.
+      1 Elliott, Keith
+      1 Elliott, B.A.
+      1 Elliot, Rosemary
+      1 Elias, J.H.
+      1 Ehrman, J.P.W.
+      1 Ehrlich, C.
+      1 Ehrenschwendtner, Marie-Luise
+      1 Eggleston, S.J.
+      1 Edwards, Peter R.
+      1 Edwards, M.J.
+      1 Edwards, J.H.
+      1 Edwards, G.R.
+      1 Edwards, E.W.
+      1 Edwards, Elizabeth
+      1 Edwards, D.L.
+      1 Edwards, Bronwen
+      1 Edgerton, David
+      1 Edbury, Peter W.
+      1 Edbury, Peter
+      1 Edbury, P.
+      1 Eatwell, J.L.
+      1 Easterling, Patricia E.
+      1 Easson, A.
+      1 Earner-Byrne, Lindsey
+      1 Earle, T.F.
+      1 Earle, T.
+      1 Earles, M.P.
+      1 Earle, Peter
+      1 Eames, J. V. H.
+      1 Ealham, Chris
+      1 Eagleton, T.F.
+      1 Dyson, Timothy P.G.
+      1 Dyson, K.H.F.
+      1 Dymond, D.P.
+      1 Dyer, Geoffrey P.
+      1 Dyer, Alan D.
+      1 Dutton, D.J.
+      1 Dutton, David
+      1 Durie, Alastair J.
+      1 Durie, Alastair
+      1 Durham, Martin
+      1 Dupree, Marguerite W.
+      1 Dunthorne, H.L.A.
+      1 Dunstan, G.R.
+      1 Dunn, Marilyn J.
+      1 Dunn, John
+      1 Dunleavy, P.J.
+      1 Duncan, S.S.
+      1 Duncan, J.S.
+      1 Duncan-Jones, Katherine D.
+      1 Duncan-Jones, Katherine
+      1 Duncan, Archibald A.M.
+      1 Duncan, A.H.
+      1 Dunbabin, Jean
+      1 Dumville, David M.
+      1 Dummett, A.
+      1 Dukes, P.
+      1 Duke, Francis
+      1 Duke, F.
+      1 Duke, Alistair C.
+      1 Duke, Alastair C.
+      1 Duggan, Anne J.
+      1 Duffin, P. Anne
+      1 Dudbridge, G.
+      1 Dubow, Saul H.
+      1 Drus, Ethel
+      1 Drummond-Thompson, Philip H.
+      1 Drummond-Thompson, Philip
+      1 Drummond, I.M.
+      1 Drummond, D.
+      1 Drought, A.B.
+      1 Driver, Professor Felix F.
+      1 Driver, F.F
+      1 Driver, Felix
+      1 Driscoll, Stephen
+      1 Drisceoil, Donal
+      1 Drinkwater, J. F.
+      1 Dreyfus, Laurence
+      1 Drewett, J.R.
+      1 Dresser, Madge
+      1 Dresch, Paul K.
+      1 Drayton, Richard
+      1 Draisey, John
+      1 Drace-Francis, Alex
+      1 Doyle, W.
+      1 Doyle, P.
+      1 Dowling, Maria J.C.
+      1 Dowling, Alan
+      1 Douglas, D.
+      1 Doughty, M.W.
+      1 Dougall, James
+      1 Douch, R.
+      1 Dossett, Catherine
+      1 Dorward, D.C.
+      1 Dore, R.P.
+      1 Doree, S.G.
+      1 Doran, Susan
+      1 Dooling, Wayne L.
+      1 Donovan, Oliver M.T.
+      1 Donoughue, B.
+      1 Donnelly, Tom
+      1 Donnelly, T.
+      1 Donelan, M.D.
+      1 Dondi, C.
+      1 Donaldson, C.I.
+      1 Donald, Moira
+      1 Donajgrodski, Antony P.
+      1 Dolley, M.
+      1 Doherty, Charles
+      1 Dodson, C.J.
+      1 Dodgshon, R.A.
+      1 Dobson, R. Barrie
+      1 Dobson, B.T.
+      1 Dobson, B.
+      1 Dobson, Alan P.
+      1 Doan, Laura
+      1 Dixon, Thomas
+      1 Dixon, P.
+      1 Dingley, J.
+      1 Dimsdale, Nicholas H.
+      1 Dimsdale, N.H.
+      1 Dilley, Andrew
+      1 Diemberger, Hildegard
+      1 Dieckmann, Christoph
+      1 Dickson, Peter G.M.
+      1 Dickinson, P.
+      1 Dickinson, O.T.
+      1 Dickinson, J.C.
+      1 Dickinson, J.
+      1 Dickinson, G.C.
+      1 Dickens, P.G.
+      1 Diamond, Derek R.
+      1 Deyermond, A. D.
+      1 de Weerdt, Hilda
+      1 Devlin, Judith
+      1 Devlin, D.D.
+      1 Devine, Thomas
+      1 de Ste. Croix, G.E.M.
+      1 de Ste. Croix, G. E. M.
+      1 Desai, M.J.
+      1 Desai, M.
+      1 Derow, P.S.
+      1 Dennis, Richard
+      1 Dennison, E. Patricia
+      1 Dennison, Elizabeth P.D.
+      1 Denley, Peter R.
+      1 Deletant, D.J.
+      1 Deletant, Dennis
+      1 Delefont, Dennis J.
+      1 DeLaine, Janet
+      1 Delaine, Janet
+      1 Deighton, A.
+      1 de Groot, Joanna C.
+      1 De Groot, G.J.
+      1 De Groot, Gerard J.
+      1 de Bellaigue, Christine
+      1 Dean, Trevor
+      1 Dean, Laura
+      1 Deane, Phyllis M.
+      1 Deane, B.
+      1 Deakin, N.D.
+      1 Day, David V.
+      1 Day, A.C.L.
+      1 Dawson, R.S.
+      1 d'Avray, D.L.
+      1 D'Avray, David L.
+      1 Davis, R.H.C.
+      1 Davis, R. H. C.
+      1 Davis, John H.R.
+      1 Davis, John A.
+      1 Davis, J.
+      1 Davis, Christopher M.
+      1 Davies, W.H.
+      1 Davies, Wendy  E.
+      1 Davies, Sarah
+      1 Davies, R Rees
+      1 Davies, R R
+      1 Davies, R.H.C.
+      1 DAvies, R.
+      1 Davies, P.L.
+      1 Davies, Peter
+      1 Davies, Matthew
+      1 Davies, John A.
+      1 Davies, Jeffrey L.
+      1 Davies, G.C.B.
+      1 Davies, Gareth
+      1 Davies, G.
+      1 Davies, D.J.
+      1 Davies, Colin
+      1 Davies, C.C.
+      1 Davie, G.E.
+      1 Davidson, R.F.
+      1 Davidson, Nicholas
+      1 David, M.
+      1 David, E.I.
+      1 David A. Turton
+      1 Davey, Peter J.
+      1 D'Aughton, Malgorzata
+      1 Darwin, G.J.
+      1 Daniels, Steven
+      1 Daniels, S.
+      1 Dandelion, Ben
+      1 Danchev, A.
+      1 Dampier, Helen
+      1 Dallek, Robert
+      1 Dal Lago, Enrico
+      1 Dalglish, Christopher
+      1 Curthoys, Mark C.
+      1 Curry, Anne E
+      1 Currie, R.
+      1 Curran, J.R.A.
+      1 Cupitt, D.
+      1 Cuomo, Serafina
+      1 Cunningham, V.D.
+      1 Cunningham, Valentine D.
+      1 Cunningham, Valentine
+      1 Cunningham, Steve
+      1 Cunningham, Stephen
+      1 Cunningham, P.J.
+      1 Cunningham, M.
+      1 Cunningham, John
+      1 Cunningham, Hugh C.
+      1 Cunningham, Gail
+      1 Cummings, A.J.G.
+      1 Cullen, C.
+      1 Cubitt, Geoffrey
+      1 Crozier, Andrew J.
+      1 Crozier, A.J.
+      1 Crowther, Paul D.
+      1 Crowther, B.
+      1 Crowther, Anne
+      1 Crouch, D.B.
+      1 Crouch, C.J.
+      1 Crossman, V.
+      1 Crossley, Paul
+      1 Crossley, David W.
+      1 Cross, Jonathan
+      1 Crosland, Maurice
+      1 Crook, M.H.
+      1 Crook, M.
+      1 Crook, Harold J.
+      1 Crook, David
+      1 Crone, Rosalind
+      1 Crompton, G.W.
+      1 Crompton, Frank
+      1 Cromartie, Alan D.T.
+      1 Croft, Pauline
+      1 Critchley, J.S.
+      1 Cripps, T.F.
+      1 Crimmin, Patricia K.
+      1 Crick, B.R.
+      1 Crick, B.
+      1 Cregeen, E.R.
+      1 Cregeen, E.
+      1 Crawley, C.W.
+      1 Crawford, M.S.
+      1 Crawford, M. H.
+      1 Cranston, M.W.
+      1 Crang, Phil
+      1 Crang, 0
+      1 Crane, Stephen
+      1 Craig, G.M.
+      1 Cragoe, Matthew F.
+      1 Cracknell, K.
+      1 Cox, W.H.
+      1 Cox, Jeffrey J.
+      1 Cowman, Krista
+      1 Cowen, Janet  M.
+      1 Cowan, P.D.
+      1 Cowan, Ian B.
+      1 Cowan, E. J.
+      1 Cowan, Edward J
+      1 Cowan, D.
+      1 Couper, Alastair
+      1 Coulton, John J.
+      1 Coulton, J.J.
+      1 Coulston, Jonathan C.N.
+      1 Coulston, Jonathan
+      1 Coulsen, N.
+      1 Cottrell, P.J.
+      1 Cottrell, Philip
+      1 Costambeys, Marios
+      1 Cosgrove, Denis E.
+      1 Cosgrove, D.E.
+      1 Corthorn, Paul
+      1 Corona, Gabriella
+      1 Cornwall, Mark
+      1 Cornish, William R.
+      1 Cornford, J.P.
+      1 Cornford, J.F.
+      1 Corner, D.J.
+      1 Cornell, Tim
+      1 Cormack, Robin
+      1 Corfield, Penelope  J.
+      1 Corbridge, Stuart E.
+      1 Corbett, David Peters
+      1 Corbett, David Peter
+      1 Coppock, J.T.
+      1 Coppel, Stephen
+      1 Cope, G.
+      1 Cooper, Martin
+      1 Cooper, Kate
+      1 Cooper, John
+      1 Cooper, E. Helen
+      1 Cooper, A.E.W.
+      1 Coones, Paul
+      1 Coombe, T.
+      1 Coole, Diana
+      1 Cook, R. M.
+      1 Cook, Harold J.
+      1 Cook, Harold
+      1 Cook, A.E.
+      1 Conway, Stephen
+      1 Conway, S.R.
+      1 Conway, M.H.
+      1 Conway,  Martin H.
+      1 Constantine
+      1 Constable, Philip J.
+      1 Connolly, S.J.
+      1 Conisbee, P.
+      1 Coningham, Robin
+      1 Condrau, Flurin M.
+      1 Compton, Francis G.
+      1 Coltham, S.W.
+      1 Colson, A.J.
+      1 Colomb, Claire
+      1 Colls, Robert
+      1 Colls, R.
+      1 Collins, T.
+      1 Collins, Patricia S.
+      1 Collinson, Peter
+      1 Collins, Leslie J.D.
+      1 Collins, L.
+      1 Collins, Irene
+      1 Collins, Edward J.T.
+      1 Collins, C. Doreen E.
+      1 Collins, B.W.
+      1 Collini, Stefan A.
+      1 Collini, Stefan
+      1 Collier, Peter
+      1 Collier, J.G.
+      1 Cole, Tim
+      1 Coles, Tim
+      1 Coleman, Olive P.
+      1 Coleman, Edward
+      1 Coleman, Bruce
+      1 Coker, Christopher
+      1 Coker, C.
+      1 Cohn, H.J.
+      1 Cohn, E.J.
+      1 Cohn, A.J.
+      1 Cohen, R.
+      1 Cohen, G.A.
+      1 Coffey, John R.D.
+      1 Coffey, John
+      1 Cockshut, A. O. J.
+      1 Cobban, A.B.
+      1 Cobban, A. B.
+      1 Coates, Peter
+      1 Coates, A.W.
+      1 Clout, Hugh D.
+      1 Cliff, A.D.
+      1 Clementi, Dione R.
+      1 Clayton, R.W.
+      1 Clayton, Ronald W.
+      1 Clavin, Patricia
+      1 Clarkson, Leslie A.
+      1 Clarkson, D.W.  Harkness     and L.A.
+      1 Clark, Philip
+      1 Clark, N.
+      1 Clark, M.N.
+      1 Clark, G. de N.
+      1 Clarke, John C.
+      1 Clarke, J.F.
+      1 Clarke, Helen
+      1 Clarke, Georgia M.
+      1 Clarke, Georgia
+      1 Clarke, E.
+      1 Clarke, C.G.
+      1 Clark, D.S.T.
+      1 Clapson, Mark J.
+      1 Clapson, Mark I.
+      1 Clapson, Mark
+      1 Clancy, Thomas O.
+      1 Church, Stephen D.
+      1 Church, R.J. Harrison
+      1 Church, Clive H.
+      1 Christie, N.J.
+      1 Christie, A.H.
+      1 Chonaill, Bronagh Ni
+      1 Chitnis, A.C.
+      1 Chisholm, M.D.L.
+      1 Chinnery, J.D.
+      1 Chinn, C.S.A.
+      1 Childs, Wendy
+      1 Childs, John C. R.
+      1 Childs, John
+      1 Childs, D.
+      1 Chew, Geoffrey A.
+      1 Cheshire, V.
+      1 Cherry, G.E.
+      1 Chernyshova, Natalya
+      1 Ch-en, C.-J.
+      1 Cheeseman, Nic
+      1 Chavasse, Ruth A.
+      1 Chase, R.
+      1 Chase, Malcolm
+      1 Charney, Michael
+      1 Charmley, J.G.
+      1 Charmley, J.D.
+      1 Charlton, David
+      1 Charlesworth, N.R.F.
+      1 Charles-Edwards, T.M
+      1 Chapmen, J.
+      1 Chapman, M.K.
+      1 Chapman, John
+      1 Chapman, James
+      1 Chaplais, Pierre T.V.M.
+      1 Chant, C.W.
+      1 Channon, Geoffrey
+      1 Channon, G.
+      1 Chaney, E.P. de G.
+      1 Chandler, Andrew M.
+      1 Champion, Justin
+      1 Chambers, David S.
+      1 Chamberlain, Mary C.
+      1 Challis, Christopher E.
+      1 Chalcraft, John
+      1 Chabrowski, Igor
+      1 Celoria, F.
+      1 Cawson, A.
+      1 Cawley, A. C.
+      1 Cawkwell, G.L.
+      1 Cave, R.A.
+      1 Caster, D.J.
+      1 Casey, P.J.
+      1 Carwardine, R.J.
+      1 Carwardine, Richard J.
+      1 Carwardine, Richard
+      1 Carus-Wilson, Eleanora M.
+      1 Cartlidge, Neil
+      1 Carter, Nicholas E.
+      1 Carter, Neil
+      1 Carter, H.
+      1 Carter, Alice M.C.
+      1 Carson, R. A.
+      1 Carrier, J.W.
+      1 Carr, E.H.
+      1 Carr, E. H.
+      1 Carl, P.
+      1 Carlebach, J.I.
+      1 Carey, Peter B.
+      1 Carey, P.B.R.
+      1 Carey, J.
+      1 Caplan, L.
+      1 Capern, Amanda L.
+      1 Cantor, L.M.
+      1 Cannon, Joanna L.
+      1 Campbell, Peter R.
+      1 Campbell, John K.
+      1 Campbell, James
+      1 Campbell, I. M.
+      1 Campbell, Euan
+      1 Campbell, Eila M. J.
+      1 Campbell, Eila   M.J.
+      1 Campbell, B.M.S.
+      1 Cammack, P.A.
+      1 Cameron, J. K.
+      1 Cameron, Averill M.
+      1 Cameron, A. D.
+      1 Cameron, A.
+      1 Callaghan, J.T.
+      1 Caldwell, John A.
+      1 Caldwell, John
+      1 Caldwell, J.A.
+      1 Calder, A.L.R.
+      1 Cairncross, Alec
+      1 Cadwallader, F.J.J.
+      1 Cadoux, T. J.
+      1 Byrom, J.B.
+      1 Byrne, D.
+      1 Bynum, William
+      1 Butt, R.
+      1 Butler, L.A.S.
+      1 Bush, M. L.
+      1 Bush, Julia F.
+      1 Burt, Roger
+      1 Burton, Philip
+      1 Burton, J.W.
+      1 Burton, Janet
+      1 Burton, J.
+      1 Burrow, J.W.
+      1 Burroughs, P.
+      1 Burns, J. H.
+      1 Burns, D.T.
+      1 Burney, Ian
+      1 Burnett, C.S.F.
+      1 Burnett, Charles S.F
+      1 Burnett, Charles
+      1 Burman, S.B.
+      1 Burleigh, Michael C.B.
+      1 Burk, Katherine M.
+      1 Burgess, K.R.
+      1 Burgess, J.A.
+      1 Burgess, Glenn
+      1 Burden, D. H.
+      1 Bunyan, A.M.
+      1 Bundy, C.J.
+      1 Bundy, C.
+      1 Bulmer, M.I.A.
+      1 Bullough, D. A.
+      1 Bullock, Nicholas O.A.
+      1 Bujic, Bojan
+      1 Buettner, Elizabeth A.
+      1 Buettner, Elizabeth
+      1 Bueltmann, Tanja
+      1 Buckley, Richard
+      1 Buckley, Libby
+      1 Buckland, P.J.
+      1 Buckland, P.C.
+      1 Buchanan, R. Angus
+      1 Bryson, John A.
+      1 Bryer, A. A. M.
+      1 Bryer, A. A. A.
+      1 Brydon, Lynne
+      1 Brus, W.
+      1 Brunskill, Irene
+      1 Bruker, Jan
+      1 Bruce-Chwatt, L.J.
+      1 Brubaker, Leslie
+      1 Brown, Thomas S.
+      1 Brown, Simon
+      1 Brown, Sarah
+      1 Brown, R.G.
+      1 Brown, R. A.
+      1 Brown, P.R.L.
+      1 Brown, P. R. L.
+      1 Brown, N.G.
+      1 Brown, Michelle P.
+      1 Brown, Matthew
+      1 Brown, Lucy M.
+      1 Brown, Laurence
+      1 Brown, K.
+      1 Brown, Julie
+      1 Brown, Judith
+      1 Brown, J.M.
+      1 Brown, Ian
+      1 Brown, David E.
+      1 Brown, David
+      1 Brown, C.P.H.
+      1 Brown, C.A.
+      1 Brown, B.
+      1 Brown, Arthur F.J.
+      1 Brown, Andrew D.
+      1 Brown, Alison M.
+      1 Brown, Alan
+      1 Brown, A.L.
+      1 Brophy, Kenneth E.
+      1 Brook, Timothy
+      1 Brooks, J. Ronald
+      1 Brookshaw, David
+      1 Brooks, E.
+      1 Brooks, D.R.
+      1 Brooks, David R.
+      1 Brooks, C.W.
+      1 Brookner, Anita
+      1 Brooke, John H.
+      1 Brooke, J.
+      1 Brooke, David
+      1 Brooke, C.N.L
+      1 Brooke, Christopher N.L.
+      1 Brogan, D. Hugh V.
+      1 Broers, Michael G.
+      1 Broers, Michael
+      1 Broers, M.G.
+      1 Brock, W. R.
+      1 Brock, Sebastian
+      1 Brockliss, Laurence W. B.
+      1 Brockliss, Laurence
+      1 Broad, John P.F.
+      1 Broadie, Alexander
+      1 Brivati, Brian
+      1 Britnell, R.H.
+      1 Briston, R.J.
+      1 Briscoe, J.
+      1 Brink, Stefan
+      1 Brightwell, P.
+      1 Brighton, T.
+      1 Briggs, J.H.Y
+      1 Briggs, J.
+      1 Bridges, Roy C.
+      1 Bridge, F. Roy
+      1 Bridge, F.R
+      1 Brickstock, R.J.
+      1 Brice, W.C.
+      1 Brewster, Keith
+      1 Brewin, C.
+      1 Brewer, D.S.
+      1 Brewer, D. S.
+      1 Brett, Martin
+      1 Brett, E.A.
+      1 Brett, Caroline J.A.
+      1 Breathnach, Edel
+      1 Bray, W.M.
+      1 Bravo, Michael
+      1 Braun, Harald
+      1 Bratton, J.S.
+      1 Branigan, K.
+      1 Brandon, P.F.
+      1 Bradshaw, David
+      1 Bradley, Sidney A.J.
+      1 Bradley, Ian C.
+      1 Braddick, Michael
+      1 Bracewell, Wendy C.
+      1 Boyle, J.A.
+      1 Boyd, K.
+      1 Boydell, Christine E.
+      1 Boyce, A.J.
+      1 Bowman, Manon
+      1 Bowman, Alam
+      1 Bowman, A. K.
+      1 Bowker, Magaret
+      1 Bowie, Karen
+      1 Bowie, E.L.
+      1 Bowen, Lloyd
+      1 Bowen, E.G.
+      1 Bovey, Alixe
+      1 Bourne, John
+      1 Bourke, Joanna
+      1 Boulton, J.A.
+      1 Boulton, J.
+      1 Boulay, F.R.H.  Du
+      1 Botz, G.
+      1 Bothwell, James
+      1 Bosworth, C. E.
+      1 Bose, Mishtooni
+      1 Borsay, Peter N.
+      1 Borsay, Peter
+      1 Borell, Merriley
+      1 Borden, Ian
+      1 Booth, Philip
+      1 Boobbyer, Philip
+      1 Bonomi, P.
+      1 Bone, R.C.
+      1 Bombi, Barbara
+      1 Bolton, J.L.
+      1 Bolton, Brenda
+      1 Bolt, Christine  A.
+      1 Boivin, Nicole
+      1 Bogdanor, Vernon B.
+      1 Bogdanor, V.B.
+      1 Boast, R.B.
+      1 Boardman, Stephen I.
+      1 Boardman, John
+      1 Board, C.
+      1 Boal, F.W.
+      1 Boak, Helen
+      1 Blyth, W.A.L.
+      1 Blyth, Robert
+      1 Bluenhofer, Edith
+      1 Bloomer, K.D.
+      1 Bliss, R.M.
+      1 Blinkhorn, Martin
+      1 Blanning, Tim C.W.
+      1 Blanning, T. C. W.
+      1 Bland, Lucy
+      1 Blake, Andrew J.
+      1 Blair, P.E.
+      1 Blackstone, Tessa A.
+      1 Blackstock, A.
+      1 Black, Robert D.
+      1 Black, Robert
+      1 Black, R.D.
+      1 Black, Lauchlan G.
+      1 Black, L.
+      1 Black, J.M.
+      1 Black, Jeremy M.
+      1 Black, J.
+      1 Blacker, C.E.
+      1 Black, C.F.
+      1 Blackburn, Robert
+      1 Bitsakakis, George
+      1 Birmingham, D.B.
+      1 Birmingham, David B.
+      1 Birley, E.B.
+      1 Birdsall, J.N.
+      1 Bird.
+      1 Birch, D.L.
+      1 Binski, Paul
+      1 Binski, P.
+      1 Bindman, D.
+      1 Billington, Louis
+      1 Billington, L.
+      1 Billinge, Mark D.
+      1 Biller, P.P.A.
+      1 Biller, Peter P. A.
+      1 Bienefeld, M.A.
+      1 Bielenberg, A.
+      1 Bidwell, Robin L.
+      1 Biddle, Martin
+      1 Bickers, Robert A.
+      1 Biagini, Eugenio
+      1 Bhattacharya, N.
+      1 Bettey, J.H.
+      1 Betteridge, Tom
+      1 Bethell, Leslie M.
+      1 Bethel, D.
+      1 Bessel, R.J.
+      1 Bessel, Richard J.
+      1 Bessell, Richard
+      1 Berry, Philippa J.
+      1 Berringer, Christopher
+      1 Berridge, Virginia S.
+      1 Berridge, Virgina
+      1 Bernbaum, G.
+      1 Bernard, George W.
+      1 Bergin, Joseph
+      1 Bergin, James
+      1 Berger, Stefan
+      1 Benton, Tim
+      1 Benton, E.
+      1 Bentley, M.
+      1 Bennett, John
+      1 Bennett, Jim
+      1 Bennett, Harry
+      1 Bennett, A.J.
+      1 Bennet, D.J.L.
+      1 Benjamin, Thompson
+      1 Benjamin, A.
+      1 Benecke, G.
+      1 Bell, Sarah
+      1 Bell, P.M.H.
+      1 bell, Morag
+      1 Bell, K.M.
+      1 Bell, Jonathan W.
+      1 Bell, J.L.
+      1 Bell, C.M.
+      1 Bellaby, P.
+      1 Beier, A. L.
+      1 Behagg, C.
+      1 Beeley, H.
+      1 Beech, R.E.
+      1 Beddard, R.A.P.J.
+      1 Beck, R.B.
+      1 Beck, Peter J.
+      1 Beck, Peter
+      1 Beckingsale, B.W.
+      1 Beckingham, C.F.
+      1 Beckett, J.V.
+      1 Beckett, I. F. W.
+      1 Bechhofer, T.
+      1 Bebbington, David
+      1 Beattie, M.H.
+      1 Beattie, J.H.M.
+      1 Bean, R.
+      1 Beagon, Mary
+      1 Beadle, H. Richard L.
+      1 Bayly, Christopher
+      1 Baylis, John B.
+      1 Baylis, J.B.
+      1 Baxter, W.T.
+      1 Baxendale, J.D.
+      1 Baxandall, M.D.K.
+      1 Baxandall, M.D.J.
+      1 Bauer, P.T.
+      1 Battarbee, R.
+      1 Batey, Colleen E.
+      1 Batey, Colleen
+      1 Bates, David
+      1 Bastin, J.
+      1 Bassnett, Susan
+      1 Baskerville, Stephen W.
+      1 Barton, Simon
+      1 Barton, J.L.
+      1 Barton, Huw
+      1 Bartley, Paula
+      1 Bartlett, R.P.
+      1 Bartlett, Roger P.
+      1 Bartlett, Ribert J.
+      1 Bartlett, J.N.
+      1 Bartholomew, M.J.
+      1 Barr, Ronald J.
+      1 Barrow, Julia
+      1 Barrow, Geoffrey W.S.
+      1 Barron, Thomas J.
+      1 Barron, Caroline  M.
+      1 Barron, Caroline     M.
+      1 Barron, Caroline
+      1 Barr, Niall
+      1 Barratt, Dorothy M.
+      1 Barnwell, Paul
+      1 Barnett, Correlli
+      1 Barnett, C.
+      1 Barnes, S.B.
+      1 Barnes, P.A.
+      1 Barnes, J. W. B.
+      1 Barnes, I.R.
+      1 Barnes, A.J.L.
+      1 Barnard, Toby C.
+      1 Barnard, L.W.
+      1 Barley, M.W.
+      1 Barkhof, Sandra
+      1 Barker, L. G. D.
+      1 Barker, Graeme W.W.
+      1 Barker, Eileen V.
+      1 Bargrave-Weaver, D.
+      1 Barber, Sarah E.
+      1 Barber, Sarah
+      1 Barber, John D.
+      1 Banton, M.P.
+      1 Bantock, G.H.
+      1 Bann, Stephen
+      1 Bann, S.
+      1 Bannerman, J.M.W.
+      1 Bankoff, Greg
+      1 Banfield, Stephen
+      1 Bamji, Alex
+      1 Bamford, T.W.
+      1 Balzaretti, Rossano
+      1 Ball, S.R.
+      1 Ball, S.J.
+      1 Ball, Simon
+      1 Ball, J.N.
+      1 Ballhatchet, K. A.
+      1 Ballaster, Ros
+      1 Baldoli, Claudia
+      1 Baldick, R.J.
+      1 Balderston, Theo
+      1 Balderston, T.
+      1 Baker, John H.
+      1 Baker, Eileen
+      1 Bairner, A.
+      1 Bain, I.
+      1 Baines, J.R.
+      1 Bailey, G.N.
+      1 Bailey, Coleen
+      1 Bailey, Adrian F.
+      1 Bagwell, P.S.
+      1 Bagley, F.R.C.
+      1 Baggs, Anthony P.
+      1 Badian, E.
+      1 Badger, A.J.
+      1 Bacon, R.W.
+      1 B. Abel-Smith
+      1 Ayton, Andrew
+      1 Ayre, P.C.I.
+      1 Ayers, Pat
+      1 Axton, Richard P.
+      1 Axton, Marie H.
+      1 Avdela, Efi
+      1 Auty, Phyllis
+      1 Austin, R.W.J.
+      1 Austin, M.M.
+      1 Austin, D.
+      1 Atwell, W.S.
+      1 Atmore, A.E.
+      1 Atkinson, J.
+      1 Atkinson, G.C.
+      1 Atkinson, B.W.
+      1 Atkins, A.
+      1 Atkin, Nicholas J.
+      1 Aston, T.H.
+      1 Aston, Nigel R.
+      1 Aston, M.
+      1 Astill, G.G.
+      1 Assunção, Matthias Röhrig
+      1 Ash, Rhiannon
+      1 Ashe, Laura
+      1 Arthur, P.
+      1 Arnold, M.J.
+      1 Arnold, David
+      1 Arnold, Dana
+      1 Armstrong, William A.
+      1 Armstrong, Walter A.
+      1 Armstrong, Robert
+      1 Armstrong, John
+      1 Armbrust, Walter
+      1 Ardener, E.N.
+      1 Archer, Rowena E.
+      1 Applin, Jo
+      1 Appleton, J.H,
+      1 Antonovics, Anthony V.
+      1 Anthony, D.W.
+      1 Anstey, R.T.
+      1 Ansari, Sarah F.D.
+      1 Ansari, Humayun
+      1 Ansari, Ali
+      1 Anning, A.J.E.
+      1 Anita Brookner
+      1 Angold, Michael J.
+      1 Anglod, M.J.
+      1 Andreyev, Catherine
+      1 Andrews, James
+      1 Andrews, Frances E.
+      1 Andrewes, A.
+      1 Andress, David R.
+      1 Anderson, S.F.
+      1 Anderson, Olive R.
+      1 Anderson, M. S.
+      1 Anderson, Matthew S.
+      1 Anderson, Malcolm
+      1 Anderson, G.L.
+      1 Anderson, G.
+      1 Anderson, Bobby
+      1 Anderson, B.L.
+      1 Anderson, A.
+      1 Anastasakis, Othon
+      1 Anagol, Padma
+      1 Amélie T.L, Amélie T.L
+      1 Alton, R. E.
+      1 Alston, C.
+      1 Almond, M.
+      1 Allott, Anna J.
+      1 Allott, A.N.
+      1 Allmand, Christopher T.
+      1 Allison, R.A.
+      1 Allen, Robert C.
+      1 Allen, Robert
+      1 Allen, N.J.
+      1 Allen, H.C.
+      1 Allen, C.H.
+      1 Allen, Bob
+      1 Allan, J.A.
+      1 Allan, David
+      1 Alford, Steven
+      1 Alford, Stephen A.
+      1 Alford, Bernard W.E.
+      1 Alexiou, Margaret
+      1 Alexiou, C.
+      1 Alexion, Margaret
+      1 Alexander, M.S.
+      1 Alexander, Martin S.
+      1 Alexander, J.S.
+      1 Alexander, J. S.
+      1 Alexander, Jocelyn
+      1 Alexander, J.A.
+      1 Aldrich, Richard J.
+      1 Aldrich, R.F.
+      1 Aldous, Chris
+      1 Alderman, G.
+      1 Albert, W.I.
+      1 Alberti, Sam
+      1 Al-Azmeh, A.
+      1 Alavi, S.
+      1 Airs, M.
+      1 Airlie, Stuart R.
+      1 Aird, William M.
+      1 Afflerbach, Holger
+      1 Adler, Karen H.
+      1 Adelman, P.
+      1 Adams, S.L.
+      1 Adams, J.W.L.
+      1 Adams, J.
+      1 Adams, David K.
+      1 Adams, Anthony J.
+      1 Adam, R. J.
+      1 Acker, S.
+      1 Abulafia, Anna B.S.
+      1 Abrams, Lynn
+      1 Abel, C.G.
+      1 Abbott, Mary
