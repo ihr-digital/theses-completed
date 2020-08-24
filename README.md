@@ -93,9 +93,9 @@ _History type_
 
 ## Some example data searches using grep
 
-To work with the data you will need a local copy on your machine. If you have the gree Git program installed you can either use a graphical program (such as GitKraken) or the command line to /clone/ the data. From the command line run:
+To work with the data you will need a local copy on your machine. If you have the free Git program installed you can either use a graphical program (such as GitKraken) or the command line to _clone_ the data. From the command line you would run:
 
-git clone https://github.com/ihr-digital/theses-completed/
+```git clone https://github.com/ihr-digital/theses-completed/```
 
 If you don't want to do this, click on the green 'Code' button on the page above and choose 'Download ZIP'.
 
